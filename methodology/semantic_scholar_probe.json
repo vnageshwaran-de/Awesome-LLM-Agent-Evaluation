@@ -1,0 +1,9 @@
+{
+ "source": "Semantic Scholar Graph API",
+ "access": "free, keyless (no credentials required)",
+ "queried": "2026-06-09",
+ "method": "bulk search (LLM|large language model)(agent|agentic)(benchmark|evaluation), 2023-2026, plus title-match probe",
+ "result": "reachable; returns the agent-evaluation literature; canonical-benchmark probe confirmed (SWE-bench, arXiv 2310.06770, indexed)",
+ "status": "RESOLVED:searched_corroborating_probe",
+ "note": "Title-restricted harvest is not supported by the API (relevance search over title+abstract); treated as a coverage probe like Scopus. Corroborates OpenAlex; adds no canonical benchmark. Reclassified from the original UNRESOLVED:no_credentials, which was overcautious."
+}

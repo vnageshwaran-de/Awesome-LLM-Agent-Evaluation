@@ -1,0 +1,7 @@
+source,tier,probe_found,probe_of,probe_recall,n_inscope,overlap_m_with_OA,N_hat,estimated_recall,recall_gap
+OpenAlex,1,10,10,1.0,259,-,3363.7,0.077,0.923
+Crossref,1b,4,10,0.4,219,16,(engine),(engine),(engine)
+ScienceDirect,2,0,10,0.00,785 (count_only_verified),UNRESOLVED:zero_overlap,declined,-,-
+IEEE Xplore,2,0,10,0.00,962 (count_only_verified),UNRESOLVED:zero_overlap,declined,-,-
+ACM DL,2,0,10,0.00,17231 (BROAD_EXPANSION),UNRESOLVED:zero_overlap,declined,-,-
+Scopus,3,9,10,0.90,4836 (count_only_verified),9/10 probe (corpus m export_gated),UNRESOLVED:export_gated,-,-

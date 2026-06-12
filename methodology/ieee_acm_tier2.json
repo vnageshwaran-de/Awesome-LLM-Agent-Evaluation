@@ -1,0 +1,59 @@
+{
+  "captured": "2026-06-08",
+  "method": "authenticated browser UI (institutional: University of the Cumberlands); per-title probe lookups run one-at-a-time with delays; no bulk export, no CAPTCHA bypass.",
+  "sources": {
+    "ieee_xplore": {
+      "database": "IEEE Xplore",
+      "tier": 2,
+      "access": "authenticated (logged in)",
+      "registration_query": {
+        "query": "(\"Abstract\":\"Large Language Model\" OR \"Abstract\":LLM) AND (\"Abstract\":Agent OR \"Abstract\":Autonomous) AND (\"All Metadata\":Evaluation OR \"All Metadata\":Benchmark)",
+        "date_range": "2023-2026",
+        "url": "https://ieeexplore.ieee.org/search/searchresult.jsp?queryText=(%22Abstract%22:%22Large%20Language%20Model%22%20OR%20%22Abstract%22:LLM)%20AND%20(%22Abstract%22:Agent%20OR%20%22Abstract%22:Autonomous)%20AND%20(%22All%20Metadata%22:Evaluation%20OR%20%22All%20Metadata%22:Benchmark)&ranges=2023_2026_Year",
+        "result_count": 962,
+        "field_scoping": "honored (Abstract + All Metadata field codes accepted by IEEE query syntax)",
+        "status": "count_only_verified",
+        "captcha": false
+      },
+      "probe_recall": "0/10",
+      "probe_note": "All probe queries return only works CITING the benchmarks; IEEE Xplore hosts none of the 10 canonical benchmark papers (they are arXiv / ACL / NeurIPS / ICLR)."
+    },
+    "acm_dl": {
+      "database": "ACM Digital Library",
+      "tier": 2,
+      "access": "authenticated (logged in)",
+      "registration_query": {
+        "query_intended": "Abstract:(\"Large Language Model\" OR \"LLM\") AND Abstract:(Agent OR Autonomous) AND Keyword:(Evaluation OR Benchmark)",
+        "query_as_executed": "[[All: 'large language model'] OR [All: llm]] AND [[All: agent] OR [All: autonomous]] AND [[All: evaluation] OR [All: benchmark]] AND [E-Publication Date: 01/01/2023 TO 06/30/2026]",
+        "url": "https://dl.acm.org/action/doSearch?AllField=%28%22Large+Language+Model%22+OR+LLM%29+AND+%28agent+OR+autonomous%29+AND+%28evaluation+OR+benchmark%29&AfterYear=2023&BeforeYear=2026",
+        "result_count": 17231,
+        "field_scoping": "broad_expansion",
+        "field_scoping_evidence": "ACM URL interface degraded Abstract:/Keyword: field codes to All-field (page title shows [All: ...] for every clause). The count is therefore an over-broad all-field count, NOT the field-restricted count, exactly as the protocol anticipated.",
+        "status": "count_only_broad_expansion",
+        "captcha": false
+      },
+      "probe_recall": "0/10",
+      "probe_note": "All-field probes return surveys and derivative works citing the benchmarks; ACM DL hosts none of the 10 canonical benchmark papers themselves."
+    }
+  },
+  "probe_lookups": [
+    {"benchmark": "AgentBench",     "ieee": {"hits": 2,  "found": 0, "top": "AutoGen-TraceKit: Process-Aware Evaluation of LLM Agents"},        "acm": {"hits": 50,  "found": 0, "top": "Survey of Emerging Trends in LLM Agent Benchmarking"}},
+    {"benchmark": "SWE-bench",      "ieee": {"hits": 19, "found": 0, "top": "SPICE: Automated SWE-Bench Labeling Pipeline"},                      "acm": {"hits": 137, "found": 0, "top": "Wily: High-Performance Complexity Gated-Feedback for AI Coding Agents"}},
+    {"benchmark": "GAIA",           "ieee": {"hits": 0,  "found": 0, "top": null},                                                                "acm": {"hits": 5,   "found": 0, "top": "DeepAgent: A General Reasoning Agent with Scalable Toolsets"}},
+    {"benchmark": "AppWorld",       "ieee": {"hits": 0,  "found": 0, "top": null},                                                                "acm": {"hits": 15,  "found": 0, "top": "AgentFixer: From Failure Detection to Fix Recommendations"}},
+    {"benchmark": "OSWorld",        "ieee": {"hits": 2,  "found": 0, "top": "BEAP-Agent: Backtrackable Execution and Adaptive Planning for GUI Agents"}, "acm": {"hits": 22, "found": 0, "top": "Survey of Emerging Trends in LLM Agent Benchmarking"}},
+    {"benchmark": "MLE-bench",      "ieee": {"hits": 0,  "found": 0, "top": null},                                                                "acm": {"hits": 6,   "found": 0, "top": "Survey of Emerging Trends in LLM Agent Benchmarking"}},
+    {"benchmark": "DataSciBench",   "ieee": {"hits": 0,  "found": 0, "top": null},                                                                "acm": {"hits": 1,   "found": 0, "top": "LLMs for Constructing and Optimizing ML Workflows: A Survey"}},
+    {"benchmark": "AgentBoard",     "ieee": {"hits": 1,  "found": 0, "top": "Selective Memory Sharing in Multi-Agent LLM Teams via AgentGym-RL"},  "acm": {"hits": 8,   "found": 0, "top": "AgentGen: Enhancing Planning Abilities for LLM-based Agent"}},
+    {"benchmark": "VisualWebArena", "ieee": {"hits": 0,  "found": 0, "top": null},                                                                "acm": {"hits": 14,  "found": 0, "top": "Cross-View Consistency Checking for Multimodal Web Agents"}},
+    {"benchmark": "ToolEmu",        "ieee": {"hits": 1,  "found": 0, "top": "CAPRI-DP: Differentially Private Extension to Context-Aware Multi-Agent Privacy"}, "acm": {"hits": 16, "found": 0, "top": "Agentic AI in Healthcare: Opportunities, Challenges"}}
+  ],
+  "interpretation": {
+    "probe_recall_ieee": "0/10",
+    "probe_recall_acm": "0/10",
+    "probe_gap_vs_expanded_union": 0.0,
+    "key_finding": "Adding IEEE Xplore (962 field-scoped) and ACM DL (17231 broad_expansion) to the source union leaves the probe gap at 0: OpenAlex still contains every probe benchmark that any source hosts. Both commercial DBs index a large derivative/citing literature but none of the canonical benchmark papers themselves, which are published on arXiv/ACL/NeurIPS/ICLR.",
+    "capture_recapture": "Declined for both: probe overlap m=0 on the probe set and same-population assumption violated (these DBs do not host this literature class). Marked UNRESOLVED:zero_overlap_same_population_violated.",
+    "label": "estimate-supporting evidence; probe columns verified via live authenticated UI"
+  }
+}

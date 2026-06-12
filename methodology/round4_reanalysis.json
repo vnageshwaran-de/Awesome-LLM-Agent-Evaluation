@@ -1,0 +1,217 @@
+{
+  "item2_recall": {
+    "index_coverage_recall": "10/10 (OpenAlex hosts the record)",
+    "stream_only_recall": "5/10",
+    "stream_only_fraction": 0.5,
+    "per_benchmark": [
+      {
+        "benchmark": "AgentBench",
+        "oa_id": "W4385682136",
+        "via_query_stream": true,
+        "via_seed_only": false,
+        "query_streams": [
+          "LLM agents evaluation"
+        ],
+        "seed_tags": [
+          "seed:AgentBench"
+        ]
+      },
+      {
+        "benchmark": "SWE-bench",
+        "oa_id": "W4387561453",
+        "via_query_stream": false,
+        "via_seed_only": true,
+        "query_streams": [],
+        "seed_tags": [
+          "seed:SWE-bench"
+        ]
+      },
+      {
+        "benchmark": "GAIA",
+        "oa_id": "W4388964563",
+        "via_query_stream": false,
+        "via_seed_only": true,
+        "query_streams": [],
+        "seed_tags": [
+          "seed:GAIA"
+        ]
+      },
+      {
+        "benchmark": "AppWorld",
+        "oa_id": "W4402671485",
+        "via_query_stream": true,
+        "via_seed_only": false,
+        "query_streams": [
+          "agent benchmark",
+          "agentic benchmark"
+        ],
+        "seed_tags": [
+          "seed:AppWorld"
+        ]
+      },
+      {
+        "benchmark": "OSWorld",
+        "oa_id": "W4415797693",
+        "via_query_stream": true,
+        "via_seed_only": false,
+        "query_streams": [
+          "agent benchmark",
+          "agentic benchmark"
+        ],
+        "seed_tags": [
+          "seed:OSWorld"
+        ]
+      },
+      {
+        "benchmark": "MLE-bench",
+        "oa_id": "W4403345800",
+        "via_query_stream": false,
+        "via_seed_only": true,
+        "query_streams": [],
+        "seed_tags": [
+          "seed:MLE-bench"
+        ]
+      },
+      {
+        "benchmark": "DataSciBench",
+        "oa_id": "W4407780297",
+        "via_query_stream": true,
+        "via_seed_only": false,
+        "query_streams": [
+          "agent benchmark",
+          "agentic benchmark"
+        ],
+        "seed_tags": [
+          "seed:DataSciBench"
+        ]
+      },
+      {
+        "benchmark": "AgentBoard",
+        "oa_id": "W4391244521",
+        "via_query_stream": true,
+        "via_seed_only": false,
+        "query_streams": [
+          "LLM agents evaluation"
+        ],
+        "seed_tags": [
+          "seed:AgentBoard"
+        ]
+      },
+      {
+        "benchmark": "VisualWebArena",
+        "oa_id": "W4402667024",
+        "via_query_stream": false,
+        "via_seed_only": true,
+        "query_streams": [],
+        "seed_tags": [
+          "seed:VisualWebArena"
+        ]
+      },
+      {
+        "benchmark": "ToolEmu",
+        "oa_id": "W4387164935",
+        "via_query_stream": false,
+        "via_seed_only": true,
+        "query_streams": [],
+        "seed_tags": [
+          "seed:ToolEmu"
+        ]
+      }
+    ],
+    "note": "Index coverage = record exists in OpenAlex (seed fetch by name). Stream recall = retrieved by one of the six topical title-query streams."
+  },
+  "item6_scientific_discovery": {
+    "coder": "keyword_heuristic (machine); taxonomy flagged needs_human_verification=True",
+    "original_keywords": [
+      "scientif",
+      "research",
+      "discovery",
+      "experiment",
+      "data science",
+      "ml engineering"
+    ],
+    "original_share": "103/259 = 39.8%",
+    "corrected_keywords": [
+      "scientif",
+      "discovery",
+      "data science",
+      "ml engineering"
+    ],
+    "corrected_share": "13/259 = 5.0%",
+    "corrected_by_year": {
+      "2023": {
+        "flagged": 0,
+        "n": 41,
+        "share": 0.0
+      },
+      "2024": {
+        "flagged": 8,
+        "n": 109,
+        "share": 0.073
+      },
+      "2025": {
+        "flagged": 4,
+        "n": 88,
+        "share": 0.045
+      },
+      "2026": {
+        "flagged": 1,
+        "n": 21,
+        "share": 0.048
+      }
+    },
+    "corrected_flagged_titles": [
+      "Design and evaluation of an Autonomous Cyber Defence agent using DRL and an augmented LLM",
+      "MatPlotAgent: Method and Evaluation for LLM-Based Agentic Scientific Data Visualization",
+      "Benchmarking Data Science Agents",
+      "DA-Code: Agent Data Science Code Generation Benchmark for Large Language Models",
+      "CORE-Bench: Fostering the Credibility of Published Research Through a Computational Reproducibility Agent Benchmark",
+      "Agentic AI in Healthcare and Medicine: A Seven-Dimensional Taxonomy for Empirical Evaluation of LLM-Based Agents",
+      "RedTeamAI: A Benchmark for Assessing Autonomous Cybersecurity Agents",
+      "MCP-Bench: Benchmarking Tool-Using LLM Agents with Complex Real-World Tasks via MCP Servers",
+      "DCA-Bench: A Benchmark for Dataset Curation Agents",
+      "MMAU: A Holistic Benchmark of Agent Capabilities Across Diverse Domains",
+      "Proposal for a Flexible Benchmark for Agent Based Models",
+      "BioKGBench: A Knowledge Graph Checking Benchmark of AI Agent for Biomedical Science",
+      "ScienceAgentBench: Toward Rigorous Assessment of Language Agents for Data-Driven Scientific Discovery"
+    ]
+  },
+  "item1_year_stratified": {
+    "claim_under_test": "2026 multi-agent share ~0.43 (up), open-source share ~0.24 (down)",
+    "method": "included codes from taxonomy; set-aside coded from abstract/title with same lexicon",
+    "by_year": {
+      "2023": {
+        "n_included": 41,
+        "n_with_setaside": 42,
+        "multiagent_share_included_only": 0.195,
+        "multiagent_share_with_setaside": 0.19,
+        "opensource_share_included_only": 0.341,
+        "opensource_share_with_setaside": 0.333
+      },
+      "2024": {
+        "n_included": 109,
+        "n_with_setaside": 116,
+        "multiagent_share_included_only": 0.174,
+        "multiagent_share_with_setaside": 0.19,
+        "opensource_share_included_only": 0.376,
+        "opensource_share_with_setaside": 0.379
+      },
+      "2025": {
+        "n_included": 88,
+        "n_with_setaside": 176,
+        "multiagent_share_included_only": 0.216,
+        "multiagent_share_with_setaside": 0.205,
+        "opensource_share_included_only": 0.352,
+        "opensource_share_with_setaside": 0.358
+      },
+      "2026": {
+        "n_included": 21,
+        "n_with_setaside": 161,
+        "multiagent_share_included_only": 0.429,
+        "multiagent_share_with_setaside": 0.174,
+        "opensource_share_included_only": 0.238,
+        "opensource_share_with_setaside": 0.329
+      }
+    }
+  }
+}

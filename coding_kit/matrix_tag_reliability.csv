@@ -1,0 +1,15 @@
+axis,tag,n,n_present_A,n_present_B,percent_agreement,kappa,interpretation
+W,W1,17,16,14,0.765,-0.097,poor
+W,W2,17,14,5,0.471,0.164,slight
+W,W3,17,14,15,0.941,0.767,substantial
+W,W4,17,11,9,0.882,0.761,substantial
+W,W5,17,1,1,1.0,1.0,almost perfect
+W,W6,17,3,1,0.882,0.452,moderate
+H,H1,17,17,16,0.941,0.0,slight
+H,H2,17,4,2,0.882,0.605,substantial
+H,H3,17,0,0,1.0,UNDEFINED:no_variance,
+E,E1,17,2,2,1.0,1.0,almost perfect
+E,E2a,17,3,2,0.941,0.767,substantial
+E,E2b,17,7,8,0.824,0.643,substantial
+E,E2c,17,6,7,0.941,0.876,almost perfect
+E,E2d,17,4,4,1.0,1.0,almost perfect

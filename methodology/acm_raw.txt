@@ -1,0 +1,221 @@
+Automatically Benchmarking LLM Code Agents through Agent-driven Annotation and Evaluation ~~ /doi/10.65109/HJFB4234
+Session Summary Podcast: Session 3: Agentic System Evaluation ~~ /doi/10.5555/3786167.3818234
+SBOMs into Agentic AIBOMs: Schema Extensions, Agentic Orchestration and Reproducibility Evaluation ~~ /doi/10.1145/3798285
+What Is Your AI Agent Buying? Evaluation, Biases, Model Dependence, & Emerging Implications of Agentic E-Commerce ~~ /doi/10.1145/3774904.3792943
+REALM-Bench: A Benchmark for Evaluating Multi-Agent Systems on Real-world, Dynamic Planning and Scheduling Tasks ~~ /doi/10.1145/3770854.3785692
+FinAgentBench: A Benchmark Dataset for Agentic Retrieval in Financial Question Answering ~~ /doi/10.1145/3768292.3770362
+CPEMH: An Agentic Framework for Prompt-Driven Behavior Evaluation and Assurance in Foundation-Model Systems for Mental Health Screening ~~ /doi/10.1145/3786167.3788419
+MoralityGym: A Benchmark for Evaluating Hierarchical Moral Alignment in Sequential Decision-Making Agents ~~ /doi/10.65109/SAKL6648
+BusEnv: A Multi-agent Reinforcement Learning Environment and Benchmark for Urban Public Transportation ~~ /doi/10.65109/CYHA2042
+Security Analysis of Agentic AI Communication Protocols: A Comparative Evaluation ~~ /doi/10.1145/3803431
+A Catalogue of Evaluation Metrics for LLM-Based Multi-Agent Frameworks in Software Engineering ~~ /doi/10.1145/3786167.3788430
+Towards a framework for Bias Evaluation of AI Agents in Agentic Workflows ~~ /doi/10.1145/3777490.3777504
+Beyond Task Completion: An Assessment Framework for Evaluating Agentic AI Systems ~~ /doi/10.1145/3786167.3788414
+Agentic Performance at the Edge: Insights from Benchmarking ~~ /doi/10.1145/3812836.3814741
+SusBench: An Online Benchmark for Evaluating Dark Pattern Susceptibility of Computer-Use Agents ~~ /doi/10.1145/3742413.3789111
+DraftNEPABench: A Benchmark for Drafting NEPA Document Sections with Coding Agents ~~ /doi/10.1145/3786335.3813132
+FinReflectKG: Agentic Construction and Evaluation of Financial Knowledge Graphs ~~ /doi/10.1145/3768292.3770363
+TEME: A Multi-Agent Evaluation Framework for Spanish Medical Speech Recognition ~~ /doi/10.65109/RHNT7438
+AgenticShop: Benchmarking Agentic Product Curation for Personalized Web Shopping ~~ /doi/10.1145/3774904.3792724
+From Model Diagram to Code: A Benchmark Dataset and Multi-Agent Framework ~~ /doi/10.1145/3746027.3755425
+AI Ethics & Policy Column: Challenges Presented by Agentic AI - We Need Appropriate Evaluation, Literacy, and Governance ~~ /doi/10.1145/3811926.3811932
+MOSMAC: A Multi-agent Reinforcement Learning Benchmark on Sequential Multi-Objective Tasks ~~ /doi/10.5555/3709347.3743605
+Arena: Benchmarking AI Agent Frameworks Under Fixed-Model Conditions ~~ /doi/10.1145/3786335.3813233
+Towards Generalizable Motion Evaluation in Digital Arts Education: A Zero-Shot Agentic Framework ~~ /doi/10.1145/3799457.3799648
+ELT-Bench: An End-to-End Benchmark for Evaluating AI Agents on ELT Pipelines ~~ /doi/10.14778/3773749.3773750
+KDD Workshop on Evaluation and Trustworthiness of Agentic and Generative AI ~~ /doi/10.1145/3711896.3737854
+LLMEvalRec: An Agentic Framework for Simulating Users to Evaluate News Recommendation Systems ~~ /doi/10.65109/EFZY6916
+DocETL: Agentic Query Rewriting and Evaluation for Complex Document Processing ~~ /doi/10.14778/3746405.3746426
+Evaluation and Benchmarking of LLM Agents: A Survey ~~ /doi/10.1145/3711896.3736570
+Heuristics Based User Experience Evaluation for Identifying Challenges in IoT Enabled Conversational Agent Design ~~ /doi/10.1145/3765766.3765824
+Exploring Recommender System Evaluation: A Multi-Modal LLM Agent Framework for A/B Testing ~~ /doi/10.1145/3770854.3785688
+GCMRBench: Goal-Conditioned Multi-Robot Environments and Benchmarks for Advancing Offline Multi-Agent Reinforcement Learning ~~ /doi/10.65109/HRLQ1652
+GeoBenchX: Benchmarking LLMs in Agent Solving Multistep Geospatial Tasks ~~ /doi/10.1145/3764915.3770721
+Empirical Evaluation of Driving Behavior Improvements through Continuous Use of a Driver Agent ~~ /doi/10.1145/3776734.3794370
+FinResearchBench: A Logic Tree based Agent-as-a-Judge Evaluation Framework for Financial Research Agents ~~ /doi/10.1145/3768292.3770364
+Towards the Embodied Conversational Interview Agentic Service ELIAS: Development and Evaluation of a First Prototype ~~ /doi/10.1145/3708319.3733810
+Valkyrie: A Microservice-Based Framework for Scalable Evaluation of AI Agents ~~ /doi/10.1145/3786335.3813231
+AGENT-CQ: Automatic Generation and Evaluation of Clarifying Questions for Conversational Search with Large Language Models ~~ /doi/10.1145/3809182
+Does Safety Molt? Evaluating LLM Safety in Multi-Agent Social Environments ~~ /doi/10.1145/3786335.3813173
+Enhancing Medical AI Safety Through Multi-Agent Evaluation and Iterative Refinement ~~ /doi/10.1145/3765612.3768142
+TaxAI: A Dynamic Economic Simulator and Benchmark for Multi-agent Reinforcement Learning ~~ /doi/10.5555/3635637.3662998
+Beyond Static Evaluation: Rethinking the Assessment of Personalized Agent Adaptability in Information Retrieval ~~ /doi/10.1145/3767695.3769484
+Research on Modeling Simulation and Performance Evaluation of Multi-Agent Cooperative Tasks ~~ /doi/10.1145/3797161.3797164
+A Sim-to-Real Benchmark and Analysis of Open-Source Vision and Language Agents for PTZ Camera Tasks ~~ /doi/10.1145/3757279.3785641
+Guiding, Not Railroading: Design and Evaluation of a Multi-Agent System for Narrative Redirection in Role-playing Games ~~ /doi/10.1145/3742413.3789218
+DCA-Bench: A Benchmark for Dataset Curation Agents ~~ /doi/10.1145/3711896.3737422
+Benchmarking the DeepResearch Agent in the Game Domain ~~ /doi/10.1145/3807246.3807324
+UAV-ON: A Benchmark for Open-World Object Goal Navigation with Aerial Agents ~~ /doi/10.1145/3746027.3758251
+Comparative Evaluation of Local vs. Cloud LLMs and a Multi-Agent System for Sentiment Feature Extraction ~~ /doi/10.1145/3789982.3790000
+Autonomous Research Loops: An LLM-Agent Framework for End-to-End ML Experimentation, Manuscripting, and Self-Evaluation ~~ /doi/10.1145/3802133.3802134
+An Intelligent Multi-Agent Framework for Automated Drafting and Compliance Optimization of Cadre Evaluation Materials ~~ /doi/10.1145/3788910.3788939
+Interdisciplinary Knowledge Graph-Driven STEM Teacher Assistant Agent: Model Construction and Evaluation ~~ /doi/10.1145/3768421.3768501
+Precision Transformation of Academic Guidance for College Students with AI Agent Assistance: Needs Analysis, Model Construction, and Effectiveness Evaluation ~~ /doi/10.1145/3802607.3802619
+Collaborate, Deliberate, Evaluate: How LLM Alignment Affects Coordinated Multi-Agent Outcomes ~~ /doi/10.65109/UQPO8536
+Active Evaluation of General Agents: Problem Definition and Comparison of Baseline Algorithms ~~ /doi/10.65109/PUBN4692
+Survey of Emerging Trends in LLM Agent Benchmarking ~~ /doi/10.1145/3784013.3784018
+Evaluating XAI Support From A Hierarchical Reinforcement Learning Policy in Human-Agent Collaboration ~~ /doi/10.65109/HDMG2174
+LLM-Driven Agent-Based Evaluation Framework for Occupant-Centric HVAC Control Considering Individual Differences and Movement Behavior ~~ /doi/10.1145/3736425.3772325
+Design and Evaluation of Generative Agent-based Platform for Human-Assistant Interaction Research: A Tale of 10 User Studies ~~ /doi/10.1145/3770661
+Benchmarking Agents in Insurance Underwriting Environments ~~ /doi/10.1145/3786335.3813156
+A Comprehensive Evaluation Framework for Multi-Agent Reinforcement Learning ~~ /doi/10.1145/3719545.3759089
+Construction of a Retrieval-Augmented LLM Agent for Health Education and a Multi-dimensional Evaluation Framework: A Comparative Study of Chinese Large Language Models ~~ /doi/10.1145/3806980.3806990
+QD-MAPPER: A Quality Diversity Framework to Automatically Evaluate Multi-Agent Path Finding Algorithms in Diverse Maps ~~ /doi/10.65109/UZVN6052
+EnEnv 1.0: Energy Grid Environment for Multi-Agent Reinforcement Learning Benchmarking ~~ /doi/10.5555/3709347.3743550
+Session Summary Podcast: Session 2: Papers: Evaluation & Benchmarking ~~ /doi/10.5555/3786335.3818212
+Simurgh: Multi-Agent Adversarial Benchmarking for Proactive Microservice Observability ~~ /doi/10.1145/3748496.3748991
+An LLM-based Agentic Framework for Accessible NetworkControl ~~ /doi/10.1145/3764944.3764949
+Bons-AI: An Agent-Based Model to Evaluate the Behavior of Bonsai Grower According to Different Levels of Communication and Experience ~~ /doi/10.65109/UHQU6299
+TRACE: Trajectory-Aware Comprehensive Evaluation for Deep Research Agents ~~ /doi/10.1145/3774904.3792738
+An Extended Benchmarking of Multi-Agent Reinforcement Learning Algorithms in Complex Fully Cooperative Tasks ~~ /doi/10.5555/3709347.3743796
+Demo Abstract: GIDEA: Generative AI-Powered Interactive Design and Evaluation Platform for Assistant Agent Research ~~ /doi/10.1145/3715014.3724368
+GrowthHacker: Automated Off-Policy Evaluation Optimization Using Code-Modifying LLM Agents ~~ /doi/10.1145/3815588
+On the Limits for Web Accessibility Evaluation Using AI Agents ~~ /doi/10.1145/3800424.3800445
+DriveEval-Agent: A Closed-Loop Framework Combining Zero-Shot Benchmarking and Full Fine-Tuning for Multimodal Autonomous Driving ~~ /doi/10.1145/3743093.3770936
+EvalAgent: Interactive Comparative Evaluation of Computer-Using GUI Agents ~~ /doi/10.1145/3742414.3795096
+Quantitative and qualitative evaluation of the acceptability of an Embodied Conversational Agent for insomnia screening ~~ /doi/10.1145/3652988.3673940
+A Review of User Experience Evaluation Methods for Intelligent Virtual Agents: A Study of Multi-dimensional Frameworks and Application Scenarios ~~ /doi/10.1145/3765766.3765862
+Enhancing Compliance Training with LLM-Powered Conversational Agents: A Design Science Evaluation of FERPA Education ~~ /doi/10.1145/3768310.3807798
+Toward Sensor-In-the-Loop LLM Agent: Benchmarks and Implications ~~ /doi/10.1145/3715014.3722082
+Can AI Deliberate? Evaluating Deliberative Quality and Stance Flow in Multi-Agent LLMs ~~ /doi/10.1145/3772363.3798877
+Third Workshop on Human-Centered Evaluation and Auditing of Language Models: AI Agents-in-the-Loop ~~ /doi/10.1145/3772363.3778709
+Mosaic: A Multi-Level Framework for Observing and Evaluating Performance of Multi-Agent Systems ~~ /doi/10.1145/3772363.3798830
+Joint Evaluation : A Human + LLM + Multi-Agents Collaborative Framework for Comprehensive AI Safety (Jo.E) ~~ /doi/10.1145/3779211.3795738
+German and Dutch Translations of the Artificial-Social-Agent Questionnaire Instrument for Evaluating Human-Agent Interactions ~~ /doi/10.1145/3652988.3673928
+ViBench: A Benchmark on Vibe Coding ~~ /doi/10.1145/3786335.3813162
+CAIM: Development and Evaluation of a Cognitive AI Memory Framework for Long-Term Interaction with Intelligent Agents ~~ /doi/10.1145/3742413.3789222
+LLM Agents for Interactive Workflow Provenance: Reference Architecture and Evaluation Methodology ~~ /doi/10.1145/3731599.3767582
+Evaluating and Improving Graph-based Explanation Methods for Multi-Agent Coordination ~~ /doi/10.5555/3709347.3743941
+Evaluating the Predictability of Disaster Evacuation Behavior using LLM Agent Simulations ~~ /doi/10.1145/3764925.3770907
+Evaluating User Preferences for Gender and Embodiment Scope in Human-Agent Interaction Systems ~~ /doi/10.1145/3786995.3787057
+Evaluating Social Acceptance of eXtended Reality (XR) Agent Technology: A User Study ~~ /doi/10.1145/3750069.3750317
+Benchmarking Memory Architectures for Mobile Agents in Short-Term and Long-Term Applications ~~ /doi/10.1145/3812836.3814752
+Research on Quality Evaluation System and Methods for Cloud-Native Agents ~~ /doi/10.1145/3768184.3768223
+GENEA Workshop 2025: The 6th Workshop on Generation and Evaluation of Non-verbal Behaviour for Embodied Agents ~~ /doi/10.1145/3746027.3762105
+OpenMCP: an open-source self-hosted benchmarking harness for MCP-enabled computer use agents ~~ /doi/10.1145/3805621.3807649
+Benchmarking the Overhead of Distributed Tracing Agents ~~ /doi/10.1145/3777884.3797004
+ES-MemEval: Benchmarking Conversational Agents on Personalized Long-Term Emotional Support ~~ /doi/10.1145/3774904.3792143
+ColorBench: Benchmarking Mobile Agents with Graph-Structured Framework for Complex Long-Horizon Tasks ~~ /doi/10.1145/3774904.3792215
+Alan's Speakeasy - An Ecosystem for the Evaluation of Conversational Agents ~~ /doi/10.1145/3701716.3715165
+A Holistic Evaluation Methodology for Multi-Party Spoken Conversational Agents ~~ /doi/10.1145/3652988.3673966
+Socio-Normative Trustworthiness of LLM Agents: Evaluating Autonomy Support and Representational Fairness Across Languages and Identities ~~ /doi/10.65109/LCHB2977
+Beyond Accuracy: Cybersecurity Resilience Evaluation of Intrusion Detection System against DOS Attacks Using Agent-Based Simulation ~~ /doi/10.5555/3643142.3643151
+Team incubation and agency operation effect evaluation and decision-making science of all media matrix under industrial Internet ~~ /doi/10.1145/3756423.3756552
+OWLViz: An Open-World Benchmark for Visual Question Answering ~~ /doi/10.65109/EPVO9609
+Evaluating Large Language Models through Communication Games: An Agent-Based Framework Using Werewolf in Unity ~~ /doi/10.1145/3723498.3723702
+Large Language Model Agents for Investment Management: Foundations, Benchmarks, and Research Frontiers ~~ /doi/10.1145/3768292.3770387
+Building Conversational Agents for Stroke Rehabilitation: An Evaluation of Large Language Models and Retrieval Augmented Generation ~~ /doi/10.1145/3652988.3673924
+Hijacking JARVIS: Benchmarking Mobile GUI Agents against Unprivileged Third Parties ~~ /doi/10.1145/3737902.3768354
+MVISU-Bench: Benchmarking Mobile Agents for Real-World Tasks by Multi-App, Vague, Interactive, Single-App and Unethical Instructions ~~ /doi/10.1145/3746027.3755695
+BEHAVE AI: BEst Practices and Guidelines for Human-Centric Design and EvAluation of ProactiVE AI Agents ~~ /doi/10.1145/3708557.3716155
+FormFactory: An Interactive Benchmarking Suite for Multimodal Form-Filling Agents ~~ /doi/10.1145/3746027.3758285
+Playing Dumb to Get Smart: Creating and Evaluating an LLM-based Teachable Agent within University Computer Science Classes ~~ /doi/10.1145/3706598.3713644
+Effects of Presentation Modalities in Virtual Museum Guides on Agent Impressions and Painting Evaluations. ~~ /doi/10.1145/3623809.3623958
+From Interaction to Impact: Towards Safer AI Agent Through Understanding and Evaluating Mobile UI Operation Impacts ~~ /doi/10.1145/3708359.3712153
+Multi-Agent Reinforcement Learning for Decentralized Reservoir Management via Murmuration Intelligence ~~ /doi/10.1145/3764944.3764953
+Towards a Playground to Democratize Experimentation and Benchmarking of AI Agents for Network Troubleshooting ~~ /doi/10.1145/3748496.3748990
+HumanEvalComm: Benchmarking the Communication Competence of Code Generation for LLMs and LLM Agents ~~ /doi/10.1145/3715109
+MALLM: Multi-Agent Decision-Making with LLMs for Multi-User Edge-Sensor Environments ~~ /doi/10.1145/3764944.3764947
+Benchmarking Robustness and Generalization in Multi-Agent Systems: A Case Study on Neural MMO ~~ /doi/10.5555/3545946.3598978
+Generating and Evaluating Data of Daily Activities with an Autonomous Agent in a Virtual Smart Home ~~ /doi/10.1145/3665331
+GENEA Workshop 2024: The 5th Workshop on Generation and Evaluation of Non-verbal Behaviour for Embodied Agents ~~ /doi/10.1145/3678957.3688818
+RobustExplain: Evaluating Robustness of LLM-Based Explanation Agents for Recommendation ~~ /doi/10.1145/3774905.3795729
+Evaluating LLM-based Agents for Multi-turn Conversations: A Survey ~~ /doi/10.1145/3793671
+A Risk Ontology for Evaluating AI-Powered Psychotherapy Virtual Agents ~~ /doi/10.1145/3717511.3749286
+DEBP-PVA: Designing and Evaluating Behavioral Paradigms With Proactive Virtual Agents ~~ /doi/10.1145/3742886.3758118
+Evaluating Perceived Realism of Micro-Movement Strategies in Artificial Social Agents ~~ /doi/10.1145/3717511.3749304
+Exploration, Collaboration, and Applications in Multi-Agent Reinforcement Learning ~~ /doi/10.1145/3712170.3712181
+"Shall We Dig Deeper?": Designing and Evaluating Strategies for LLM Agents to Advance Knowledge Co-Construction in Asynchronous Online Discussions ~~ /doi/10.1145/3772318.3790551
+ImpReSS: Designing and Evaluating a Lightweight Implicit Recommender System in Conversational Support Agents ~~ /doi/10.1145/3742413.3789151
+Evaluating a Mechanism for Explaining BDI Agent Behaviour ~~ /doi/10.5555/3545946.3598908
+Evaluation of embodied conversational agents designed with ethical principles and personality for cybersecurity ethics training ~~ /doi/10.1145/3570945.3607359
+NuevAI: Streamlined Dataset Generator and Human Evaluator System for Development of Pedagogical Conversational Agents ~~ /doi/10.1145/3750069.3750094
+Prompt-Gaming: A Pilot Study on LLM-Evaluating Agent in a Meaningful Energy Game ~~ /doi/10.1145/3613905.3650774
+Imitation Learning Datasets: A Toolkit For Creating Datasets, Training Agents and Benchmarking ~~ /doi/10.5555/3635637.3663292
+Agent-Driven Automatic Software Improvement ~~ /doi/10.1145/3661167.3661171
+Evaluating Text-based Conversational Agents for Mental Health: A Systematic Review of Metrics, Methods and Usage Contexts ~~ /doi/10.1145/3786995.3787027
+EvalAgent: Towards Evaluating News Recommender Systems with LLM-based Agents ~~ /doi/10.1145/3746252.3761127
+Evaluating the Robustness of Multimodal Agents Against Active Environmental Injection Attacks ~~ /doi/10.1145/3746027.3755646
+Designing and Evaluating In-Situ Assistive Features to Anticipate Text-Based Responses of Conversational Agents ~~ /doi/10.1145/3750069.3750140
+On the Fair Allocation to Asymmetric Agents with Binary XOS Valuations ~~ /doi/10.65109/BSDW5494
+GENEA Workshop 2023: The 4th Workshop on Generation and Evaluation of Non-verbal Behaviour for Embodied Agents ~~ /doi/10.1145/3577190.3616856
+Using Agent-Based Simulations to Evaluate Bayesian Networks for Criminal Scenarios ~~ /doi/10.1145/3594536.3595125
+A Framework for Evaluating AI Agents in Open-Ended Conversations via Scripted Simulation ~~ /doi/10.1145/3711896.3737390
+IDAT: A Multi-Modal Dataset and Toolkit for Building and Evaluating Interactive Task-Solving Agents ~~ /doi/10.1145/3726302.3730300
+SEAR: Schema-Based Evaluation and Routing for LLM Gateways ~~ /doi/10.1145/3786335.3813131
+CommunityBots: Creating and Evaluating A Multi-Agent Chatbot Platform for Public Input Elicitation ~~ /doi/10.1145/3579469
+Relying on the Metrics of Evaluated Agents ~~ /doi/10.1145/3696410.3714864
+Robust Multi-Agent Bandits Over Undirected Graphs ~~ /doi/10.1145/3606376.3593567
+Scideator: Human-LLM Compound System for Scientific Ideation through Facet Recombination and Novelty Evaluation ~~ /doi/10.1145/3786335.3813161
+Resource Allocation to Strategic Agents under Cost Constraints ~~ /doi/10.1145/3788882.3788885
+Adaptive Learning Rates for Multi-Agent Reinforcement Learning ~~ /doi/10.5555/3545946.3598615
+Research on The Risk Factors and Evaluation Decision Method of The Grid Trading Agency ~~ /doi/10.1145/3582935.3583006
+Birds of a Feather Video-Flock Together: Design and Evaluation of an Agency-Based Parrot-to-Parrot Video-Calling System for Interspecies Ethical Enrichment. ~~ /doi/10.1145/3544548.3581166
+Online Multi-Agent Decentralized Byzantine-robust Gradient Estimation ~~ /doi/10.1145/3595244.3595258
+Evaluating Community Design through Simulating Social Interactions with Large Language Model-Based Agents ~~ /doi/10.1145/3758871.3758931
+Malcolm: Multi-agent Learning for Cooperative Load Management at Rack Scale ~~ /doi/10.1145/3606376.3593550
+How Government Agencies Evaluate Cybersecurity Capacity Building Outcomes: A Case of Malawi ~~ /doi/10.1145/3680127.3680177
+Global Convergence of Localized Policy Iteration in Networked Multi-Agent Reinforcement Learning ~~ /doi/10.1145/3606376.3593545
+Synthesis and Evaluation of Long-term History-aware Medical Dialogue ~~ /doi/10.65109/EFXQ8322
+From Compositional Petri Net Modeling to Macro and Micro Simulation by Means of Stochastic Simulation and Agent-Based Models ~~ /doi/10.1145/3617681
+Algorithmic Collusion at Test Time: A Meta-game Design and Evaluation ~~ /doi/10.65109/SVWG7670
+Shift, scale and restart smaller models to estimate larger ones: Agent based simulators in epidemiology ~~ /doi/10.1145/3595244.3595264
+Leveraging User Simulation to Develop and Evaluate Conversational Information Access Agents ~~ /doi/10.1145/3616855.3635730
+Can LLMs be Surprised? Evaluation and Analysis of Surprise Expression of LLMs ~~ /doi/10.1145/3765766.3765873
+One Robot, Many Minds: Factors Shaping Visitors' Evaluation of an Autonomous Museum Robot Guide ~~ /doi/10.1145/3765766.3765777
+How Well Do Large Language Models Serve as End-to-End Secure Code Agents for Python? ~~ /doi/10.1145/3756681.3756984
+On the Reliability of User Feedback for Evaluating the Quality of Conversational Agents ~~ /doi/10.1145/3583780.3615286
+A Methodology for Evaluating Multimodal Referring Expression Generation for Embodied Virtual Agents ~~ /doi/10.1145/3610661.3616548
+How Do People Evaluate Their Interactions with AI: A Qualitative Study of Emotionally Motivated AI Use and User Evaluation ~~ /doi/10.1145/3765766.3765852
+An Experimental Environment for Narrative Cue Evaluation in Virtual Reality ~~ /doi/10.1145/3717511.3749292
+Evaluation-Time Policy Switching for Offline Reinforcement Learning ~~ /doi/10.5555/3709347.3743786
+Evaluation of a Sign Language Avatar on Comprehensibility, User Experience & Acceptability ~~ /doi/10.1145/3742886.3756719
+Towards Sign Language Motion Generation from Blurred Videos: System Development and Evaluation ~~ /doi/10.1145/3742886.3756722
+Agents of Autonomy: A Systematic Study of Robotics on Modern Hardware ~~ /doi/10.1145/3673660.3655043
+First Experiments on Automated Execution of Gherkin Test Specifications with Collaborating LLM Agents ~~ /doi/10.1145/3678719.3685692
+Context Matters: Evaluating MCP-Based Context-Aware AI — A Case Study of Email Communications in Nonprofit Organizations ~~ /doi/10.1145/3786167.3788426
+benchmarking multi-agent reinforcement learning ~~ /doi/10.5555/3722577.3722794
+Diagnosing Faults in Deep Reinforcement Learning based Systems: Settings and Benchmarks ~~ /doi/10.65109/NSTI8981
+Empathy-Based communication Framework for Chatbots: A Mental Health Chatbot Application and Evaluation ~~ /doi/10.1145/3623809.3623865
+Designing Evaluation Metrics for Quality of Human-Robot Interaction in Guiding Human Behavior ~~ /doi/10.1145/3623809.3623835
+Rethinking Out-of-Distribution Detection for Reinforcement Learning: Advancing Methods for Evaluation and Detection ~~ /doi/10.5555/3635637.3663004
+Forward-PECVaR Algorithm: Exact Evaluation for CVaR SSPs ~~ /doi/10.5555/3545946.3598935
+S&F: Sources and Facts Reliability Evaluation Method ~~ /doi/10.5555/3545946.3599075
+Evaluation of Robustness of Off-Road Autonomous Driving Segmentation against Adversarial Attacks: A Dataset-Centric Study ~~ /doi/10.5555/3635637.3663119
+Sample and Communication Efficient Fully Decentralized MARL Policy Evaluation via a New Approach: Local TD Update ~~ /doi/10.5555/3635637.3662932
+Vibe Code Bench: Evaluating AI Models on End-to-End Web Application Development ~~ /doi/10.1145/3786335.3813180
+Persuade Me if You Can: A Framework for Evaluating Persuasion Effectiveness and Susceptibility Among Large Language Models ~~ /doi/10.1145/3786335.3813181
+Improvement and Evaluation of the Policy Legibility in Reinforcement Learning ~~ /doi/10.5555/3545946.3599167
+Learning in Teams: Peer Evaluation for Fair Assessment of Individual Contributions ~~ /doi/10.5555/3545946.3599057
+HOPE: Human-Centric Off-Policy Evaluation for E-Learning and Healthcare ~~ /doi/10.5555/3545946.3598804
+Evaluating Automatic Hand-Gesture Generation Using Multimodal Corpus Annotations ~~ /doi/10.1145/3746268.3759430
+Crowd Simulation Incorporating a Route Choice Model and Similarity Evaluation using Real Large-scale Data ~~ /doi/10.5555/3545946.3599066
+Evaluating nonverbal mimicry in embodied motivational agents ~~ /doi/10.1145/3570945.3607322
+Evaluating Intrinsic Geospatial Topological Reasoning in LLMs ~~ /doi/10.1145/3764915.3770722
+Benchmarking MARL on Long Horizon Sequential Multi-Objective Tasks ~~ /doi/10.5555/3635637.3663133
+Evaluating the Gender Label in Virtual Babies Using an Interactive Environment ~~ /doi/10.1145/3717511.3749306
+Evaluating Multimodal Behavioral Features for Public Speaking Assessment in Virtual Reality ~~ /doi/10.1145/3717511.3749301
+Evaluating Theory-of-Mind in Large Language Models Through Opponent Modeling ~~ /doi/10.1145/3717511.3747081
+Synthetically Expressive: Evaluating gesture and voice for emotion and empathy in VR and 2D scenarios ~~ /doi/10.1145/3717511.3747074
+Simulating and Evaluating Generative Modeling and Collaborative Filtering in Complex Social Networks ~~ /doi/10.5555/3709347.3743580
+Evaluating Emotions while Watching a Movie using the Learning Type Fuzzy-Template-Matching method ~~ /doi/10.1145/3623809.3623969
+Externalizing Vulnerability and Verbalizing Thoughts to More Adequately Evaluate Trust in AI ~~ /doi/10.1145/3623809.3623962
+Evaluating District-based Election Surveys with Synthetic Dirichlet Likelihood ~~ /doi/10.5555/3635637.3662999
+Evaluating a Model of Pathological Affect based on Pedagogical Situations for a Virtual Patient ~~ /doi/10.1145/3570945.3607325
+SemGest: A Multimodal Feature Space Alignment and Fusion Framework for Semantic-aware Co-speech Gesture Generation ~~ /doi/10.1145/3746268.3759433
+SARGes: Semantically Aligned Reliable Gesture Generation via Intent Chain ~~ /doi/10.1145/3746268.3759436
+From Embeddings to Language Models: A Comparative Analysis of Feature Extractors for Text-Only and Multimodal Gesture Generation ~~ /doi/10.1145/3746268.3759431
+What Insights Human Cognition Can Offer to Enhance Computational Models of Multimodal Language Generation? ~~ /doi/10.1145/3746268.3759438
+Adapting Verbal and Nonverbal Behaviors of an SIA ~~ /doi/10.1145/3746268.3759437
+DUPRE: Data Utility Prediction for Efficient Data Valuation ~~ /doi/10.5555/3709347.3743790
+Fair Allocation of Divisible Goods under Non-Linear Valuations ~~ /doi/10.5555/3709347.3743529
+Towards Envy-Freeness Relaxations for General Nonmonotone Valuations ~~ /doi/10.5555/3709347.3743543
+On the Hardness of Fair Allocation under Ternary Valuations ~~ /doi/10.5555/3709347.3743593
+Enhancing Offline Reinforcement Learning with Curriculum Learning-Based Trajectory Valuation ~~ /doi/10.5555/3709347.3743511
+Approximately Fair Allocation of Indivisible Items with Random Valuations ~~ /doi/10.5555/3635637.3663080
+Approximating APS Under Submodular and XOS Valuations with Binary Marginals ~~ /doi/10.5555/3635637.3662961
+Fairness Dynamics in Digital Economy Platforms with Biased Ratings ~~ /doi/10.65109/CEJT6762
+Maximin Share Allocations for Assignment Valuations ~~ /doi/10.5555/3545946.3599108
+Yankee Swap: A Fast and Simple Fair Allocation Mechanism for Matroid Rank Valuations ~~ /doi/10.5555/3545946.3598635
+Cost Sharing under Private Valuation and Connection Control ~~ /doi/10.5555/3545946.3598890
+Characterizations of Sequential Valuation Rules ~~ /doi/10.5555/3545946.3598828

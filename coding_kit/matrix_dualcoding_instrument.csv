@@ -1,0 +1,52 @@
+benchmark_name,attribute,rater_A_code,rater_B_code
+Mind2Web,W (target_capabilities),Environment perception (W4); Planning as action prediction (W1); Multi-turn reasoning (W2),"web navigation action prediction across many real sites (W4, W3 core)"
+Mind2Web,H (evaluation_paradigm),"Programmatic/deterministic, offline action matching (H1)",element/action match against ground-truth steps (H1)
+Mind2Web,E (environment_type),Static dataset of cached real-website snapshots (E1),static dataset of recorded web pages/traces (E1)
+GAIA,W (target_capabilities),Multi-turn reasoning (W2); Tool use (W3); Web perception (W4); Multimodality,"multi-step reasoning with tool use to reach a single answer (W2, W3, W1)"
+GAIA,H (evaluation_paradigm),"Programmatic/deterministic, quasi-exact match (H1)",exact-match against curated reference answers (H1)
+GAIA,E (environment_type),Static question set solved via open web (E1 + E2b hybrid),"static question set, real-world resources cited (E1)"
+WebShop,W (target_capabilities),Long-horizon planning (W1); Multi-turn query reformulation (W2); Web perception (W4),"goal-directed product search and purchase navigation (W4, W1)"
+WebShop,H (evaluation_paradigm),"Programmatic/deterministic, reward-based (H1)",programmatic reward from matched product attributes (H1)
+WebShop,E (environment_type),Simulated e-commerce web environment (E2b),simulated e-commerce web environment (E2b)
+WebArena,W (target_capabilities),Web/environment perception (W4); Long-horizon planning (W1); Tool execution (W3),"long-horizon web task completion across self-hosted sites (W1, W4, W3)"
+WebArena,H (evaluation_paradigm),"Programmatic/deterministic, outcome-based (H1)",programmatic functional-correctness checks on end state (H1)
+WebArena,E (environment_type),Web/browser container; self-hosted functional websites (E2b),live self-hosted web/browser environment (E2b)
+VisualWebArena,W (target_capabilities),"Visual/environment perception (W4, core); Long-horizon planning (W1); Multi-turn reasoning (W2); Tool execution (W3)","visually grounded web task completion (W4 core, W1, W3)"
+VisualWebArena,H (evaluation_paradigm),"Programmatic/deterministic, state-based (H1) with fuzzy/LLM answer match (H2 component)",programmatic outcome and visual-state validators (H1)
+VisualWebArena,E (environment_type),Multimodal web/browser containers (E2b),live self-hosted multimodal web environment (E2b)
+AssistantBench,W (target_capabilities),Long-horizon planning (W1); Multi-turn reasoning (W2); Web navigation/tool execution (W3); Live-page perception (W4),"open-web information-seeking to produce answers (W1, W4, W3)"
+AssistantBench,H (evaluation_paradigm),"Programmatic/deterministic, answer accuracy/precision (H1)",automated answer-accuracy scoring against references (H1)
+AssistantBench,E (environment_type),"Open live web, 258 real websites (E2b)",live open web browsing (E2b)
+WorkArena,W (target_capabilities),Long-horizon enterprise workflows (W1); Multi-turn reasoning (W2); UI/API execution (W3); DOM/screenshot perception (W4),"enterprise workflow task completion in ServiceNow UI (W1, W4, W3)"
+WorkArena,H (evaluation_paradigm),"Programmatic/deterministic, server-side state validation (H1)",programmatic state-based validation of task outcome (H1)
+WorkArena,E (environment_type),Enterprise SaaS platform (ServiceNow) via browser (E2b),live ServiceNow web/browser environment (E2b)
+OSWorld,W (target_capabilities),"Environment perception/GUI grounding (W4, core); Planning (W1); OS/tool execution (W3); Multimodality","open-ended computer-use tasks across real apps (W4 core, W1, W3)"
+OSWorld,H (evaluation_paradigm),"Programmatic/deterministic, execution-based scripts (H1)",execution-based scripts inspecting final system state (H1)
+OSWorld,E (environment_type),Virtual operating systems; Ubuntu/Windows/macOS VMs (E2a),"real virtual OS desktop with GUI apps (E2a, E2b)"
+AgentBench,W (target_capabilities),Planning (W1); Tool execution (W3); Reasoning (W2) across 8 environments,"multi-environment agent decision-making and tool use (W3, W1, W2)"
+AgentBench,H (evaluation_paradigm),"Programmatic/deterministic, per-environment (H1)",per-environment programmatic success metrics (H1)
+AgentBench,E (environment_type),Multi-topology: OS sandbox (E2a); DB/code (E2c); games (E2d),"suite spanning OS, code, web, and game environments (E2a, E2c, E2b, E2d)"
+AgentBoard,W (target_capabilities),Long-horizon planning with progress tracking (W1); Multi-turn reasoning (W2); Tool execution (W3); Perception (W4),"multi-turn agent progress on interactive tasks (W2, W1, W3, W4)"
+AgentBoard,H (evaluation_paradigm),"Programmatic/deterministic, progress-rate + success (H1)",programmatic fine-grained progress-rate scoring (H1)
+AgentBoard,E (environment_type),Multi-topology: web (E2b); embodied/game worlds (E2d),"multi-domain interactive environments (E2c, E2b, E2d)"
+SWE-bench,W (target_capabilities),Tool/code execution (W3); Long-horizon multi-file planning (W1); Multi-turn reasoning (W2),"resolving real GitHub issues with code patches (W3 core, W1)"
+SWE-bench,H (evaluation_paradigm),Programmatic/deterministic (H1),run repository unit tests to verify the patch (H1)
+SWE-bench,E (environment_type),Code execution environment; Dockerized GitHub repositories (E2c),code execution in repository sandboxes (E2c)
+AppWorld,W (target_capabilities),Long-horizon multi-app tasks (W1); Tool/API execution across 457 APIs (W3); Multi-turn reasoning (W2); Collateral-damage/safety checks (W6),"multi-app API task completion with interdependent calls (W3 core, W1)"
+AppWorld,H (evaluation_paradigm),"Programmatic/deterministic, state-based unit tests (H1)",programmatic state and database-check evaluation (H1)
+AppWorld,E (environment_type),Simulated multi-app world; interactive code execution (E2c),code/API execution against simulated app world (E2c)
+ToolBench (ToolLLM),W (target_capabilities),"Tool/API execution across 16k+ APIs (W3, core); Multi-step solution paths (W1); Multi-turn tool reasoning (W2)","multi-step real-API tool selection and calling (W3 core, W1)"
+ToolBench (ToolLLM),H (evaluation_paradigm),LLM-as-a-judge via ToolEval (H2) with executability checks (H1 component),LLM-judged pass rate and win rate of solutions (H2)
+ToolBench (ToolLLM),E (environment_type),Live REST/RapidAPI tool execution (E2c),live REST API execution environment (E2c)
+tau-bench,W (target_capabilities),"Multi-turn user-agent dialogue (W2, core); Tool/API execution (W3); Policy/rule adherence (W1, W6)","tool-use dialogue following domain policy with a user (W3, W2 core)"
+tau-bench,H (evaluation_paradigm),Programmatic goal-state check (H1) with LLM user-simulator (H2 component),programmatic database-state and info match against goal (H1)
+tau-bench,E (environment_type),Dynamic conversational tool/API environment with simulated-user loop (E2c),simulated retail/airline tool-and-user environment (E2c)
+ScienceWorld,W (target_capabilities),Long-horizon experiment procedures (W1); Multi-turn text actions (W2); Text-world state perception (W4),"interactive scientific reasoning and task completion (W4, W1, W2)"
+ScienceWorld,H (evaluation_paradigm),"Programmatic/deterministic, graded task completion (H1)",programmatic task-completion and subgoal scoring (H1)
+ScienceWorld,E (environment_type),Interactive text-based simulated science world (E2d),text-based embodied simulated world (E2d)
+AgentVerse,W (target_capabilities),"Multi-agent coordination (W5, core); Multi-step task solving (W1); Tool utilization (W3); Multi-turn group dialogue (W2)","multi-agent collaboration on problem-solving tasks (W5 core, W3)"
+AgentVerse,H (evaluation_paradigm),Programmatic on objective tasks (H1) + LLM-as-a-judge/qualitative emergent-behavior analysis (H2),"mixed programmatic and LLM/human assessment of outcomes (H1, H2)"
+AgentVerse,E (environment_type),Multi-agent framework + embodied (Minecraft) and tool/coding tasks (E2d),multi-agent coordination environment (E2d)
+Cybench,W (target_capabilities),"Cyber-offensive capability/risk (W6, core); Multi-step exploit chains (W1); Shell/tool command execution (W3); Environment perception (W4)","end-to-end CTF cybersecurity exploitation tasks (W6 core, W1, W3)"
+Cybench,H (evaluation_paradigm),"Programmatic/deterministic, capture-the-flag verification (H1)",programmatic flag-capture and subtask verification (H1)
+Cybench,E (environment_type),"Containerized command-execution environment, 40 CTF tasks (E2c/E2a)",containerized shell/code execution sandbox (E2c)

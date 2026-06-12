@@ -1,0 +1,14 @@
+item,type,status,reason
+IEEE Xplore,source,UNRESOLVED:no_credentials,config.ieee_browser_auth=False; no institutional session. Substituted by Crossref open-index equivalent for recall-gap.
+ACM Digital Library,source,UNRESOLVED:no_credentials,ACM URL interface degrades field-coded query to broad all-field OR; no credentials this run. count_only not obtainable -> UNRESOLVED.
+Scopus,source,UNRESOLVED:no_credentials,credential/auth gated
+Web of Science,source,UNRESOLVED:no_credentials,credential/auth gated
+SpringerLink,source,UNRESOLVED:no_credentials,credential/auth gated
+Semantic Scholar Graph API,source,UNRESOLVED:no_credentials,credential/auth gated
+WebArena,seed_probe,UNRESOLVED:auto_verify_failed,"conservative title/arxiv match below threshold; excluded from frozen probe set, not corpus"
+ToolBench,seed_probe,UNRESOLVED:auto_verify_failed,"conservative title/arxiv match below threshold; excluded from frozen probe set, not corpus"
+AgentRecBench,seed_probe,UNRESOLVED:auto_verify_failed,"conservative title/arxiv match below threshold; excluded from frozen probe set, not corpus"
+InnovatorBench,seed_probe,UNRESOLVED:auto_verify_failed,"conservative title/arxiv match below threshold; excluded from frozen probe set, not corpus"
+ClawBench,seed_probe,UNRESOLVED:auto_verify_failed,"conservative title/arxiv match below threshold; excluded from frozen probe set, not corpus"
+tau-bench,seed_probe,UNRESOLVED:auto_verify_failed,"conservative title/arxiv match below threshold; excluded from frozen probe set, not corpus"
+capture_recapture_point_value,estimate,estimate:loose_lower_bound,"heterogeneous engines + depth-capped Crossref; m depressed, N_hat inflated"

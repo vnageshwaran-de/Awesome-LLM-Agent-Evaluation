@@ -1,0 +1,183 @@
+title,status,reason
+Quantifying Bias in Agentic Large Language Models: A Benchmarking Approach,dup_openalex,already in OpenAlex 648
+ASIC-Agent: An Autonomous Multi-Agent System for ASIC Design with Benchmark Evaluation,candidate_review,manual review
+"Multi-Agent Systems and Agentic AI in Business Process Automation: Taxonomy, Benchmarks, and an Open Research Agenda",candidate_agentic,LLM/agentic benchmark or eval
+Benchmarking Multi-Agent LLM and Single Agent LLM Efficiency for Contextual Text Generation,candidate_agentic,LLM/agentic benchmark or eval
+Development and Evaluation of an Agentic RAG with Embedded LLM-as-a Judge for Heart Failure Management: A Pilot Study,candidate_agentic,LLM/agentic benchmark or eval
+"A Unified Evaluation Framework for Grounded LLM Architectures: Comparative Analysis of RAG, Self-RAG, and Agentic RAG",candidate_agentic,LLM/agentic benchmark or eval
+A Critical Evaluation of Agentic AI in Cybersecurity: The Pros and the Cons,candidate_agentic,LLM/agentic benchmark or eval
+RefuteBench 2.0 – Agentic Benchmark for Dynamic Evaluation of LLM Responses to Refutation Instruction,dup_openalex,already in OpenAlex 648
+Agentic AI in Healthcare and Medicine: A Seven-Dimensional Taxonomy for Empirical Evaluation of LLM-Based Agents,dup_openalex,already in OpenAlex 648
+A benchmark for multi-agent control of energy systems: The European economic area hybrid electricity network benchmark,exclude_RL,RL/control/robotics
+Proposal for a Flexible Benchmark for Agent Based Models,dup_openalex,already in OpenAlex 648
+Rethinking Change Detection: Benchmarking Multi-Agent Remote Sensing Image Change Understanding,exclude_remote sensing,remote sensing/imaging
+MAIA: A Multidimensional Benchmark for Assessing Medical AI Agents,candidate_agentic,LLM/agentic benchmark or eval
+FinMCP-Bench: Benchmarking LLM Agents for Real-World Financial Tool Use Under the Model Context Protocol,candidate_agentic,LLM/agentic benchmark or eval
+FOCAL: A Novel Benchmarking Technique for Multi-modal Agents,candidate_review,manual review
+Evaluating LLM-based Role-playing Agent Authenticity via Event-driven Response Simulation: A Benchmark on Real-World Events Responses,candidate_agentic,LLM/agentic benchmark or eval
+Benchmarking AI Agents for IT Automation Tasks with ITBench,candidate_agentic,LLM/agentic benchmark or eval
+CoSQA+: Enhancing Code Search Evaluation With a Multi-Choice Benchmark and Test-Driven Agents,candidate_review,manual review
+Evaluation and Benchmarking the Agent Marketing Dialogue Scenarios with Large Language Models,dup_openalex,already in OpenAlex 648
+AI Agents: Design and Evaluation of Gamified Conversational Agents,exclude_conversational,conversational/health/edu agent
+Symbolic Agent-Based Simulation of Human vs AI Agents for Task Navigation and Evaluation of Performance,exclude_agent-based modeling,agent-based modeling/sim
+Machine Learning vs. Agentic AI: Benchmarking RNA-Seq Disease Prediction with Candidate Biomarker Identification,candidate_agentic,LLM/agentic benchmark or eval
+A Multi-Scale Attention Aggregation Framework for Agentic Tropical Rainforest Change Analysis and a New Benchmark Dataset,exclude_remote sensing,remote sensing/imaging
+An Agentic Approach to Synthetic Data Generation: Building and Benchmarking a COPA Dataset for Indonesian Language and Dialects,candidate_agentic,LLM/agentic benchmark or eval
+IEBench: Benchmarking Unlearning Identity-Event Entangled Concepts for MLLM-Based Systems in Agentic Edge Networks,candidate_agentic,LLM/agentic benchmark or eval
+From Binary to Multi-Class: Benchmarking AutoGluon Against Classical Machine Learning for Diabetes Prediction and the Rise of Agentic Clinical AI,candidate_agentic,LLM/agentic benchmark or eval
+Super-Resolution Ultrasound Imaging of Tumor Angiogenesis and Evaluation of Treatment Response to a Vascular Disrupting Agent,exclude_chem,chem/bio
+Achieving Fairness in DareFightingICE Agents Evaluation Through a Delay Mechanism,candidate_review,manual review
+Dynamic Pickup and Delivery Task Allocation in Multi-Agent Robotic Systems: Vacancy Chain Approaches Evaluation,candidate_review,manual review
+IDE: A Multi-Agent-Driven Iterative Framework for Dynamic Evaluation of LLMs,dup_openalex,already in OpenAlex 648
+SocialNormVR: Designing Symmetrical Reality Testbeds for AI Agent Social Norm Evaluation,candidate_agentic,LLM/agentic benchmark or eval
+Comparative Evaluation of Neural Network and Agent-Based Models for Organic Chemistry Reaction Predictions,exclude_agent-based modeling,agent-based modeling/sim
+Vulnerability Evaluation of Multi-Agent Reinforcement Learning-Based Distributed Secondary Voltage Control in Microgrids,exclude_RL,RL/control/robotics
+Multi-Agent-Based Network Traffic Dataset Quality Evaluation Framework,candidate_review,manual review
+The Optimization Design Method of Geogrid Slope Support System Based on Carbon Benefit Evaluation and AI Agent Model,exclude_RL,RL/control/robotics
+NetIQ: A Tri-Modular Dynamic Evaluation Framework for Intelligent Agent Networks,candidate_review,manual review
+AutoGen-TraceKit: A Lightweight Framework for Process-Aware Evaluation of LLM Agents,candidate_agentic,LLM/agentic benchmark or eval
+Agent Kinematic Domain Randomization for Simulation-Based Performance Evaluation of Wearable Robots,exclude_RL,RL/control/robotics
+"A Heuristic-First Evaluation Framework for Marketing AI Agents: Judging Quality, Actionability, and Trust",candidate_agentic,LLM/agentic benchmark or eval
+Evaluation of Multi-Armed Bandit Decision Making in Multi-Agent Cyber Physical Games,candidate_review,manual review
+Design and Evaluation of an Emotionally Intelligent Conversational Agent With Long-Term Context Awareness,exclude_conversational,conversational/health/edu agent
+LLM-Based Dynamic Multi-Agent Systems for Evaluation of Financial Trading Mechanism,candidate_agentic,LLM/agentic benchmark or eval
+LLM Agents for Interactive Workflow Provenance: Reference Architecture and Evaluation Methodology,dup_openalex,already in OpenAlex 648
+"A Multi-Agent AI Framework for Agile Workflow Automation, Issue Resolution, and Developer Performance Evaluation",candidate_review,manual review
+Multi-Agent Cooperative Perception: A Structural Evaluation Framework for Autonomous Systems,candidate_review,manual review
+Evaluation of a State-Aware Conversational AI Agent for Immersive Anatomy Education,exclude_conversational,conversational/health/edu agent
+Construction of a Quality Evaluation Index System for Response Texts in Medical AI Agents,candidate_agentic,LLM/agentic benchmark or eval
+Reliability Evaluation Method for Data Flow Control in Substation Interval Renovation Based on Multi-agent Algorithm,exclude_RL,RL/control/robotics
+Imaging of microcirculation enhanced with optical clearing agents and evaluation of their effect on blood microrheology,exclude_chem,chem/bio
+Experimental Evaluation of Human Skin Optical Clearing in vivo Efficiency Using Biocompatible Agents and Optical Coherence Tomography,exclude_chem,chem/bio
+Evaluation of Fault Isolability in Multi-Agent Systems,candidate_review,manual review
+Modeling and Simulation Evaluation of Equipment Support System Vulnerability Based on Multi-agent,exclude_RL,RL/control/robotics
+Reliability Analysis and Evaluation Method of Harvesting Robots Based on Multi-Agent System,exclude_RL,RL/control/robotics
+AI-Enhanced Agent-Based Simulation for Urban Mobility Policy Evaluation: Driving Restriction Zones in the Paris Region,exclude_agent-based modeling,agent-based modeling/sim
+MACS: A Cognitive Diversity Multi-Agent Consensus Framework for Bias Mitigation in Automated Evaluation Systems,candidate_review,manual review
+Intelligent Automation of Student Record Standardization: An Evaluation of Multi-AI Agent Efficacy in Educational Administration,candidate_agentic,LLM/agentic benchmark or eval
+Synthesis and performance evaluation of a novel organic-inorganic wellbore enhancing agent for wellbore stability in water-based drilling fluids,exclude_chem,chem/bio
+SafeDoc Agent for Facility Safety Report Evaluation,candidate_review,manual review
+Evaluation of Optical Clearing Agents and Mechanical Compression on Light Penetration in Skin Using Optical Coherence Tomography,exclude_chem,chem/bio
+Research on Scenario-Specific Evaluation of Converter Equipment Operation and Maintenance and Intelligent Agent Decision-Making Technology for Operational Maintenance,exclude_RL,RL/control/robotics
+Research on Task Planning and Efficiency Evaluation of Multi-Agent Collaborative Search Based on Ant Colony Optimization,exclude_RL,RL/control/robotics
+Multi-Agent Collaborative Closed-Loop Planning - Evaluation - Assessment Framework: Optimization and Interpretability Evaluation,candidate_review,manual review
+Agentic AI Systems: Architecture and Evaluation Using a Frictionless Parking Scenario,candidate_agentic,LLM/agentic benchmark or eval
+"Agentic AI Security: Threats, Defenses, Evaluation, and Open Challenges",candidate_agentic,LLM/agentic benchmark or eval
+Task-Specific Trust Evaluation for Multi-Hop Collaborator Selection via GNN-Aided Distributed Agentic AI,candidate_agentic,LLM/agentic benchmark or eval
+Evaluation of LLM Powered Agentic AI for Solving Multi-Arm Bandit Problems,candidate_agentic,LLM/agentic benchmark or eval
+"Future-Proofing Identity Security for Agentic AI Systems: Design, Implementation, and Evaluation of an Identity Fabric",candidate_agentic,LLM/agentic benchmark or eval
+"Agentic AI for Automated Grading: System Design, Baseline Study, and Empirical Evaluation",candidate_agentic,LLM/agentic benchmark or eval
+"Bridging Gaps in Agentic AI: Verification, Coordination, and Evaluation",candidate_agentic,LLM/agentic benchmark or eval
+"Agentic AI Framework for Low-Resource Essay Evaluation via Scoring, Explanation, and Debate",candidate_agentic,LLM/agentic benchmark or eval
+"AgentQE-Bench: A Reproducible Evaluation Framework for Agentic AI Reliability, Safety, and ROI in CI/CD Pipelines",candidate_agentic,LLM/agentic benchmark or eval
+FARE: Financial Agentic Reasoning and Evaluation for Earnings Call Transcripts,candidate_agentic,LLM/agentic benchmark or eval
+Retrieval Augmented Generation (RAG) for Fintech: Agentic Design and Evaluation,candidate_agentic,LLM/agentic benchmark or eval
+Agentic AI Meets RAG: A Framework for Domain-Specific Knowledge Evaluation,candidate_agentic,LLM/agentic benchmark or eval
+ALIVE: An Agentic Longitudinal IDE-IPA Value Evaluation Framework for Innovation-Driven Enterprise Assessment,candidate_agentic,LLM/agentic benchmark or eval
+The Rational Agent Benchmark for Data Visualization,dup_openalex,already in OpenAlex 648
+ComfyBench: Benchmarking LLM-based Agents in ComfyUI for Autonomously Designing Collaborative AI Systems,dup_openalex,already in OpenAlex 648
+Coding Agents: A Comprehensive Survey of Automated Bug Fixing Systems and Benchmarks,dup_openalex,already in OpenAlex 648
+CFA-Bench: Cybersecurity Forensic Llm Agent Benchmark and Testing,dup_openalex,already in OpenAlex 648
+Sketchtopia: A Dataset and Foundational Agents for Benchmarking Asynchronous Multimodal Communication with Iconic Feedback,dup_openalex,already in OpenAlex 648
+OpenCDA-MARL: A Unified Benchmarking Framework for Cooperative Autonomous Intersection Management With Multi-Agent Reinforcement Learning,dup_openalex,already in OpenAlex 648
+"Benchmarking Reference-Free LLM Agent Robustness Under Schema, Policy, and Toolset Drift",candidate_agentic,LLM/agentic benchmark or eval
+Toward Reliable Annotation in Low-Resource NLP: A Mixture of Agents Framework and Multi-LLM Benchmarking,dup_openalex,already in OpenAlex 648
+Benchmarking Heuristic and Cooperative Agents in AbstractSwarm Logistics Scenarios,candidate_review,manual review
+ChemPaperBench: A Multi-Domain Benchmark for Literature-Grounded Chemical Reasoning of LLM-Based Multi-Agent Systems,candidate_agentic,LLM/agentic benchmark or eval
+Benchmarking Sequential Against Parallel Reinforcement Learning for Multi-Agent Swarms in Dynamic Environments,exclude_RL,RL/control/robotics
+"AeroVerse: UAV-Agent Benchmark Suite for Simulating, Pre-training, Finetuning, and Evaluating Aerospace Embodied Foundation Models",exclude_RL,RL/control/robotics
+AutoONBench: a benchmark for large language model agents in autonomous optical networks,dup_openalex,already in OpenAlex 648
+KGCE: Knowledge-Augmented Dual-Graph Evaluator for Cross-Platform Educational Agent Benchmarking with Multimodal Language Models,dup_openalex,already in OpenAlex 648
+MEWA: A Benchmark For Meta-Learning in Collaborative Working Agents,candidate_review,manual review
+Benchmarking Offensive AI Agents Through the Autonomous Attack Chain,dup_openalex,already in OpenAlex 648
+PillagerBench: Benchmarking LLM-Based Agents in Competitive Minecraft Team Environments,candidate_agentic,LLM/agentic benchmark or eval
+OmniCharacter++: Towards Comprehensive Benchmark for Realistic Role-Playing Agents,candidate_agentic,LLM/agentic benchmark or eval
+Benchmarking Multi-Agent Collaboration Against Single LLM Systems in E-Commerce,candidate_agentic,LLM/agentic benchmark or eval
+Benchmarking Holonic Delegation vs Flat Multi-Agent Coordination for Disruption-Resilient Supply Chain Workflows: A Mesa-Based ABM Study,exclude_agent-based modeling,agent-based modeling/sim
+RevOpsBench: A Large-Scale Benchmark for Evaluating LLM Agents on Enterprise CRM Operations,dup_openalex,already in OpenAlex 648
+DSGBench: A Diverse Strategic Game Benchmark for Evaluating LLM-Based Agents in Complex Decision-Making Environments,candidate_agentic,LLM/agentic benchmark or eval
+Multi-Agent Reinforcement Learning With Policy Clipping and Average Evaluation for UAV-Assisted Communication Markov Game,exclude_RL,RL/control/robotics
+Optimizing Control of Wastewater Treatment Plant With Reinforcement Learning: Technical Evaluation of Twin-Delayed Deep Deterministic Policy Gradient Agent,exclude_RL,RL/control/robotics
+PandORA: Automated Design and Comprehensive Evaluation of Deep Reinforcement Learning Agents for Open RAN,exclude_RL,RL/control/robotics
+Contextual Trust Evaluation for Robust Coordination in Large Language Model Multi-Agent Systems,candidate_agentic,LLM/agentic benchmark or eval
+Can LLM-Augmented Autonomous Agents Cooperate? An Evaluation of Their Cooperative Capabilities Through Melting Pot,dup_openalex,already in OpenAlex 648
+Beyond Accuracy: Cybersecurity Resilience Evaluation Of Intrusion Detection System Against Dos Attacks Using Agent-Based Simulation,exclude_agent-based modeling,agent-based modeling/sim
+Intelligent Agent-Based Dynamic Reliability Evaluation for Optical Networks: A Comprehensive Framework and Case Study,candidate_review,manual review
+"Enhancing LLM Code Generation: A Systematic Evaluation of Multi-Agent Collaboration and Runtime Debugging for Accuracy, Reliability, and Latency",dup_openalex,already in OpenAlex 648
+Evaluation of Virtual Agents’ Hostility in Video Games,exclude_conversational,conversational/health/edu agent
+Design and Evaluation of an AI-Powered Conversational Agent for Personalized Mental Health Support and Intervention (MindBot),exclude_conversational,conversational/health/edu agent
+Evaluation of the Choice of LLM in a Multi-Agent Solution for GUI-Test Generation,dup_openalex,already in OpenAlex 648
+"An Empirical Evaluation of LLM-Based Approaches for Code Vulnerability Detection: RAG, SFT, and Dual-Agent Systems",dup_openalex,already in OpenAlex 648
+Transfer Learning With Less Negative Transfer for Multi-Agent Reinforcement Learning: Application and Evaluation in Base Station Control,exclude_RL,RL/control/robotics
+Towards RehabCoach: Design and Preliminary Evaluation of a Conversational Agent Supporting Unsupervised Therapy After Stroke,exclude_conversational,conversational/health/edu agent
+Evaluation of Different Modalities for Interacting with a Tasking Agent in Manned-Unmanned Teaming Missions,exclude_chem,chem/bio
+A Modular Framework for Automated Evaluation of Procedural Content Generation in Serious Games With Deep Reinforcement Learning Agents,exclude_RL,RL/control/robotics
+"Intelligent Agents for Requirements Engineering: Use, Feasibility and Evaluation",candidate_review,manual review
+From Agents to Robots: A Training and Evaluation Platform for Multi-robot Reinforcement Learning,exclude_RL,RL/control/robotics
+Analyzing RL Agent Competency in Air Combat: A Tool for Comprehensive Performance Evaluation,candidate_review,manual review
+Evaluation of an agent-based reinforcement learning framework for model-based testing,exclude_RL,RL/control/robotics
+Voice-guided Orchestrated Intelligence for Clinical Evaluation (VOICE): A Voice AI Agent System for Prehospital Stroke Assessment,exclude_conversational,conversational/health/edu agent
+Mission Reliability Evaluation of Dynamic Distributed Cooperative Systems Based on Multi-agent Modeling and Simulation,candidate_review,manual review
+A Practical Evaluation of Multi-Agent Pathfinding in Automated Warehouse,exclude_RL,RL/control/robotics
+Workstation Evaluation of Work from Home Call Center Agents Using ROSA,candidate_review,manual review
+Multi-Agent Evaluation for Energy Management by Practically Scaling Q-Rank,candidate_review,manual review
+On the Hardness of Decentralized Multi-Agent Policy Evaluation Under Byzantine Attacks,exclude_RL,RL/control/robotics
+Self-Evaluation can Help Agents Meet Social Expectations,candidate_review,manual review
+Operational Evaluation of UAV Swarm Precision Strikes with Agent Based Modeling and Simulation,exclude_RL,RL/control/robotics
+Design and Evaluation of a Virtual Agent for Interpersonal Emotion Regulation in VR,exclude_conversational,conversational/health/edu agent
+Stochastic Dynamic Agent-based Modelling for Evaluation of ACAS and DAA Systems,exclude_agent-based modeling,agent-based modeling/sim
+Specification and Evaluation of Multi-Agent LLM Systems - Prototype and Cybersecurity Applications,dup_openalex,already in OpenAlex 648
+Agent-Based Simulation Evaluation of CBD Tolling: A Case Study from New York City,exclude_agent-based modeling,agent-based modeling/sim
+Multi-Agent Based Casual Triple Extraction For Factuality Evaluation Using Large Language Models,candidate_agentic,LLM/agentic benchmark or eval
+Generative AI and Multi-Agent Systems Approach to Psychometric Evaluation for Human Resource Management and Talent Acquisition,candidate_review,manual review
+Experimental Evaluation of Roadmap-Based Map Generation with Continuous-Time Conflict-Based Search for Multi-Agent Pathfinding,exclude_RL,RL/control/robotics
+An Agent-Based Framework for Performance Evaluation and Tradeoff Analysis of Highway Work Zone Policies,exclude_agent-based modeling,agent-based modeling/sim
+A Domain-specific Hallucination Evaluation Framework for AI Agents in Substation Operation and Maintenance Scenarios,exclude_RL,RL/control/robotics
+Skill Training for Space Teleoperation: DRL-Based Intelligent Agent for Training Strategy Adjustment With Innovative Evaluation,candidate_review,manual review
+MELF: Multi-Agent Evaluation for LLMs Fairness Based on Hierarchical Genetic Algorithm,candidate_agentic,LLM/agentic benchmark or eval
+AIvaluate: A Multi-Agent Framework for Automated Answer Script Evaluation Using Large Language Models and Semantic Vector Indexing,candidate_agentic,LLM/agentic benchmark or eval
+Population-based Multi-agent Evaluation for Large-scale Voltage Control,exclude_RL,RL/control/robotics
+Comparative Evaluation of Fragmentation and Encoding Strategies in a Web Agent Integrating RAG and Local LLM,candidate_agentic,LLM/agentic benchmark or eval
+BioLabAgents: A Multi-Agent Framework for Scientific Idea Generation and Evaluation on Biomedical Research Trajectories,candidate_review,manual review
+InGen: An LLM-Agent Based Approach for Automatically Generating Evaluation Indicator System for Avionics,candidate_agentic,LLM/agentic benchmark or eval
+Designing Reputation Systems for Manufacturing Data Trading Markets: A Multi-Agent Evaluation With Q-Learning and IRL-Estimated Utilities,candidate_review,manual review
+AI Agent Testing and Analysis Platform: A System for Automated Evaluation of AI Systems,candidate_agentic,LLM/agentic benchmark or eval
+Design and Evaluation of an Educational Virtual Agent Based on Retrieval-Augmented Generation for the Entrepreneurship Culture Course in Higher Education,exclude_conversational,conversational/health/edu agent
+Beyond Text Matching: Multi-Agent System for Comprehensive Research Paper Evaluation,candidate_review,manual review
+Evaluation of Graph- and Sampling-Based Path Planners for Multi-Agent Deployment in Known Urban Environments,candidate_review,manual review
+The Integration of Interactive Psychoeducation and Agent Embodiment in Virtual Reality Training: An Evaluation on Breathing Techniques,exclude_conversational,conversational/health/edu agent
+LLM-based Intelligent Evaluation Agent with Knowledge Graph Construction for Human-Machine Interactive Learning*,candidate_agentic,LLM/agentic benchmark or eval
+Enhanced Alpha-Beta Pruning and Evaluation Function Optimization for Pac-Man AI Agents,candidate_agentic,LLM/agentic benchmark or eval
+Design and Evaluation of an AI-Based Conversational Agent for Adaptive Feedback in Educational Robotics,exclude_conversational,conversational/health/edu agent
+Evaluation Method of Ship Equipment Applicability Based on Agent Attention Transformer,candidate_review,manual review
+Implementation of Wireless Network Quality Evaluation Method for Agent Twins Based on Active Passive Dual Periodic Collaborative Measurement,candidate_review,manual review
+A Comparative Evaluation of Local Inference for Embodied Agents in Minecraft,candidate_agentic,LLM/agentic benchmark or eval
+An Agent-based Evaluation Framework for Complex Code Generation,candidate_review,manual review
+Vicarious Evaluation of a Decision Model for Human-Agent Social Touch Interactions,exclude_conversational,conversational/health/edu agent
+An Automated System for Generating Chargeback Notices Based on Multi-Agent Collaboration and Its Practical Evaluation,candidate_review,manual review
+Automated Resume Evaluation Using Large Language Models: A Multi-Agent Framework With Fine-Tuning and Prompt Engineering,candidate_agentic,LLM/agentic benchmark or eval
+Persona-Driven Feedback Agents for High-Stakes Documents: A Multi-Perspective Evaluation of Global Talent Visa Submissions,candidate_review,manual review
+Efficient Evaluation in Multi-Agent Reinforcement Learning via Rotation Invariance,exclude_RL,RL/control/robotics
+Contextualizing AI Agent Evaluation: Proposed Framework for Japanese Businesses,candidate_agentic,LLM/agentic benchmark or eval
+Research on Performance Evaluation Technology of Metering Devices Based on the Smart Agent for Business Expansion and Metering,candidate_review,manual review
+FitnessAgent: A Unified Agent Framework for Open-Set and Personalized Fitness Evaluation,candidate_review,manual review
+"Contextual Prompt Enabler for Mental Health (CPEMH): An Agent-Based LLM Framework for Prompt Design, Evaluation, and Selection for Depression Screening from Transcripts",exclude_conversational,conversational/health/edu agent
+A Hybrid Multi-Agent–ML Architecture for Trust-Oriented Seller Evaluation in B2C E-Commerce,candidate_review,manual review
+Role Assignment for Agent Evaluation Under Uncertainty: A Distributionally Robust Approach,candidate_review,manual review
+Enhancing Handwritten Answer Sheet Evaluation Through Large Language Models and Multi-Agent Reasoning,candidate_agentic,LLM/agentic benchmark or eval
+MAEDA: An LLM-Powered Multi-Agent Evaluation Framework for EDA Tool Documentation QA,candidate_agentic,LLM/agentic benchmark or eval
+UINavBench: A Framework for Comprehensive Evaluation of Interactive Digital Agents,candidate_review,manual review
+An Iterative Multi-Agent Analysis for Automated Evaluation in NLG Tasks,candidate_review,manual review
+Experimental Evaluation of Coordinated Decision Making Strategies Based on Multi-Agent Reinforcement Learning,exclude_RL,RL/control/robotics
+Cognitive Agent Evaluation for Synthetic Pilot Training,candidate_review,manual review
+Design and Evaluation of an LLM-Based Agent for QoT Estimation and Performance Optimization in Optical Networks,candidate_agentic,LLM/agentic benchmark or eval
+Lightweight Dual-Agent Architecture for 2-D Shadow Puppetry: Real-Time Edge Deployment and Evaluation,candidate_review,manual review
+SKYWALKER: Dual-Agent Reinforcement Learning for Autonomous Crawling in a Planar Microgravity Analog : Sim-to-Real Evaluation at ESA’s Orbital Robotics Lab,exclude_RL,RL/control/robotics
+Stable and Expert-Aligned Evaluation of Wargaming Strategies via Optimized LLM Scoring Agents,candidate_agentic,LLM/agentic benchmark or eval
+A Multi-Agent Workflow for 3D Visualization Code Generation and Evaluation Based on Spatial-MLLM,candidate_agentic,LLM/agentic benchmark or eval
+IAEAgent: LLM-Based Educational Agent for Instructional Alignment Evaluation in University Courses,candidate_agentic,LLM/agentic benchmark or eval
+Teaching Precommitted Agents: Model-Free Policy Evaluation and Control in Quasi-Hyperbolic Discounted MDPs,candidate_review,manual review
+Agent Evaluation via Social Network Analysis in Educational E-CARGO Framework,candidate_review,manual review
+Integrating Fuzzy Evaluation Agents and LLM-Based Robots for Multilingual Interactive Applications,candidate_agentic,LLM/agentic benchmark or eval
+Beyond Single-Framework Architectures: A Systematic Evaluation and Hybrid Design for Scalable Multi-Agent Coordination,candidate_review,manual review
+"ICLAD 2025: Agents, Benchmarks, and the Next Wave of LLM-Aided Design [IEEE News]",candidate_agentic,LLM/agentic benchmark or eval

@@ -1,0 +1,47 @@
+{
+ "comparison": "not_assessed(236) vs assessed(200)",
+ "capability_keyword_share_pct": {
+  "planning": {
+   "not_assessed": 3.8,
+   "assessed": 5.5
+  },
+  "reasoning/multi-turn": {
+   "not_assessed": 7.2,
+   "assessed": 8.0
+  },
+  "tool/API": {
+   "not_assessed": 5.1,
+   "assessed": 6.5
+  },
+  "web/GUI/perception": {
+   "not_assessed": 7.6,
+   "assessed": 9.0
+  },
+  "coding/SWE": {
+   "not_assessed": 10.2,
+   "assessed": 8.0
+  },
+  "multi-agent/collab": {
+   "not_assessed": 12.3,
+   "assessed": 19.5
+  },
+  "safety/adversarial": {
+   "not_assessed": 8.5,
+   "assessed": 8.0
+  },
+  "scientific/research": {
+   "not_assessed": 8.5,
+   "assessed": 10.0
+  },
+  "retrieval/RAG": {
+   "not_assessed": 1.7,
+   "assessed": 4.0
+  },
+  "embodied/game": {
+   "not_assessed": 4.2,
+   "assessed": 6.0
+  }
+ },
+ "max_capability_diff_pp": 7.2,
+ "note": "Title-keyword provisional tags; the groups differ by citation (by construction of the cutoff) but show no marked capability skew."
+}

@@ -1,0 +1,41 @@
+{
+  "source": "ScienceDirect (Elsevier full-text platform)",
+  "tier": 2,
+  "access": "authenticated browser UI (institutional: University of the Cumberlands)",
+  "captured": "2026-06-08T01:57:33Z",
+  "registration_query": {
+    "fields": "Title, abstract, keywords (tak)",
+    "query": "(\"large language model\" OR LLM) AND (agent OR autonomous) AND (benchmark OR evaluation)",
+    "date_filter": "2023-2026",
+    "url": "https://www.sciencedirect.com/search?tak=%28%22large%20language%20model%22%20OR%20LLM%29%20AND%20%28agent%20OR%20autonomous%29%20AND%20%28benchmark%20OR%20evaluation%29&date=2023-2026",
+    "result_count": 785,
+    "count_text_verbatim": "785 results",
+    "field_scoping": "honored (page title confirms Title-abstract-keywords scoping); NOT broad_expansion",
+    "status": "count_only_verified",
+    "note": "Bulk export not used per protocol; count registered alongside Tier-1, not summed into dedup math."
+  },
+  "bot_detection_episode": {
+    "what": "Rapid batch of 10 probe searches triggered ScienceDirect rate-limiting ('There was a problem providing the content you requested').",
+    "evidence_reference_numbers": ["a0844b221d067d54", "a0844b326e967d54", "a0844cd4f94d244d"],
+    "first_batch_results": "INVALID (error pages misread as zero counts); discarded",
+    "resolution": "No bypass attempted. Waited for block to clear, re-ran probes one query per ~15s; all values below are from the slow, valid pass."
+  },
+  "probe_lookups": [
+    {"benchmark": "AgentBench",     "query_url": "https://www.sciencedirect.com/search?qs=%22AgentBench%22",     "fulltext_hits": 16, "top_titles": ["SAGE: Self-evolving Agents with Reflective and Memory-augmented Abilities", "FuseMind: Fusing reflection and prediction elevates agent's reasoning capabilities"], "found": 0, "decision_rule": "no title match in relevance-ranked results; hits are citing works only"},
+    {"benchmark": "SWE-bench",      "query_url": "https://www.sciencedirect.com/search?qs=%22SWE-bench%22",      "fulltext_hits": 27, "top_titles": ["Quality assurance of LLM-generated code: Addressing non-functional quality characteristics", "Towards multi-language repository-level code generation: From-scratch to guided tasks"], "found": 0, "decision_rule": "no title match; citing works only"},
+    {"benchmark": "GAIA",           "query_url": "https://www.sciencedirect.com/search?qs=%22GAIA%22%20%22General%20AI%20Assistants%22", "fulltext_hits": 1, "top_titles": ["A Review of AI-Driven Automation Technologies: Latest Taxonomies, Existing Challenges, and Future Prospects"], "found": 0, "decision_rule": "no title match; citing work only"},
+    {"benchmark": "AppWorld",       "query_url": "https://www.sciencedirect.com/search?qs=%22AppWorld%22",       "fulltext_hits": 3,  "top_titles": ["Finding a Depression App: A Review and Content Analysis of the Depression App Marketplace", "Evaluating and regulating agentic AI: A study of benchmarks, metrics, and regulation"], "found": 0, "decision_rule": "no title match; citing/noise"},
+    {"benchmark": "OSWorld",        "query_url": "https://www.sciencedirect.com/search?qs=%22OSWorld%22",        "fulltext_hits": 54, "top_titles": ["Forced degradation study of racecadotril...", "Isolation, characterization using LC-ESI-QTOF..."], "found": 0, "decision_rule": "no title match; hits dominated by unrelated-term noise"},
+    {"benchmark": "MLE-bench",      "query_url": "https://www.sciencedirect.com/search?qs=%22MLE-bench%22",      "fulltext_hits": 2,  "top_titles": ["A program-centered approach to solving AI tasks with ready-to-use models", "Evaluating and regulating agentic AI: A study of benchmarks, metrics, and regulation"], "found": 0, "decision_rule": "no title match; citing works only"},
+    {"benchmark": "DataSciBench",   "query_url": "https://www.sciencedirect.com/search?qs=%22DataSciBench%22",   "fulltext_hits": 0,  "top_titles": [], "found": 0, "decision_rule": "zero results ('did not match any articles')"},
+    {"benchmark": "AgentBoard",     "query_url": "https://www.sciencedirect.com/search?qs=%22AgentBoard%22",     "fulltext_hits": 5,  "top_titles": ["SelfCorrect-Agent: Toward robust and generalizable LLM-based agents", "Agent-based workflow management in collaborative product development on the Internet"], "found": 0, "decision_rule": "no title match; citing works only"},
+    {"benchmark": "VisualWebArena", "query_url": "https://www.sciencedirect.com/search?qs=%22VisualWebArena%22", "fulltext_hits": 1,  "top_titles": ["Evaluating and regulating agentic AI: A study of benchmarks, metrics, and regulation"], "found": 0, "decision_rule": "no title match; citing work only"},
+    {"benchmark": "ToolEmu",        "query_url": "https://www.sciencedirect.com/search?qs=%22ToolEmu%22",        "fulltext_hits": 2,  "top_titles": ["CogTrust: Cognitive Logic-Based framework for dynamic trust evaluation in multi-agent systems", "Evaluating and regulating agentic AI: A study of benchmarks, metrics, and regulation"], "found": 0, "decision_rule": "no title match; citing works only"}
+  ],
+  "interpretation": {
+    "probe_recall_sciencedirect": "0/10",
+    "key_finding": "ScienceDirect indexes many works CITING the canonical agent benchmarks but hosts none of the benchmark papers themselves (they are arXiv/ACL/NeurIPS-published). The probe gap versus the expanded source union remains 0: OpenAlex contains every probe benchmark any probed source returns.",
+    "capture_recapture_with_sd": "Declined: probe overlap m=0 with OpenAlex on the probe set and the same-population assumption is violated (Elsevier journals do not host this literature class). Marked UNRESOLVED:zero_overlap_same_population_violated.",
+    "label": "estimate-supporting evidence; probe column verified via live authenticated UI"
+  }
+}

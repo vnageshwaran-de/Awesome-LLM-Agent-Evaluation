@@ -1,0 +1,176 @@
+{
+  "generated": "2026-06-05T20:12:07Z",
+  "config": {
+    "openalex_mailto": "vnageshwaran@gmail.com",
+    "s2_api_key": "none",
+    "scopus_api_key": "none",
+    "wos_api_key": "none",
+    "springer_api_key": "none",
+    "ieee_browser_auth": false,
+    "acm_browser_auth": false,
+    "recall_probe_set": "auto",
+    "from_date": "2023-01-01",
+    "to_date": "2026-06-30",
+    "target_included": 200,
+    "max_records_per_stream": 200,
+    "saturation_new_frac": 0.05,
+    "second_source": "crossref",
+    "snowball_forward_top": 30,
+    "snowball_backward_cap": 400,
+    "request_sleep_s": 0.34
+  },
+  "streams": [
+    {
+      "database": "OpenAlex",
+      "query": "title.search:agent benchmark",
+      "filter": "title.search:agent benchmark,from_publication_date:2023-01-01,to_publication_date:2026-06-30",
+      "search_url": "https://api.openalex.org/works?filter=title.search%3Aagent+benchmark%2Cfrom_publication_date%3A2023-01-01%2Cto_publication_date%3A2026-06-30&mailto=vnageshwaran%40gmail.com",
+      "result_count_total": 1652,
+      "retrieved": 200,
+      "pages": 1,
+      "tier": 1,
+      "status": "harvested",
+      "timestamp": "2026-06-05T20:12:07Z",
+      "new_unique_added": 200,
+      "new_unique_frac": 1.0
+    },
+    {
+      "database": "OpenAlex",
+      "query": "title.search:agentic benchmark",
+      "filter": "title.search:agentic benchmark,from_publication_date:2023-01-01,to_publication_date:2026-06-30",
+      "search_url": "https://api.openalex.org/works?filter=title.search%3Aagentic+benchmark%2Cfrom_publication_date%3A2023-01-01%2Cto_publication_date%3A2026-06-30&mailto=vnageshwaran%40gmail.com",
+      "result_count_total": 1652,
+      "retrieved": 200,
+      "pages": 1,
+      "tier": 1,
+      "status": "harvested",
+      "timestamp": "2026-06-05T20:12:07Z",
+      "new_unique_added": 0,
+      "new_unique_frac": 0.0
+    },
+    {
+      "database": "OpenAlex",
+      "query": "title.search:LLM agents evaluation",
+      "filter": "title.search:LLM agents evaluation,from_publication_date:2023-01-01,to_publication_date:2026-06-30",
+      "search_url": "https://api.openalex.org/works?filter=title.search%3ALLM+agents+evaluation%2Cfrom_publication_date%3A2023-01-01%2Cto_publication_date%3A2026-06-30&mailto=vnageshwaran%40gmail.com",
+      "result_count_total": 608,
+      "retrieved": 200,
+      "pages": 1,
+      "tier": 1,
+      "status": "harvested",
+      "timestamp": "2026-06-05T20:12:07Z",
+      "new_unique_added": 190,
+      "new_unique_frac": 0.95
+    },
+    {
+      "database": "OpenAlex",
+      "query": "title.search:agent evaluation benchmark",
+      "filter": "title.search:agent evaluation benchmark,from_publication_date:2023-01-01,to_publication_date:2026-06-30",
+      "search_url": "https://api.openalex.org/works?filter=title.search%3Aagent+evaluation+benchmark%2Cfrom_publication_date%3A2023-01-01%2Cto_publication_date%3A2026-06-30&mailto=vnageshwaran%40gmail.com",
+      "result_count_total": 262,
+      "retrieved": 200,
+      "pages": 1,
+      "tier": 1,
+      "status": "harvested",
+      "timestamp": "2026-06-05T20:12:07Z",
+      "new_unique_added": 166,
+      "new_unique_frac": 0.83
+    },
+    {
+      "database": "OpenAlex",
+      "query": "title.search:autonomous agents benchmark",
+      "filter": "title.search:autonomous agents benchmark,from_publication_date:2023-01-01,to_publication_date:2026-06-30",
+      "search_url": "https://api.openalex.org/works?filter=title.search%3Aautonomous+agents+benchmark%2Cfrom_publication_date%3A2023-01-01%2Cto_publication_date%3A2026-06-30&mailto=vnageshwaran%40gmail.com",
+      "result_count_total": 67,
+      "retrieved": 67,
+      "pages": 1,
+      "tier": 1,
+      "status": "harvested",
+      "timestamp": "2026-06-05T20:12:07Z",
+      "new_unique_added": 43,
+      "new_unique_frac": 0.6418
+    },
+    {
+      "database": "OpenAlex",
+      "query": "title.search:language model agents benchmark",
+      "filter": "title.search:language model agents benchmark,from_publication_date:2023-01-01,to_publication_date:2026-06-30",
+      "search_url": "https://api.openalex.org/works?filter=title.search%3Alanguage+model+agents+benchmark%2Cfrom_publication_date%3A2023-01-01%2Cto_publication_date%3A2026-06-30&mailto=vnageshwaran%40gmail.com",
+      "result_count_total": 76,
+      "retrieved": 76,
+      "pages": 1,
+      "tier": 1,
+      "status": "harvested",
+      "timestamp": "2026-06-05T20:12:07Z",
+      "new_unique_added": 44,
+      "new_unique_frac": 0.5789
+    }
+  ],
+  "tier2": [
+    {
+      "database": "ScienceDirect",
+      "tier": 2,
+      "query": "(\"large language model\" OR LLM) AND (agent OR autonomous) AND (benchmark OR evaluation)",
+      "fields": "Title, abstract, keywords (tak)",
+      "date_filter": "2023-2026",
+      "search_url": "https://www.sciencedirect.com/search?tak=%28%22large%20language%20model%22%20OR%20LLM%29%20AND%20%28agent%20OR%20autonomous%29%20AND%20%28benchmark%20OR%20evaluation%29&date=2023-2026",
+      "result_count": 785,
+      "status": "count_only_verified",
+      "field_scoping": "honored (page title confirms Title-abstract-keywords scoping); NOT broad_expansion",
+      "timestamp": "2026-06-08T01:57:33Z",
+      "note": "Bulk export not used per protocol; count registered alongside Tier-1, not summed into dedup math. Bot-detection episode logged in sciencedirect_tier2.json; probes re-run slowly after block cleared, no bypass."
+    },
+    {
+      "database": "IEEE Xplore",
+      "tier": 2,
+      "query": "(\"Abstract\":\"Large Language Model\" OR \"Abstract\":LLM) AND (\"Abstract\":Agent OR \"Abstract\":Autonomous) AND (\"All Metadata\":Evaluation OR \"All Metadata\":Benchmark)",
+      "search_url": "https://ieeexplore.ieee.org/search/searchresult.jsp?queryText=(%22Abstract%22:%22Large%20Language%20Model%22%20OR%20%22Abstract%22:LLM)%20AND%20(%22Abstract%22:Agent%20OR%20%22Abstract%22:Autonomous)%20AND%20(%22All%20Metadata%22:Evaluation%20OR%20%22All%20Metadata%22:Benchmark)&ranges=2023_2026_Year",
+      "result_count": 962,
+      "field_scoping": "honored (Abstract + All Metadata field codes accepted by IEEE query syntax)",
+      "status": "count_only_verified",
+      "probe_recall": "0/10",
+      "captured": "2026-06-08",
+      "note": "All probe queries return only works CITING the benchmarks; IEEE Xplore hosts none of the 10 canonical benchmark papers (they are arXiv / ACL / NeurIPS / ICLR)."
+    },
+    {
+      "database": "ACM Digital Library",
+      "tier": 2,
+      "query": "[[All: 'large language model'] OR [All: llm]] AND [[All: agent] OR [All: autonomous]] AND [[All: evaluation] OR [All: benchmark]] AND [E-Publication Date: 01/01/2023 TO 06/30/2026]",
+      "search_url": "https://dl.acm.org/action/doSearch?AllField=%28%22Large+Language+Model%22+OR+LLM%29+AND+%28agent+OR+autonomous%29+AND+%28evaluation+OR+benchmark%29&AfterYear=2023&BeforeYear=2026",
+      "result_count": 17231,
+      "field_scoping": "broad_expansion",
+      "status": "count_only_broad_expansion",
+      "probe_recall": "0/10",
+      "captured": "2026-06-08",
+      "note": "All-field probes return surveys and derivative works citing the benchmarks; ACM DL hosts none of the 10 canonical benchmark papers themselves."
+    }
+  ],
+  "tier3": [
+    {
+      "database": "Web of Science",
+      "tier": 3,
+      "status": "UNRESOLVED:no_credentials"
+    },
+    {
+      "database": "SpringerLink",
+      "tier": 3,
+      "status": "UNRESOLVED:no_credentials"
+    },
+    {
+      "database": "Semantic Scholar Graph API",
+      "tier": 3,
+      "status": "UNRESOLVED:no_credentials"
+    },
+    {
+      "database": "Scopus",
+      "tier": 3,
+      "query": "TITLE-ABS-KEY((\"large language model\" OR LLM) AND (agent OR autonomous) AND (benchmark OR evaluation)) AND PUBYEAR > 2022 AND PUBYEAR < 2027",
+      "search_url": "https://www.scopus.com/results/results.uri?src=s&sot=b&sdt=b&s=TITLE-ABS-KEY((%22large%20language%20model%22%20OR%20LLM)%20AND%20(agent%20OR%20autonomous)%20AND%20(benchmark%20OR%20evaluation))%20AND%20PUBYEAR%20%3E%202022%20AND%20PUBYEAR%20%3C%202027",
+      "result_count": 4836,
+      "field_scoping": "honored (TITLE-ABS-KEY field code accepted)",
+      "status": "count_only_verified",
+      "probe_recall": "9/10",
+      "captured": "2026-06-08",
+      "note": "Unlike IEEE/ACM/ScienceDirect (each 0/10, hosting only citing works), Scopus indexes the canonical benchmark PAPER ITSELF for 9 of 10 probes (all but DataSciBench, a 2025 preprint). Scopus covers the ICLR/NeurIPS/ACL/AAAI proceedings where these benchmarks are archivally published. Every one of those 9 is also present in OpenAlex (Scopus_only = 0), so the probe gap against the full source union remains 0.0."
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+ "generated": "2026-06-08T22:30:00Z",
+ "identification": {
+  "tier1_harvested_records_union": 648,
+  "tier1b_recall_probe": {
+   "db": "Crossref",
+   "in_scope": 219,
+   "role": "independent recall probe; not summed into the flow"
+  },
+  "tier2_registered": [
+   {
+    "db": "ScienceDirect",
+    "count": 785,
+    "status": "count_only_verified"
+   },
+   {
+    "db": "IEEE Xplore",
+    "count": 962,
+    "status": "count_only_verified"
+   },
+   {
+    "db": "ACM Digital Library",
+    "count": 17231,
+    "status": "count_only_broad_expansion"
+   }
+  ],
+  "tier3_registered": [
+   {
+    "db": "Scopus",
+    "count": 4836,
+    "status": "count_only_verified",
+    "probe_recall": "9/10"
+   },
+   {
+    "db": "Web of Science",
+    "status": "UNRESOLVED:no_credentials"
+   },
+   {
+    "db": "SpringerLink",
+    "status": "UNRESOLVED:no_credentials"
+   },
+   {
+    "db": "Semantic Scholar Graph API",
+    "status": "RESOLVED:searched_corroborating_probe (free API, no credentials)"
+   }
+  ],
+  "note": "OpenAlex (Tier-1) is the only source contributing to the flow. Crossref (Tier-1b) is an independent recall probe. Tier-2/3 registered counts are count-only coverage checks reported alongside but NOT summed into the dedup math."
+ },
+ "screening": {
+  "records_identified_tier1": 648,
+  "records_removed_dedup": 205,
+  "records_screened": 443,
+  "topical_exclusions_total": 7,
+  "topical_exclusions_breakdown": {
+   "EC1_general_nlp": 2,
+   "EC2_prompt_only": 4,
+   "EC4_model_centric": 1,
+   "EC3_micro_benchmark": 0,
+   "EC5_non_archival": 0,
+   "EC6_out_of_scope": 0
+  },
+  "not_assessed_priority_cutoff": 236,
+  "records_removed_at_screening_total": 243,
+  "note": "The 236 priority-cutoff records were topically eligible but NOT assessed (a workload/corpus-bounding decision), and are reported as 'not assessed' rather than as topical exclusions. Topical (out-of-scope) exclusions total 7. The two operations are kept logically separate; 7 + 236 = 243 records leave the pipeline before eligibility assessment, and 443 = 7 + 236 + 200."
+ },
+ "eligibility": {
+  "reports_assessed": 200,
+  "snowball_added": 59
+ },
+ "included": {
+  "studies_included": 259
+ },
+ "reconciliation": {
+  "identity_check": "assessed + snowball_added == included",
+  "assessed_plus_snowball": 259,
+  "included": 259,
+  "passes": true,
+  "screened_check": "identified - removed_dedup == screened",
+  "identified_minus_dedup": 443,
+  "screened": 443,
+  "screened_passes": true,
+  "screening_partition_check": "topical_exclusions + not_assessed + assessed == screened",
+  "partition_sum": 443,
+  "partition_passes": true
+ },
+ "supplementary_multisource_search": {
+  "date": "2026-06-08/09",
+  "protocol": "identical title-scoped query as OpenAlex Tier-1, per-platform Title field, 2023-2026",
+  "databases": {
+   "SpringerLink": {
+    "identified": 172,
+    "query": "title=(agent OR agentic) AND (benchmark OR evaluation)"
+   },
+   "IEEE Xplore": {
+    "identified": 182,
+    "query": "(\"Document Title\":agent OR agentic) AND (\"Document Title\":benchmark OR evaluation)"
+   },
+   "ACM DL": {
+    "identified": 226,
+    "query": "[Title:(agent OR agentic)] AND [Title:(benchmark OR evaluation)]",
+    "note": "re-scoped from 17,231 broad-expansion"
+   }
+  },
+  "identified_total": 580,
+  "duplicates_with_primary_removed": 56,
+  "dup_by_source": {
+   "Springer": 5,
+   "IEEE": 23,
+   "ACM": 28
+  },
+  "screened_unique": 524,
+  "excluded_offtopic_title_level": 339,
+  "candidates_dual_screened": 185,
+  "candidate_decisions": {
+   "include": 35,
+   "exclude": 150,
+   "uncertain_held_out": 0
+  },
+  "new_studies_included": 35,
+  "reconciliation": "580-56=524 screened; 524=339+185; 185=150+35 (full-text confirmed; prior 6 held-out + 3 title-stage includes resolved to Exclude)",
+  "primary_included": 259,
+  "living_review_corpus_total": 294,
+  "note": "Full-text confirmation completed: the 6 held-out Uncertain records and 3 title-stage Includes were resolved against full text, all to Exclude; 35 confirmed includes. Co-author decisions in coauthor_screening_returned.csv."
+ },
+ "living_review_corpus_total": 294,
+ "note_v2": "v2 (2026-06-09): supplementary title-scoped multi-source search (Springer/IEEE/ACM) added 38 dual-screened studies; primary OpenAlex flow (259) unchanged; living-review corpus total = 297.",
+ "semantic_scholar": {
+  "source": "Semantic Scholar Graph API",
+  "access": "free, keyless (no credentials required)",
+  "queried": "2026-06-09",
+  "method": "bulk search (LLM|large language model)(agent|agentic)(benchmark|evaluation), 2023-2026, plus title-match probe",
+  "result": "reachable; returns the agent-evaluation literature; canonical-benchmark probe confirmed (SWE-bench, arXiv 2310.06770, indexed)",
+  "status": "RESOLVED:searched_corroborating_probe",
+  "note": "Title-restricted harvest is not supported by the API (relevance search over title+abstract); treated as a coverage probe like Scopus. Corroborates OpenAlex; adds no canonical benchmark. Reclassified from the original UNRESOLVED:no_credentials, which was overcautious."
+ },
+ "note_v3": "v3: full-text confirmation reduced supplementary includes 38->35 (corpus 297->294); primary 259 unchanged."
+}

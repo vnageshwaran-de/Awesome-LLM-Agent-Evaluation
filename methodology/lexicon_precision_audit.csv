@@ -1,0 +1,61 @@
+lexicon,idx,oa_id,title,genuine_target
+collaboration,1,W7118158543,Agentic AI in Healthcare and Medicine: A Seven-Dimensional Taxonomy for Empirical Evaluation of LLM-Based Agents,0
+collaboration,2,W4405562840,SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents,0
+collaboration,3,W4410538601,Evaluation of the Choice of LLM in a Multi-Agent Solution for GUI-Test Generation,0
+collaboration,4,W4399991282,GenoTEX: An LLM Agent Benchmark for Automated Gene Expression Data Analysis,0
+collaboration,5,W4417300641,MedAgentBoard: Benchmarking Multi-Agent Collaboration with Conventional Methods for Diverse Medical Tasks,1
+collaboration,6,W7150166984,From Static Scores to Cognitive Retrieval: A Comparative Evaluation of Memory Prioritization Algorithms for LLM Multi-Ag,0
+collaboration,7,W4412889602,EducationQ: Evaluating LLMs’ Teaching Capabilities Through Multi-Agent Dialogue Framework,0
+collaboration,8,W4417132388,"Enhancing LLM Code Generation: A Systematic Evaluation of Multi-Agent Collaboration and Runtime Debugging for Accuracy, ",1
+collaboration,9,W7124289417,TaxAI: A Dynamic Economic Simulator and Benchmark for Multi-agent Reinforcement Learning,1
+collaboration,10,W4410087623,Evaluating and Enhancing LLMs Agent Based on Theory of Mind in Guandan: A Multi-Player Cooperative Game Under Imperfect ,1
+collaboration,11,W7128814741,AgentLeak: A Full-Stack Benchmark for Privacy Leakage in Multi-Agent LLM Systems,0
+collaboration,12,W4413065709,Toward the Autonomous AI Doctor: Quantitative Benchmarking of an Autonomous Agentic AI Versus Board-Certified Clinicians,0
+collaboration,13,W7138370235,"Towards Effective Offensive Security LLM Agents: Hyperparameter Tuning, LLM as a Judge, and a Lightweight CTF Benchmark",0
+collaboration,14,W7124265668,EnEnv 1.0: Energy Grid Environment for Multi-Agent Reinforcement Learning Benchmarking,1
+collaboration,15,W4380714553,A Versatile Multi-Agent Reinforcement Learning Benchmark for Inventory Management,1
+collaboration,16,W7125387752,Deploying and evaluating a conversational agent using LLMs for academic library reference,0
+collaboration,17,W4414930036,FinGAIA: A Chinese Benchmark for AI Agents in Real-World Financial Domain,0
+collaboration,18,W4417284393,Toward Reliable Annotation in Low-Resource NLP: A Mixture of Agents Framework and Multi-LLM Benchmarking,0
+collaboration,19,W4413358490,Simurgh: Multi-Agent Adversarial Benchmarking for Proactive Microservice Observability,0
+collaboration,20,W4409724980,Coding Agents: A Comprehensive Survey of Automated Bug Fixing Systems and Benchmarks,0
+collaboration,21,W4416195096,"Large Language Model Agents for Investment Management: Foundations, Benchmarks, and Research Frontiers",0
+collaboration,22,W4417161986,"Beyond Benchmarks: Dynamic, Automatic And Systematic Red-Teaming Agents For Trustworthy Medical Language Models",0
+collaboration,23,W4413147008,Sketchtopia: A Dataset and Foundational Agents for Benchmarking Asynchronous Multimodal Communication with Iconic Feedba,1
+collaboration,24,W4414991266,Benchmarking LLM-based agents for single-cell omics analysis,0
+collaboration,25,W4392011697,Benchmark Self-Evolving: A Multi-Agent Framework for Dynamic LLM Evaluation,0
+collaboration,26,W7131297773,SusBench: An Online Benchmark for Evaluating Dark Pattern Susceptibility of Computer-Use Agents,0
+collaboration,27,W4415230938,Interactional Fairness in LLM Multi-Agent Systems: An Evaluation Framework,1
+collaboration,28,W4385849309,ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate,0
+collaboration,29,W4410440509,RedTeamAI: A Benchmark for Assessing Autonomous Cybersecurity Agents,0
+collaboration,30,W4403578753,JAILJUDGE: A Comprehensive Jailbreak Judge Benchmark with Multi-Agent Enhanced Explanation Evaluation Framework,0
+planning,1,W4387560371,Put Your Money Where Your Mouth Is: Evaluating Strategic Planning and Execution of LLM Agents in an Auction Arena,1
+planning,2,W4403345800,MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering,1
+planning,3,W4402705816,"AeroVerse: UAV-Agent Benchmark Suite for Simulating, Pre-training, Finetuning, and Evaluating Aerospace Embodied World M",1
+planning,4,W7147004655,The Theoretical Production Benchmark v2.0: Evaluating Sustained Conceptual Coherence in Multi-Agent LLM Systems,0
+planning,5,W4415971869,Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions,0
+planning,6,W7118158543,Agentic AI in Healthcare and Medicine: A Seven-Dimensional Taxonomy for Empirical Evaluation of LLM-Based Agents,0
+planning,7,W4399990898,FlowBench: Revisiting and Benchmarking Workflow-Guided Planning for LLM-based Agents,1
+planning,8,W4412887847,X-WebAgentBench: A Multilingual Interactive Web Benchmark for Evaluating Global Agentic System,0
+planning,9,W4415289348,Survey on Evaluation of LLM-based Agents,0
+planning,10,W4400267107,ShortcutsBench: A Large-Scale Real-world Benchmark for API-based Agents,0
+planning,11,W4405562840,SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents,1
+planning,12,W4406841370,MedAgentBench: A Realistic Virtual EHR Environment to Benchmark Medical LLM Agents,0
+planning,13,W4387389108,SmartPlay: A Benchmark for LLMs as Intelligent Agents,1
+planning,14,W4414991266,Benchmarking LLM-based agents for single-cell omics analysis,0
+planning,15,W4405035082,HackSynth: LLM Agent and Evaluation Framework for Autonomous Penetration Testing,0
+planning,16,W4403569908,EmbodiedCity: A Benchmark Platform for Embodied Agent in Real-world City Environment,1
+planning,17,W4391057591,Magenta: Metrics and Evaluation Framework for Generative Agents based on LLMs,0
+planning,18,W4415230938,Interactional Fairness in LLM Multi-Agent Systems: An Evaluation Framework,0
+planning,19,W4401201041,MMAU: A Holistic Benchmark of Agent Capabilities Across Diverse Domains,1
+planning,20,W4404792846,FlowBench: Revisiting and Benchmarking Workflow-Guided Planning for LLM-based Agents,1
+planning,21,W4415286464,MedAgentsBench: Benchmarking Thinking Models and Agent Frameworks for Complex Medical Reasoning,0
+planning,22,W4404649840,BALROG: Benchmarking Agentic LLM and VLM Reasoning On Games,0
+planning,23,W4404354192,Benchmarking Multimodal Retrieval Augmented Generation with Dynamic VQA Dataset and Self-adaptive Planning Agent,0
+planning,24,W4415427688,VALISE: A Virtual Agent Laboratory for Instruction-Following Simulation and Evaluation of LLM-Powered Digital Health Int,0
+planning,25,W4396653533,WorkBench: a Benchmark Dataset for Agents in a Realistic Workplace Setting,1
+planning,26,W4403364962,Benchmarking Agentic Workflow Generation,1
+planning,27,W4403578753,JAILJUDGE: A Comprehensive Jailbreak Judge Benchmark with Multi-Agent Enhanced Explanation Evaluation Framework,0
+planning,28,W7138907424,From Benchmarks to Business Impact: Deploying IBM Generalist Agent in Enterprise Production,0
+planning,29,W7138370235,"Towards Effective Offensive Security LLM Agents: Hyperparameter Tuning, LLM as a Judge, and a Lightweight CTF Benchmark",0
+planning,30,W4414854662,Personalized Safety in LLMs: A Benchmark and A Planning-Based Agent Approach,0

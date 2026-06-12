@@ -1,0 +1,52 @@
+benchmark_name,axis,rater_B_code_blind
+Mind2Web,W,"web navigation action prediction across many real sites (W4, W3 core)"
+Mind2Web,H,element/action match against ground-truth steps (H1)
+Mind2Web,E,static dataset of recorded web pages/traces (E1)
+GAIA,W,"multi-step reasoning with tool use to reach a single answer (W2, W3, W1)"
+GAIA,H,exact-match against curated reference answers (H1)
+GAIA,E,"static question set, real-world resources cited (E1)"
+WebShop,W,"goal-directed product search and purchase navigation (W4, W1)"
+WebShop,H,programmatic reward from matched product attributes (H1)
+WebShop,E,simulated e-commerce web environment (E2b)
+WebArena,W,"long-horizon web task completion across self-hosted sites (W1, W4, W3)"
+WebArena,H,programmatic functional-correctness checks on end state (H1)
+WebArena,E,live self-hosted web/browser environment (E2b)
+VisualWebArena,W,"visually grounded web task completion (W4 core, W1, W3)"
+VisualWebArena,H,programmatic outcome and visual-state validators (H1)
+VisualWebArena,E,live self-hosted multimodal web environment (E2b)
+AssistantBench,W,"open-web information-seeking to produce answers (W1, W4, W3)"
+AssistantBench,H,automated answer-accuracy scoring against references (H1)
+AssistantBench,E,live open web browsing (E2b)
+WorkArena,W,"enterprise workflow task completion in ServiceNow UI (W1, W4, W3)"
+WorkArena,H,programmatic state-based validation of task outcome (H1)
+WorkArena,E,live ServiceNow web/browser environment (E2b)
+OSWorld,W,"open-ended computer-use tasks across real apps (W4 core, W1, W3)"
+OSWorld,H,execution-based scripts inspecting final system state (H1)
+OSWorld,E,"real virtual OS desktop with GUI apps (E2a, E2b)"
+AgentBench,W,"multi-environment agent decision-making and tool use (W3, W1, W2)"
+AgentBench,H,per-environment programmatic success metrics (H1)
+AgentBench,E,"suite spanning OS, code, web, and game environments (E2a, E2c, E2b, E2d)"
+AgentBoard,W,"multi-turn agent progress on interactive tasks (W2, W1, W3, W4)"
+AgentBoard,H,programmatic fine-grained progress-rate scoring (H1)
+AgentBoard,E,"multi-domain interactive environments (E2c, E2b, E2d)"
+SWE-bench,W,"resolving real GitHub issues with code patches (W3 core, W1)"
+SWE-bench,H,run repository unit tests to verify the patch (H1)
+SWE-bench,E,code execution in repository sandboxes (E2c)
+AppWorld,W,"multi-app API task completion with interdependent calls (W3 core, W1)"
+AppWorld,H,programmatic state and database-check evaluation (H1)
+AppWorld,E,code/API execution against simulated app world (E2c)
+ToolBench (ToolLLM),W,"multi-step real-API tool selection and calling (W3 core, W1)"
+ToolBench (ToolLLM),H,LLM-judged pass rate and win rate of solutions (H2)
+ToolBench (ToolLLM),E,live REST API execution environment (E2c)
+tau-bench,W,"tool-use dialogue following domain policy with a user (W3, W2 core)"
+tau-bench,H,programmatic database-state and info match against goal (H1)
+tau-bench,E,simulated retail/airline tool-and-user environment (E2c)
+ScienceWorld,W,"interactive scientific reasoning and task completion (W4, W1, W2)"
+ScienceWorld,H,programmatic task-completion and subgoal scoring (H1)
+ScienceWorld,E,text-based embodied simulated world (E2d)
+AgentVerse,W,"multi-agent collaboration on problem-solving tasks (W5 core, W3)"
+AgentVerse,H,"mixed programmatic and LLM/human assessment of outcomes (H1, H2)"
+AgentVerse,E,multi-agent coordination environment (E2d)
+Cybench,W,"end-to-end CTF cybersecurity exploitation tasks (W6 core, W1, W3)"
+Cybench,H,programmatic flag-capture and subtask verification (H1)
+Cybench,E,containerized shell/code execution sandbox (E2c)

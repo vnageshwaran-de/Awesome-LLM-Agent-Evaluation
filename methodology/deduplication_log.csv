@@ -1,0 +1,649 @@
+oa_id,title,decision,matched_on,kept_oa_id,reason
+W4385327683,Autonomous Tester Agent Benchmark,kept,,W4385327683,first occurrence
+W4396914156,AgentClinic: a multimodal agent benchmark to evaluate AI in simulated clinical environments,kept,,W4396914156,first occurrence
+W4387885897,The Rational Agent Benchmark for Data Visualization,kept,,W4387885897,first occurrence
+W4410068021,Toward Sensor-In-the-Loop LLM Agent: Benchmarks and Implications,kept,,W4410068021,first occurrence
+W4399991282,GenoTEX: An LLM Agent Benchmark for Automated Gene Expression Data Analysis,kept,,W4399991282,first occurrence
+W4362700320,The Rational Agent Benchmark for Data Visualization,dropped,exact_norm_title,W4387885897,duplicate of kept (exact_norm_title)
+W4412887805,CRAB: Cross-environment Agent Benchmark for Multimodal Language Model Agents,kept,,W4412887805,first occurrence
+W4403707291,CORE-Bench: Fostering the Credibility of Published Research Through a Computational Reproducibility Agent Benchmark,kept,,W4403707291,first occurrence
+W4402705816,"AeroVerse: UAV-Agent Benchmark Suite for Simulating, Pre-training, Finetuning, and Evaluating Aerospace Embodied World M",kept,,W4402705816,first occurrence
+W4412877164,Evaluation and Benchmarking of LLM Agents: A Survey,kept,,W4412877164,first occurrence
+W7119474322,Survey of Emerging Trends in LLM Agent Benchmarking,kept,,W7119474322,first occurrence
+W4402670146,InjecAgent: Benchmarking Indirect Prompt Injections in Tool-Integrated Large Language Model Agents,kept,,W4402670146,first occurrence
+W7119224602,A MODULAR BENCHMARKING FRAMEWORK FOR EVALUATING LLM-BASED AGENT APPLICATIONS,kept,,W7119224602,first occurrence
+W4404782219,R-Judge: Benchmarking Safety Risk Awareness for LLM Agents,kept,,W4404782219,first occurrence
+W4402684061,CharacterEval: A Chinese Benchmark for Role-Playing Conversational Agent Evaluation,kept,,W4402684061,first occurrence
+W4408167800,"Generative AI and LLMs for Critical Infrastructure Protection: Evaluation Benchmarks, Agentic AI, Challenges, and Opport",kept,,W4408167800,first occurrence
+W4413801638,MedAgentBench: A Virtual EHR Environment to Benchmark Medical LLM Agents,kept,,W4413801638,first occurrence
+W4400340530,CRAB: Cross-environment Agent Benchmark for Multimodal Language Model Agents,dropped,exact_norm_title,W4412887805,duplicate of kept (exact_norm_title)
+W4413886873,CFA-Bench: Cybersecurity Forensic Llm Agent Benchmark and Testing,kept,,W4413886873,first occurrence
+W4402671956,Benchmarking Data Science Agents,kept,,W4402671956,first occurrence
+W4391591592,TravelPlanner: A Benchmark for Real-World Planning with Language Agents,kept,,W4391591592,first occurrence
+W4411120574,Towards Reliable Agents: Benchmarking Customized LLM-Based Retrieval-Augmented Generation Frameworks with Deployment Val,kept,,W4411120574,first occurrence
+W4402671905,Mobile-Bench: An Evaluation Benchmark for LLM-based Mobile Agents,kept,,W4402671905,first occurrence
+W4385825419,BOLAA: Benchmarking and Orchestrating LLM-augmented Autonomous Agents,kept,,W4385825419,first occurrence
+W4415796190,Embodied Agent Interface: Benchmarking LLMs for Embodied Decision Making,kept,,W4415796190,first occurrence
+W4415797693,OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments,kept,,W4415797693,first occurrence
+W4412889702,Benchmarking LLMs and LLM-based Agents in Practical Vulnerability Detection for Code Repositories,kept,,W4412889702,first occurrence
+W4403564213,AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents,kept,,W4403564213,first occurrence
+W4403884175,Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents,kept,,W4403884175,first occurrence
+W4404782852,DA-Code: Agent Data Science Code Generation Benchmark for Large Language Models,kept,,W4404782852,first occurrence
+W4404481306,"Benchmarking Large Language Models for Multi-agent Systems: A Comparative Analysis of AutoGen, CrewAI, and TaskWeaver",kept,,W4404481306,first occurrence
+W4402671485,AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents,kept,,W4402671485,first occurrence
+W4404781154,BLADE: Benchmarking Language Model Agents for Data-Driven Science,kept,,W4404781154,first occurrence
+W4402856941,POGEMA: A Benchmark Platform for Cooperative Multi-Agent Pathfinding,kept,,W4402856941,first occurrence
+W4405627213,TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks,kept,,W4405627213,first occurrence
+W4415800716,WFCRL: A Multi-Agent Reinforcement Learning Benchmark for Wind Farm Control,kept,,W4415800716,first occurrence
+W4389363807,BenchMARL: Benchmarking Multi-Agent Reinforcement Learning,kept,,W4389363807,first occurrence
+W4402683822,CToolEval: A Chinese Benchmark for LLM-Powered Agent Evaluation in Real-World API Interactions,kept,,W4402683822,first occurrence
+W4403943319,Seal-Tools: Self-instruct Tool Learning Dataset for Agent Tuning and Detailed Benchmark,kept,,W4403943319,first occurrence
+W4380714553,A Versatile Multi-Agent Reinforcement Learning Benchmark for Inventory Management,kept,,W4380714553,first occurrence
+W4407806895,MLGym: A New Framework and Benchmark for Advancing AI Research Agents,kept,,W4407806895,first occurrence
+W4403364962,Benchmarking Agentic Workflow Generation,kept,,W4403364962,first occurrence
+W4394782272,OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments,dropped,exact_norm_title,W4415797693,duplicate of kept (exact_norm_title)
+W4399836817,$τ$-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains,kept,,W4399836817,first occurrence
+W4415427913,From Grounding to Planning: Benchmarking Bottlenecks in Web Agents,kept,,W4415427913,first occurrence
+W7124289417,TaxAI: A Dynamic Economic Simulator and Benchmark for Multi-agent Reinforcement Learning,kept,,W7124289417,first occurrence
+W4406841370,MedAgentBench: A Realistic Virtual EHR Environment to Benchmark Medical LLM Agents,kept,,W4406841370,first occurrence
+W4404792846,FlowBench: Revisiting and Benchmarking Workflow-Guided Planning for LLM-based Agents,kept,,W4404792846,first occurrence
+W4412886800,INVESTORBENCH: A Benchmark for Financial Decision-Making Tasks with LLM-based Agent,kept,,W4412886800,first occurrence
+W4413402046,EH-Benchmark: Ophthalmic hallucination benchmark and agent-driven top-down traceable reasoning workflow,kept,,W4413402046,first occurrence
+W4391899415,AI Hospital: Benchmarking Large Language Models in a Multi-agent Medical Interaction Simulator,kept,,W4391899415,first occurrence
+W4392538073,InjecAgent: Benchmarking Indirect Prompt Injections in Tool-Integrated Large Language Model Agents,dropped,exact_norm_title,W4402670146,duplicate of kept (exact_norm_title)
+W4413145608,ComfyBench: Benchmarking LLM-based Agents in ComfyUI for Autonomously Designing Collaborative AI Systems,kept,,W4413145608,first occurrence
+W4400612103,GTA: A Benchmark for General Tool Agents,kept,,W4400612103,first occurrence
+W4416036279,CityEQA: A Hierarchical LLM Agent on Embodied Question Answering Benchmark in City Space,kept,,W4416036279,first occurrence
+W4404545083,OmniACT: A Dataset and Benchmark for Enabling Multimodal Generalist Autonomous Agents for Desktop and Web,kept,,W4404545083,first occurrence
+W4403345948,Embodied Agent Interface: Benchmarking LLMs for Embodied Decision Making,dropped,exact_norm_title,W4415796190,duplicate of kept (exact_norm_title)
+W4415795995,RedCode: Risky Code Execution and Generation Benchmark for Code Agents,kept,,W4415795995,first occurrence
+W7133246398,SMACv2: An Improved Benchmark for Cooperative Multi-Agent Reinforcement Learning,kept,,W7133246398,first occurrence
+W4399837154,WebCanvas: Benchmarking Web Agents in Online Environments,kept,,W4399837154,first occurrence
+W4410440509,RedTeamAI: A Benchmark for Assessing Autonomous Cybersecurity Agents,kept,,W4410440509,first occurrence
+W4403888240,AutoPenBench: Benchmarking Generative Agents for Penetration Testing,kept,,W4403888240,first occurrence
+W4412888327,MMInA: Benchmarking Multihop Multimodal Internet Agents,kept,,W4412888327,first occurrence
+W4377865080,SpokenWOZ: A Large-Scale Speech-Text Benchmark for Spoken Task-Oriented Dialogue Agents,kept,,W4377865080,first occurrence
+W4401042401,AgentQuest: A Modular Benchmark Framework to Measure Progress and Improve LLM Agents,kept,,W4401042401,first occurrence
+W4415539729,UAV-ON: A Benchmark for Open-World Object Goal Navigation with Aerial Agents,kept,,W4415539729,first occurrence
+W4406866661,HumanEvalComm: Benchmarking the Communication Competence of Code Generation for LLMs and LLM Agent,kept,,W4406866661,first occurrence
+W4404649840,BALROG: Benchmarking Agentic LLM and VLM Reasoning On Games,kept,,W4404649840,first occurrence
+W7131400538,Benchmark Test-Time Scaling of General LLM Agents,kept,,W7131400538,first occurrence
+W4382319487,Extension of constraint-procedural logic-generated environments for deep Q-learning agent training and benchmarking,kept,,W4382319487,first occurrence
+W7130481397,Benchmarking large language model-based agent systems for clinical decision tasks,kept,,W7130481397,first occurrence
+W4413065709,Toward the Autonomous AI Doctor: Quantitative Benchmarking of an Autonomous Agentic AI Versus Board-Certified Clinicians,kept,,W4413065709,first occurrence
+W4392270846,Benchmarking Data Science Agents,dropped,exact_norm_title,W4402671956,duplicate of kept (exact_norm_title)
+W4415333036,OS-Harm: A Benchmark for Measuring Safety of Computer Use Agents,kept,,W4415333036,first occurrence
+W4414991266,Benchmarking LLM-based agents for single-cell omics analysis,kept,,W4414991266,first occurrence
+W4391047179,R-Judge: Benchmarking Safety Risk Awareness for LLM Agents,dropped,exact_norm_title,W4404782219,duplicate of kept (exact_norm_title)
+W4415697200,GeoBenchX: Benchmarking LLMs in Agent Solving Multistep Geospatial Tasks,kept,,W4415697200,first occurrence
+W4405562840,SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents,kept,,W4405562840,first occurrence
+W4405425144,BLADE: Benchmarking Language Model Agents for Data-Driven Science,dropped,exact_norm_title,W4404781154,duplicate of kept (exact_norm_title)
+W4403578753,JAILJUDGE: A Comprehensive Jailbreak Judge Benchmark with Multi-Agent Enhanced Explanation Evaluation Framework,kept,,W4403578753,first occurrence
+W7124263640,An Extended Benchmarking of Multi-Agent Reinforcement Learning Algorithms in Complex Fully Cooperative Tasks,kept,,W7124263640,first occurrence
+W4387389108,SmartPlay: A Benchmark for LLMs as Intelligent Agents,kept,,W4387389108,first occurrence
+W4411119485,TurkingBench: A Challenge Benchmark for Web Agents,kept,,W4411119485,first occurrence
+W4400612103,GTA: A Benchmark for General Tool Agents,dropped,exact_norm_title,W4415796852,lower precedence than duplicate (exact_norm_title)
+W4415286464,MedAgentsBench: Benchmarking Thinking Models and Agent Frameworks for Complex Medical Reasoning,kept,,W4415286464,first occurrence
+W4409724980,Coding Agents: A Comprehensive Survey of Automated Bug Fixing Systems and Benchmarks,kept,,W4409724980,first occurrence
+W4403569908,EmbodiedCity: A Benchmark Platform for Embodied Agent in Real-world City Environment,kept,,W4403569908,first occurrence
+W4394710846,AgentQuest: A Modular Benchmark Framework to Measure Progress and Improve LLM Agents,dropped,exact_norm_title,W4401042401,duplicate of kept (exact_norm_title)
+W4392011697,Benchmark Self-Evolving: A Multi-Agent Framework for Dynamic LLM Evaluation,kept,,W4392011697,first occurrence
+W4403564265,Catastrophic Cyber Capabilities Benchmark (3CB): Robustly Evaluating LLM Agent Cyber Offense Capabilities,kept,,W4403564265,first occurrence
+W7117833627,It's a TRAP! Task-Redirecting Agent Persuasion Benchmark for Web Agents,kept,,W7117833627,first occurrence
+W4412877122,DCA-Bench: A Benchmark for Dataset Curation Agents,kept,,W4412877122,first occurrence
+W4401017924,Proposal for a Flexible Benchmark for Agent Based Models,kept,,W4401017924,first occurrence
+W4398836283,AndroidWorld: A Dynamic Benchmarking Environment for Autonomous Agents,kept,,W4398836283,first occurrence
+W4399795293,CoSQA+: Pioneering the Multi-Choice Code Search Benchmark with Test-Driven Agents,kept,,W4399795293,first occurrence
+W4417300641,MedAgentBoard: Benchmarking Multi-Agent Collaboration with Conventional Methods for Diverse Medical Tasks,kept,,W4417300641,first occurrence
+W4413147008,Sketchtopia: A Dataset and Foundational Agents for Benchmarking Asynchronous Multimodal Communication with Iconic Feedba,kept,,W4413147008,first occurrence
+W4394868323,MMInA: Benchmarking Multihop Multimodal Internet Agents,dropped,exact_norm_title,W4412888327,duplicate of kept (exact_norm_title)
+W4388551615,MARL$$_{4}DRP$$: Benchmarking Cooperative Multi-agent Reinforcement Learning Algorithms for Drone Routing Problems,kept,,W4388551615,first occurrence
+W4412887847,X-WebAgentBench: A Multilingual Interactive Web Benchmark for Evaluating Global Agentic System,kept,,W4412887847,first occurrence
+W4416195096,"Large Language Model Agents for Investment Management: Foundations, Benchmarks, and Research Frontiers",kept,,W4416195096,first occurrence
+W7124265668,EnEnv 1.0: Energy Grid Environment for Multi-Agent Reinforcement Learning Benchmarking,kept,,W7124265668,first occurrence
+W4417089504,BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents,kept,,W4417089504,first occurrence
+W4412886821,AndroidLab: Training and Systematic Benchmarking of Android Autonomous Agents,kept,,W4412886821,first occurrence
+W4392971675,Tur[k]ingBench: A Challenge Benchmark for Web Agents,dropped,levenshtein>=0.93,W4411119485,duplicate of kept (levenshtein>=0.93)
+W4396653533,WorkBench: a Benchmark Dataset for Agents in a Realistic Workplace Setting,kept,,W4396653533,first occurrence
+W4415069437,DeepResearch Bench: A Comprehensive Benchmark for Deep Research Agents,kept,,W4415069437,first occurrence
+W4404354192,Benchmarking Multimodal Retrieval Augmented Generation with Dynamic VQA Dataset and Self-adaptive Planning Agent,kept,,W4404354192,first occurrence
+W4417161986,"Beyond Benchmarks: Dynamic, Automatic And Systematic Red-Teaming Agents For Trustworthy Medical Language Models",kept,,W4417161986,first occurrence
+W7147004655,The Theoretical Production Benchmark v2.0: Evaluating Sustained Conceptual Coherence in Multi-Agent LLM Systems,kept,,W7147004655,first occurrence
+W4408874506,AMaze: an intuitive benchmark generator for fast prototyping of generalizable agents,kept,,W4408874506,first occurrence
+W4412203693,Benchmark of a biophysical model for the radiobiology of RNT with 125I-labelled agents,kept,,W4412203693,first occurrence
+W4400333959,Mobile-Bench: An Evaluation Benchmark for LLM-based Mobile Agents,dropped,exact_norm_title,W4402671905,duplicate of kept (exact_norm_title)
+W4414854662,Personalized Safety in LLMs: A Benchmark and A Planning-Based Agent Approach,kept,,W4414854662,first occurrence
+W4404392676,RedCode: Risky Code Execution and Generation Benchmark for Code Agents,dropped,exact_norm_title,W4415795995,duplicate of kept (exact_norm_title)
+W4414757718,FutureX: An Advanced Live Benchmark for LLM Agents in Future Prediction,kept,,W4414757718,first occurrence
+W4400945821,Quantifying Bias in Agentic Large Language Models: A Benchmarking Approach,kept,,W4400945821,first occurrence
+W7111231663,SMACv2:An Improved Benchmark for Cooperative Multi-Agent Reinforcement Learning,dropped,exact_norm_title,W7133246398,duplicate of kept (exact_norm_title)
+W4413358490,Simurgh: Multi-Agent Adversarial Benchmarking for Proactive Microservice Observability,kept,,W4413358490,first occurrence
+W4416195122,FinAgentBench: A Benchmark Dataset for Agentic Retrieval in Financial Question Answering,kept,,W4416195122,first occurrence
+W4401201041,MMAU: A Holistic Benchmark of Agent Capabilities Across Diverse Domains,kept,,W4401201041,first occurrence
+W4416540657,REAL: Benchmarking Autonomous Agents on Deterministic Simulations of Real Websites,kept,,W4416540657,first occurrence
+W4416036629,TP-RAG: Benchmarking Retrieval-Augmented Large Language Model Agents for Spatiotemporal-Aware Travel Planning,kept,,W4416036629,first occurrence
+W7130465524,Agentic Data Analysis for Intelligent Manufacturing: Benchmark-Driven Evaluation of Agentic vs. Direct LLM Approaches,kept,,W7130465524,first occurrence
+W4402683810,Towards Objectively Benchmarking Social Intelligence of Language Agents at the Action Level,kept,,W4402683810,first occurrence
+W4404088748,IntersectionZoo: Eco-driving for Benchmarking Multi-Agent Contextual Reinforcement Learning,kept,,W4404088748,first occurrence
+W7128358391,MemGUI-Bench: Benchmarking Memory of Mobile GUI Agents in Dynamic Environments,kept,,W7128358391,first occurrence
+W7130648243,AutoONBench: a benchmark for large language model agents in autonomous optical networks,kept,,W7130648243,first occurrence
+W4406122455,WFCRL: A Multi-Agent Reinforcement Learning Benchmark for Wind Farm Control,dropped,exact_norm_title,W4415800716,duplicate of kept (exact_norm_title)
+W4392427906,"Imitation Learning Datasets: A Toolkit For Creating Datasets, Training Agents and Benchmarking",kept,,W4392427906,first occurrence
+W4387221899,TaxAI: A Dynamic Economic Simulator and Benchmark for Multi-Agent Reinforcement Learning,dropped,exact_norm_title,W7124289417,duplicate of kept (exact_norm_title)
+W4400343274,BioKGBench: A Knowledge Graph Checking Benchmark of AI Agent for Biomedical Science,kept,,W4400343274,first occurrence
+W4399354756,HumanEvalComm: Benchmarking the Communication Competence of Code Generation for LLMs and LLM Agent,dropped,exact_norm_title,W4406866661,duplicate of kept (exact_norm_title)
+W4400267107,ShortcutsBench: A Large-Scale Real-world Benchmark for API-based Agents,kept,,W4400267107,first occurrence
+W4407629689,MedAgentBench: A Realistic Virtual EHR Environment to Benchmark Medical LLM Agents,dropped,exact_norm_title,W4406841370,duplicate of kept (exact_norm_title)
+W4399990898,FlowBench: Revisiting and Benchmarking Workflow-Guided Planning for LLM-based Agents,dropped,exact_norm_title,W4404792846,duplicate of kept (exact_norm_title)
+W4411119440,AgentSense: Benchmarking Social Intelligence of Language Agents through Interactive Scenarios,kept,,W4411119440,first occurrence
+W4414930036,FinGAIA: A Chinese Benchmark for AI Agents in Real-World Financial Domain,kept,,W4414930036,first occurrence
+W4400786943,MAS-Bench: a benchmarking for parameter calibration of multi-agent crowd simulation,kept,,W4400786943,first occurrence
+W4402467036,AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents,dropped,exact_norm_title,W4402671485,duplicate of kept (exact_norm_title)
+W4398156921,Simulation-Based Benchmarking of Reinforcement Learning Agents for Personalized Retail Promotions,kept,,W4398156921,first occurrence
+W4414448307,MCP-Bench: Benchmarking Tool-Using LLM Agents with Complex Real-World Tasks via MCP Servers,kept,,W4414448307,first occurrence
+W7140294178,Code Review Agent Benchmark,kept,,W7140294178,first occurrence
+W7140294178,Code Review Agent Benchmark,dropped,exact_norm_title,W7140954107,lower precedence than duplicate (exact_norm_title)
+W4415797759,ZSC-Eval: An Evaluation Toolkit and Benchmark for Multi-agent Zero-shot Coordination,kept,,W4415797759,first occurrence
+W4417134740,"MCPWorld: A Unified Benchmarking Testbed for API, GUI, and Hybrid Computer Use Agents",kept,,W4417134740,first occurrence
+W4412887745,ProjectEval: A Benchmark for Programming Agents Automated Evaluation on Project-Level Code Generation,kept,,W4412887745,first occurrence
+W4411119411,CSR-Bench: Benchmarking LLM Agents in Deployment of Computer Science Research Repositories,kept,,W4411119411,first occurrence
+W7127718823,Multilingual Text-to-SQL: Benchmarking the Limits of Language Models with Collaborative Language Agents,kept,,W7127718823,first occurrence
+W7128814741,AgentLeak: A Full-Stack Benchmark for Privacy Leakage in Multi-Agent LLM Systems,kept,,W7128814741,first occurrence
+W4405792484,GUI Testing Arena: A Unified Benchmark for Advancing Autonomous GUI Testing Agent,kept,,W4405792484,first occurrence
+W4416237171,FHIR-AgentBench: Benchmarking LLM Agents for Realistic Interoperable EHR Question Answering,kept,,W4416237171,first occurrence
+W4402253773,Benchmark for multi-agent pickup and delivery problem in a robotic mobile fulfillment system,kept,,W4402253773,first occurrence
+W4387559794,ZSC-Eval: An Evaluation Toolkit and Benchmark for Multi-agent Zero-shot Coordination,dropped,exact_norm_title,W4415797759,duplicate of kept (exact_norm_title)
+W7131297773,SusBench: An Online Benchmark for Evaluating Dark Pattern Susceptibility of Computer-Use Agents,kept,,W7131297773,first occurrence
+W7138907424,From Benchmarks to Business Impact: Deploying IBM Generalist Agent in Enterprise Production,kept,,W7138907424,first occurrence
+W7131273832,Beyond single-channel agentic benchmarking,kept,,W7131273832,first occurrence
+W7138914621,CUBE: A Standard for Unifying Agent Benchmarks,kept,,W7138914621,first occurrence
+W7131273832,Beyond single-channel agentic benchmarking,dropped,exact_norm_title,W7131320235,lower precedence than duplicate (exact_norm_title)
+W4403161364,ComfyBench: Benchmarking LLM-based Agents in ComfyUI for Autonomously Designing Collaborative AI Systems,dropped,exact_norm_title,W4413145608,duplicate of kept (exact_norm_title)
+W7161030200,ABRA: Agent Benchmark for Radiology Applications,kept,,W7161030200,first occurrence
+W4363671826,The Rational Agent Benchmark for Data Visualization,dropped,exact_norm_title,W4387885897,duplicate of kept (exact_norm_title)
+W7161452227,Herculean: An Agentic Benchmark for Financial Intelligence,kept,,W7161452227,first occurrence
+W7161030200,ABRA: Agent Benchmark for Radiology Applications,dropped,exact_norm_title,W7161204334,lower precedence than duplicate (exact_norm_title)
+W7161236075,Herculean: An Agentic Benchmark for Financial Intelligence,dropped,exact_norm_title,W7161452227,duplicate of kept (exact_norm_title)
+W7138914621,CUBE: A Standard for Unifying Agent Benchmarks,dropped,exact_norm_title,W7139144430,lower precedence than duplicate (exact_norm_title)
+W4416035065,ResearchArena: Benchmarking Large Language Models’ Ability to Collect and Organize Information as Research Agents,kept,,W4416035065,first occurrence
+W4377865080,SpokenWOZ: A Large-Scale Speech-Text Benchmark for Spoken Task-Oriented Dialogue Agents,dropped,exact_norm_title,W7133240501,lower precedence than duplicate (exact_norm_title)
+W4389469779,BEDD: The MineRL BASALT Evaluation and Demonstrations Dataset for Training and Benchmarking Agents that Solve Fuzzy Task,kept,,W4389469779,first occurrence
+W4407590542,EmbodiedBench: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents,kept,,W4407590542,first occurrence
+W7129369048,Unsafer in Many Turns: Benchmarking and Defending Multi-Turn Safety Risks in Tool-Using Agents,kept,,W7129369048,first occurrence
+W4414681448,CVE-Bench: A Benchmark for AI Agents' Ability to Exploit Real-World Web Application Vulnerabilities,kept,,W4414681448,first occurrence
+W4414813448,Beyond the Strongest LLM: Multi-Turn Multi-Agent Orchestration vs. Single LLMs on Benchmarks,kept,,W4414813448,first occurrence
+W4384808169,BOLD: A Benchmark for Linked Data User Agents and a Simulation Framework for Dynamic Linked Data Environments,kept,,W4384808169,first occurrence
+W4417284393,Toward Reliable Annotation in Low-Resource NLP: A Mixture of Agents Framework and Multi-LLM Benchmarking,kept,,W4417284393,first occurrence
+W7126123156,Agent Benchmarks Fail Public Sector Requirements,kept,,W7126123156,first occurrence
+W4407780297,DataSciBench: An LLM Agent Benchmark for Data Science,kept,,W4407780297,first occurrence
+W7161048964,GenoTEX: LLM Agent Benchmark for Genomic Analysis,kept,,W7161048964,first occurrence
+W7126051014,Agent Benchmarks Fail Public Sector Requirements,dropped,exact_norm_title,W7126123156,duplicate of kept (exact_norm_title)
+W4403364484,COMMA: A Communicative Multimodal Multi-Agent Benchmark,kept,,W4403364484,first occurrence
+W4416083502,A2Perf: Real-World Autonomous Agents Benchmark,kept,,W4416083502,first occurrence
+W7128818021,OpenCDA-MARL: A Unified Benchmarking Framework for Cooperative Autonomous Intersection Management With Multi-Agent Reinf,kept,,W7128818021,first occurrence
+W7138370235,"Towards Effective Offensive Security LLM Agents: Hyperparameter Tuning, LLM as a Judge, and a Lightweight CTF Benchmark",kept,,W7138370235,first occurrence
+W7131676923,Deep Q-Network Agents for Game Playing: Systematic Evaluation Across Eight Benchmark and Custom Environments,kept,,W7131676923,first occurrence
+W7140953469,Ego2Web: A Web Agent Benchmark Grounded in Egocentric Videos,kept,,W7140953469,first occurrence
+W7162547973,Anchor: Mitigating Artifact Drift in Agent Benchmark Generation,kept,,W7162547973,first occurrence
+W7138033599,Establishing Best Practices for Building Rigorous Agentic Benchmarks,kept,,W7138033599,first occurrence
+W7162547973,Anchor: Mitigating Artifact Drift in Agent Benchmark Generation,dropped,exact_norm_title,W7162700520,lower precedence than duplicate (exact_norm_title)
+W7140326733,Ego2Web: A Web Agent Benchmark Grounded in Egocentric Videos,dropped,exact_norm_title,W7140953469,duplicate of kept (exact_norm_title)
+W4416519583,DABstep: Data Agent Benchmark for Multi-step Reasoning,kept,,W4416519583,first occurrence
+W7162818497,A Matter of TASTE: Improving Coverage and Difficulty of Agent Benchmarks,kept,,W7162818497,first occurrence
+W7162684734,A Matter of TASTE: Improving Coverage and Difficulty of Agent Benchmarks,dropped,exact_norm_title,W7162818497,duplicate of kept (exact_norm_title)
+W7157670855,BenchGuard: Who Guards the Benchmarks? Automated Auditing of LLM Agent Benchmarks,kept,,W7157670855,first occurrence
+W7157670855,BenchGuard: Who Guards the Benchmarks? Automated Auditing of LLM Agent Benchmarks,dropped,exact_norm_title,W7159547049,lower precedence than duplicate (exact_norm_title)
+W7111563926,An Agentic Benchmarking of Large Language Models for Security Incident Analysis,kept,,W7111563926,first occurrence
+W7117079325,ReX-MLE: The Autonomous Agent Benchmark for Medical Imaging Challenges,kept,,W7117079325,first occurrence
+W7155654874,"Cross-Session Threats in AI Agents: Benchmark, Evaluation, and Algorithms",kept,,W7155654874,first occurrence
+W4417073165,DriveEval-Agent: A Closed-Loop Framework Combining Zero-Shot Benchmarking and Full Fine-Tuning for Multimodal Autonomous,kept,,W4417073165,first occurrence
+W7134224958,The World Won't Stay Still: Programmable Evolution for Agent Benchmarks,kept,,W7134224958,first occurrence
+W7134224958,The World Won't Stay Still: Programmable Evolution for Agent Benchmarks,dropped,exact_norm_title,W7134291550,lower precedence than duplicate (exact_norm_title)
+W4385682136,AgentBench: Evaluating LLMs as Agents,kept,,W4385682136,first occurrence
+W4385849309,ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate,kept,,W4385849309,first occurrence
+W4402684150,Evaluating Very Long-Term Conversational Memory of LLM Agents,kept,,W4402684150,first occurrence
+W4402670103,MatPlotAgent: Method and Evaluation for LLM-Based Agentic Scientific Data Visualization,kept,,W4402670103,first occurrence
+W4408165425,Design and evaluation of an Autonomous Cyber Defence agent using DRL and an augmented LLM,kept,,W4408165425,first occurrence
+W4412945638,MultiAgentBench : Evaluating the Collaboration and Competition of LLM agents,kept,,W4412945638,first occurrence
+W4396832912,Prompt-Gaming: A Pilot Study on LLM-Evaluating Agent in a Meaningful Energy Game,kept,,W4396832912,first occurrence
+W4412886733,LegalAgentBench: Evaluating LLM Agents in Legal Domain,kept,,W4412886733,first occurrence
+W4415289348,Survey on Evaluation of LLM-based Agents,kept,,W4415289348,first occurrence
+W4400187846,Managing Linux servers with LLM-based AI agents: An empirical evaluation with GPT4,kept,,W4400187846,first occurrence
+W4411119815,LLM-Coordination: Evaluating and Analyzing Multi-agent Coordination Abilities in Large Language Models,kept,,W4411119815,first occurrence
+W4391244521,AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents,kept,,W4391244521,first occurrence
+W4402480690,Evaluation of an LLM-Powered Student Agent for Teacher Training,kept,,W4402480690,first occurrence
+W4392971563,How Far Are We on the Decision-Making of LLMs? Evaluating LLMs' Gaming Ability in Multi-Agent Environments,kept,,W4392971563,first occurrence
+W4401043616,On Evaluating the Integration of Reasoning and Action in LLM Agents with Database Question Answering,kept,,W4401043616,first occurrence
+W4393967396,LLM-Coordination: Evaluating and Analyzing Multi-agent Coordination Abilities in Large Language Models,dropped,exact_norm_title,W4411119815,duplicate of kept (exact_norm_title)
+W4416035019,PersonaGym: Evaluating Persona Agents and LLMs,kept,,W4416035019,first occurrence
+W4415796822,AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents,kept,,W4415796822,first occurrence
+W4413025843,Multi-Model Dialectical Evaluation of LLM Reasoning Chains: A Structured Framework with Dual Scoring Agents,kept,,W4413025843,first occurrence
+W4401201013,PersonaGym: Evaluating Persona Agents and LLMs,dropped,exact_norm_title,W4416035019,duplicate of kept (exact_norm_title)
+W4399912700,AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents,dropped,exact_norm_title,W4415796822,duplicate of kept (exact_norm_title)
+W4405035082,HackSynth: LLM Agent and Evaluation Framework for Autonomous Penetration Testing,kept,,W4405035082,first occurrence
+W4405627542,Agent-SafetyBench: Evaluating the Safety of LLM Agents,kept,,W4405627542,first occurrence
+W4404782102,An Evaluation Mechanism of LLM-based Agents on Manipulating APIs,kept,,W4404782102,first occurrence
+W4412886643,Auto-Arena: Automating LLM Evaluations with Agent Peer Battles and Committee Discussions,kept,,W4412886643,first occurrence
+W4392248989,Managing Linux Servers with Llm-Based Ai Agents: An Empirical Evaluation with Gpt4,dropped,exact_norm_title,W4400187846,duplicate of kept (exact_norm_title)
+W4392271948,Evaluating Very Long-Term Conversational Memory of LLM Agents,dropped,exact_norm_title,W4402684150,duplicate of kept (exact_norm_title)
+W4391244521,AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents,dropped,exact_norm_title,W4415797149,lower precedence than duplicate (exact_norm_title)
+W4410294558,Can LLM-Augmented Autonomous Agents Cooperate? An Evaluation of Their Cooperative Capabilities Through Melting Pot,kept,,W4410294558,first occurrence
+W4398796203,ALI-Agent: Assessing LLMs' Alignment with Human Values via Agent-based Evaluation,kept,,W4398796203,first occurrence
+W4415054476,"Collaborate, Deliberate, Evaluate: How LLM Alignment Affects Coordinated Multi-Agent Outcomes",kept,,W4415054476,first occurrence
+W4403880476,Can Machines Think Like Humans? A Behavioral Evaluation of LLM-Agents in Dictator Games,kept,,W4403880476,first occurrence
+W7118158543,Agentic AI in Healthcare and Medicine: A Seven-Dimensional Taxonomy for Empirical Evaluation of LLM-Based Agents,kept,,W7118158543,first occurrence
+W4409736144,Playing Dumb to Get Smart: Creating and Evaluating an LLM-based Teachable Agent within University Computer Science Class,kept,,W4409736144,first occurrence
+W4410087623,Evaluating and Enhancing LLMs Agent Based on Theory of Mind in Guandan: A Multi-Player Cooperative Game Under Imperfect ,kept,,W4410087623,first occurrence
+W4411113099,Evaluating Cultural and Social Awareness of LLM Web Agents,kept,,W4411113099,first occurrence
+W4399597482,GameBench: Evaluating Strategic Reasoning Abilities of LLM Agents,kept,,W4399597482,first occurrence
+W7150166984,From Static Scores to Cognitive Retrieval: A Comparative Evaluation of Memory Prioritization Algorithms for LLM Multi-Ag,kept,,W7150166984,first occurrence
+W4387560371,Put Your Money Where Your Mouth Is: Evaluating Strategic Planning and Execution of LLM Agents in an Auction Arena,kept,,W4387560371,first occurrence
+W4404781196,Automated test generation to evaluate tool-augmented LLMs as conversational AI agents,kept,,W4404781196,first occurrence
+W4405907151,Design and Evaluation of an Autonomous Cyber Defence Agent Using Drl and an Augmented Llm,dropped,exact_norm_title,W4408165425,duplicate of kept (exact_norm_title)
+W7125387752,Deploying and evaluating a conversational agent using LLMs for academic library reference,kept,,W7125387752,first occurrence
+W4409363027,LLM Agents Can Be Choice-Supportive Biased Evaluators: An Empirical Study,kept,,W4409363027,first occurrence
+W4410538601,Evaluation of the Choice of LLM in a Multi-Agent Solution for GUI-Test Generation,kept,,W4410538601,first occurrence
+W4400337685,MIRAI: Evaluating LLM Agents for Event Forecasting,kept,,W4400337685,first occurrence
+W4405767549,LegalAgentBench: Evaluating LLM Agents in Legal Domain,dropped,exact_norm_title,W4412886733,duplicate of kept (exact_norm_title)
+W4416396996,Evaluation-Driven Development and Operations of LLM Agents: A Process Model and Reference Architecture,kept,,W4416396996,first occurrence
+W4412889602,EducationQ: Evaluating LLMs’ Teaching Capabilities Through Multi-Agent Dialogue Framework,kept,,W4412889602,first occurrence
+W4416955380,Evaluating Faithfulness in Agentic RAG Systems for e-Governance Applications Using LLM-Based Judging Frameworks,kept,,W4416955380,first occurrence
+W4412944686,The Behavior Gap: Evaluating Zero-shot LLM Agents in Complex Task-Oriented Dialogs,kept,,W4412944686,first occurrence
+W7125268930,An LLM-based multi-agent system to assist early-stage product design and evaluation,kept,,W7125268930,first occurrence
+W4412708385,Development and evaluation of an agentic LLM based RAG framework for evidence-based patient education,kept,,W4412708385,first occurrence
+W4391057591,Magenta: Metrics and Evaluation Framework for Generative Agents based on LLMs,kept,,W4391057591,first occurrence
+W4415230938,Interactional Fairness in LLM Multi-Agent Systems: An Evaluation Framework,kept,,W4415230938,first occurrence
+W7125598063,"An Empirical Evaluation of LLM-Based Approaches for Code Vulnerability Detection: RAG, SFT, and Dual-Agent Systems",kept,,W7125598063,first occurrence
+W4408353845,IDE: A Multi-Agent-Driven Iterative Framework for Dynamic Evaluation of LLMs,kept,,W4408353845,first occurrence
+W4416004498,LLM Agents for Interactive Workflow Provenance: Reference Architecture and Evaluation Methodology,kept,,W4416004498,first occurrence
+W4415971869,Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions,kept,,W4415971869,first occurrence
+W4388787806,On Evaluating the Integration of Reasoning and Action in LLM Agents with Database Question Answering,dropped,exact_norm_title,W4401043616,duplicate of kept (exact_norm_title)
+W7126421652,A Context-Aware LLM-Based Action Safety Evaluator for Automation Agents,kept,,W7126421652,first occurrence
+W4416250602,Specification and Evaluation of Multi-Agent LLM Systems - Prototype and Cybersecurity Applications,kept,,W4416250602,first occurrence
+W7125978039,Evaluating Fairness in LLM Negotiator Agents via Economic Games Using Multi-Agent Systems,kept,,W7125978039,first occurrence
+W4417132388,"Enhancing LLM Code Generation: A Systematic Evaluation of Multi-Agent Collaboration and Runtime Debugging for Accuracy, ",kept,,W4417132388,first occurrence
+W4404312297,AGENT-CQ: Automatic Generation and Evaluation of Clarifying Questions for Conversational Search with LLMs,kept,,W4404312297,first occurrence
+W4416034079,Privacy in Action: Towards Realistic Privacy Mitigation and Evaluation for LLM-Powered Agents,kept,,W4416034079,first occurrence
+W4404650144,Evaluation-Driven Development and Operations of LLM Agents: A Process Model and Reference Architecture,dropped,exact_norm_title,W4416396996,duplicate of kept (exact_norm_title)
+W4399270419,Auto-Arena: Automating LLM Evaluations with Agent Peer Battles and Committee Discussions,dropped,exact_norm_title,W4412886643,duplicate of kept (exact_norm_title)
+W4403787228,Automated test generation to evaluate tool-augmented LLMs as conversational AI agents,dropped,exact_norm_title,W4404781196,duplicate of kept (exact_norm_title)
+W4416375749,Toward a Human-Centered Evaluation Framework for Trustworthy LLM-Powered GUI Agents,kept,,W4416375749,first occurrence
+W4410553198,Beyond pip Install: Evaluating LLM Agents for the Automated Installation of Python Projects,kept,,W4410553198,first occurrence
+W4416132621,LLM-Driven Agent-Based Evaluation Framework for Occupant-Centric HVAC Control Considering Individual Differences and Mov,kept,,W4416132621,first occurrence
+W4417068122,LLM-based Agent Simulation for Maternal Health Interventions: Uncertainty Estimation and Decision-focused Evaluation,kept,,W4417068122,first occurrence
+W4415427688,VALISE: A Virtual Agent Laboratory for Instruction-Following Simulation and Evaluation of LLM-Powered Digital Health Int,kept,,W4415427688,first occurrence
+W4404088882,When LLMs Learn to be Students: The SOEI Framework for Modeling and Evaluating Virtual Student Agents in Educational Int,kept,,W4404088882,first occurrence
+W7161035179,CTFusion: A CTF-based Benchmark for LLM Agent Evaluation,kept,,W7161035179,first occurrence
+W7140347033,AdaRubric: Task-Adaptive Rubrics for LLM Agent Evaluation,kept,,W7140347033,first occurrence
+W7161035179,CTFusion: A CTF-based Benchmark for LLM Agent Evaluation,dropped,exact_norm_title,W7161203893,lower precedence than duplicate (exact_norm_title)
+W4413899309,Joint Evaluation (Jo.E): A Collaborative Framework for Rigorous Safety and Alignment Evaluation of AI Systems Integratin,kept,,W4413899309,first occurrence
+W4403370488,Evaluating and Enhancing LLMs Agent based on Theory of Mind in Guandan: A Multi-Player Cooperative Game under Imperfect ,dropped,exact_norm_title,W4410087623,duplicate of kept (exact_norm_title)
+W4415030346,Enhancing LLM Code Generation: A Systematic Evaluation of Multi-Agent Collaboration and Runtime Debugging for Improved A,dropped,token_set>=0.92,W4417132388,duplicate of kept (token_set>=0.92)
+W4415332356,"""Shall We Dig Deeper?"": Designing and Evaluating Strategies for LLM Agents to Advance Knowledge Co-Construction in Async",kept,,W4415332356,first occurrence
+W7140189079,AdaRubric: Task-Adaptive Rubrics for Reliable LLM Agent Evaluation and Reward Learning,kept,,W7140189079,first occurrence
+W7162879191,"Budget-Aware LLM Agents. Evaluation, Failure Modes, and Trainable Cost Control",kept,,W7162879191,first occurrence
+W7162244386,Socio-Normative Trustworthiness of LLM Agents: Evaluating Autonomy Support and Representational Fairness Across Language,kept,,W7162244386,first occurrence
+W7128518302,The State of Evaluating LLM Agents,kept,,W7128518302,first occurrence
+W4416190350,From LLMs to Agents: A Comparative Evaluation of LLMs and LLM-based Agents in Security Patch Detection,kept,,W4416190350,first occurrence
+W7106857427,PersonaGym: Evaluating Persona Agents and LLMs,dropped,exact_norm_title,W4416035019,duplicate of kept (exact_norm_title)
+W7128864610,Evaluating Memory Structure in LLM Agents,kept,,W7128864610,first occurrence
+W7125580424,Evaluating Toxicity Understanding of LLM Agents,kept,,W7125580424,first occurrence
+W7128809068,Evaluating Memory Structure in LLM Agents,dropped,exact_norm_title,W7128864610,duplicate of kept (exact_norm_title)
+W7158134365,Aspis: Systematizing AI Risk Evaluation for LLMs and Agents Using LLM-Based Evaluators,kept,,W7158134365,first occurrence
+W7162219190,Agentic CLEAR: Automating Multi-Level Evaluation of LLM Agents,kept,,W7162219190,first occurrence
+W7162126770,Agentic CLEAR: Automating Multi-Level Evaluation of LLM Agents,dropped,exact_norm_title,W7162219190,duplicate of kept (exact_norm_title)
+W7133364395,Evaluating and Understanding Scheming Propensity in LLM Agents,kept,,W7133364395,first occurrence
+W4406745081,EmbodiedEval: Evaluate Multimodal LLMs as Embodied Agents,kept,,W4406745081,first occurrence
+W7130617476,Evaluating Collective Behaviour of Hundreds of LLM Agents,kept,,W7130617476,first occurrence
+W7151501585,AGENTIC LLM SYSTEM FOR AUTOMATED PROJECT EVALUATION,kept,,W7151501585,first occurrence
+W4417182809,Evaluating LLM Agent Collusion in Double Auctions,kept,,W4417182809,first occurrence
+W7162694930,A Unified Framework for the Evaluation of LLM Agentic Capabilities,kept,,W7162694930,first occurrence
+W4415339076,MultiAgentBench: Evaluating the Collaboration and Competition of LLM agents,dropped,exact_norm_title,W4412945638,duplicate of kept (exact_norm_title)
+W4416556826,LifelongAgentBench: Evaluating LLM Agents as Lifelong Learners,kept,,W4416556826,first occurrence
+W7118787850,Evaluating Explainability in Multi-Agent LLM Ecosystems,kept,,W7118787850,first occurrence
+W7130575680,Evaluating Collective Behaviour of Hundreds of LLM Agents,dropped,exact_norm_title,W7130617476,duplicate of kept (exact_norm_title)
+W7133305540,Evaluating and Understanding Scheming Propensity in LLM Agents,dropped,exact_norm_title,W7133364395,duplicate of kept (exact_norm_title)
+W7162694930,A Unified Framework for the Evaluation of LLM Agentic Capabilities,dropped,exact_norm_title,W7162818065,lower precedence than duplicate (exact_norm_title)
+W4405957668,Plancraft: an evaluation dataset for planning with LLM agents,kept,,W4405957668,first occurrence
+W7151346435,AGENTIC LLM SYSTEM FOR AUTOMATED PROJECT EVALUATION,dropped,exact_norm_title,W7151501585,duplicate of kept (exact_norm_title)
+W4416830366,LLM Agent Meets Agentic AI: Can LLM Agents Simulate Customers to Evaluate Agentic-AI-based Shopping Assistants?,kept,,W4416830366,first occurrence
+W4415306791,Leveraging LLMs as Meta-Judges: A Multi-Agent Framework for Evaluating LLM Judgments,kept,,W4415306791,first occurrence
+W7126001722,Toward Architecture-Aware Evaluation Metrics for LLM Agents,kept,,W7126001722,first occurrence
+W7148293666,DeepRed: Partial-Credit Evaluation of LLM Agents in CTFs,kept,,W7148293666,first occurrence
+W7154231911,Evaluating LLM Agents on Automated Software Analysis Tasks,kept,,W7154231911,first occurrence
+W7125977816,Toward Architecture-Aware Evaluation Metrics for LLM Agents,dropped,exact_norm_title,W7126001722,duplicate of kept (exact_norm_title)
+W4417536798,SHADE-Arena: Evaluating Sabotage and Monitoring in LLM Agents,kept,,W4417536798,first occurrence
+W7148428457,DeepRed: Partial-Credit Evaluation of LLM Agents in CTFs,dropped,exact_norm_title,W7148293666,duplicate of kept (exact_norm_title)
+W7162247626,Evaluating LLM Agents on Architectural Code Smell Repair,kept,,W7162247626,first occurrence
+W7127739740,The Necessity of a Unified Framework for LLM-Based Agent Evaluation,kept,,W7127739740,first occurrence
+W4410887599,Evaluating LLM-Based Communicative Agents for Verilog Design,kept,,W4410887599,first occurrence
+W7154231911,Evaluating LLM Agents on Automated Software Analysis Tasks,dropped,exact_norm_title,W7154539263,lower precedence than duplicate (exact_norm_title)
+W7119860193,A Unified Evaluation and Governance Framework for Trustworthy LLM Agents,kept,,W7119860193,first occurrence
+W4404343332,Evaluating Cultural and Social Awareness of LLM Web Agents,dropped,exact_norm_title,W4411113099,duplicate of kept (exact_norm_title)
+W7162240795,Evaluating LLM Agents on Architectural Code Smell Repair,dropped,exact_norm_title,W7162247626,duplicate of kept (exact_norm_title)
+W7127582359,The Necessity of a Unified Framework for LLM-Based Agent Evaluation,dropped,exact_norm_title,W7127739740,duplicate of kept (exact_norm_title)
+W7151137828,DeepRed: Partial-Credit Evaluation of LLM Agents in CTFs,dropped,exact_norm_title,W7148293666,duplicate of kept (exact_norm_title)
+W4416036585,Can LLMs Help You at Work? A Sandbox for Evaluating LLM Agents in Enterprise Environments,kept,,W4416036585,first occurrence
+W7106809142,Can LLMs Help You at Work? A Sandbox for Evaluating LLM Agents in Enterprise Environments,dropped,exact_norm_title,W4416036585,duplicate of kept (exact_norm_title)
+W4415918553,Can LLMs Help You at Work? A Sandbox for Evaluating LLM Agents in Enterprise Environments,dropped,exact_norm_title,W4416036585,duplicate of kept (exact_norm_title)
+W4414886945,Can Compressed LLMs Truly Act? An Empirical Evaluation of Agentic Capabilities in LLM Compression,kept,,W4414886945,first occurrence
+W4415338085,Dive into the Agent Matrix: A Realistic Evaluation of Self-Replication Risk in LLM Agents,kept,,W4415338085,first occurrence
+W7140307387,Automatically Benchmarking LLM Code Agents through Agent-driven Annotation and Evaluation,kept,,W7140307387,first occurrence
+W4417090570,Evaluating the Multilingual Capabilities of LLM-based Web UI Agents,kept,,W4417090570,first occurrence
+W7131893979,"The Evaluation Challenge of Agency: Reliability, Contamination, and Evolution in LLM Agents",kept,,W7131893979,first occurrence
+W7135175195,Multi-Agent Readiness Score (MARS) Evaluation of Genomic LLMs,kept,,W7135175195,first occurrence
+W7135209850,RewardHackingAgents: Benchmarking Evaluation Integrity for LLM ML-Engineering Agents,kept,,W7135209850,first occurrence
+W7126001554,RobustExplain: Evaluating Robustness of LLM-Based Explanation Agents for Recommendation,kept,,W7126001554,first occurrence
+W7105507633,Efficient LLM Safety Evaluation through Multi-Agent Debate,kept,,W7105507633,first occurrence
+W7125939460,RobustExplain: Evaluating Robustness of LLM-Based Explanation Agents for Recommendation,dropped,exact_norm_title,W7126001554,duplicate of kept (exact_norm_title)
+W7128909499,Evaluating LLM-based Agents for Multi-turn Conversations: A Survey,kept,,W7128909499,first occurrence
+W7116399990,SciSkillBench: CASCADE Benchmark for Evaluating LLM Agents on Scientific Tasks,kept,,W7116399990,first occurrence
+W7117361607,SciSkillBench: CASCADE Benchmark for Evaluating LLM Agents on Scientific Tasks,dropped,exact_norm_title,W7116399990,duplicate of kept (exact_norm_title)
+W7117995971,Multi-agent LLM with the Chain-of-Thought for Design Creativity Evaluation,kept,,W7117995971,first occurrence
+W7134907434,One-Eval: An Agentic System for Automated and Traceable LLM Evaluation,kept,,W7134907434,first occurrence
+W7162219231,AtelierEval: Agentic Evaluation of Humans & LLMs as Text-to-Image Prompters,kept,,W7162219231,first occurrence
+W7103879537,InnovatorBench: Evaluating Agents' Ability to Conduct Innovative LLM Research,kept,,W7103879537,first occurrence
+W7160969195,SmellBench: Evaluating LLM Agents on Architectural Code Smell Repair,kept,,W7160969195,first occurrence
+W7104869295,Efficient LLM Safety Evaluation through Multi-Agent Debate,dropped,exact_norm_title,W7105507633,duplicate of kept (exact_norm_title)
+W7127970208,Developing and Evaluating an LLM-based Agent for ExplorViz Using CopilotKit,kept,,W7127970208,first occurrence
+W7119526587,Study results for: Developing and Evaluating an LLM Agent Integration for ExplorViz,kept,,W7119526587,first occurrence
+W7161490726,SkillLens: Skill-Centered Evaluation Traces for LLM Coding Agents,kept,,W7161490726,first occurrence
+W7116392628,SciSkillBench: CASCADE Benchmark for Evaluating LLM Agents on Scientific Tasks,dropped,exact_norm_title,W7116399990,duplicate of kept (exact_norm_title)
+W7134907434,One-Eval: An Agentic System for Automated and Traceable LLM Evaluation,dropped,exact_norm_title,W7134992459,lower precedence than duplicate (exact_norm_title)
+W7103879537,InnovatorBench: Evaluating Agents' Ability to Conduct Innovative LLM Research,dropped,exact_norm_title,W7103910499,lower precedence than duplicate (exact_norm_title)
+W7135209850,RewardHackingAgents: Benchmarking Evaluation Integrity for LLM ML-Engineering Agents,dropped,exact_norm_title,W7135429255,lower precedence than duplicate (exact_norm_title)
+W7143407815,From evaluation to emulation: LLMs as agents of iterative pedagogical design,kept,,W7143407815,first occurrence
+W7134859939,Evaluating Multi-Agent LLM Architectures for Rare Disease Diagnosis,kept,,W7134859939,first occurrence
+W4390897643,AntEval: Evaluation of Social Interaction Competencies in LLM-Driven Agents,kept,,W4390897643,first occurrence
+W4414815214,The Social Laboratory: A Psychometric Framework for Multi-Agent LLM Evaluation,kept,,W4414815214,first occurrence
+W4416831914,ExCyTIn-Bench: Evaluating LLM agents on Cyber Threat Investigation,kept,,W4416831914,first occurrence
+W7148673145,A Multi-Evaluator Behavioural Governance Framework for LLM Agent Deployment,kept,,W7148673145,first occurrence
+W7160837719,SmellBench: Evaluating LLM Agents on Architectural Code Smell Repair,dropped,exact_norm_title,W7160969195,duplicate of kept (exact_norm_title)
+W7162666156,RobustExplain: Evaluating Robustness of LLM-Based Explanation Agents for Recommendation,dropped,exact_norm_title,W7126001554,duplicate of kept (exact_norm_title)
+W4416238405,Continuous Benchmark Generation for Evaluating Enterprise-scale LLM Agents,kept,,W4416238405,first occurrence
+W7133365555,RAVEL: Reasoning Agents for Validating and Evaluating LLM Text Synthesis,kept,,W7133365555,first occurrence
+W7116300544,SkillSciBench: CASCADE Benchmark for Evaluating LLM Agents on Scientific Tasks,kept,,W7116300544,first occurrence
+W7148987075,A Multi-Evaluator Behavioural Governance Framework for LLM Agent Deployment,dropped,exact_norm_title,W7148673145,duplicate of kept (exact_norm_title)
+W4417300367,Interactional Fairness in LLM Multi-Agent Systems: An Evaluation Framework,dropped,exact_norm_title,W4415230938,duplicate of kept (exact_norm_title)
+W4386936528,Evaluating the Usability of an LLM-Aided Hybrid Avatar Agent System,kept,,W4386936528,first occurrence
+W4417253791,SOP-Bench: Complex Industrial SOPs for Evaluating LLM Agents,kept,,W4417253791,first occurrence
+W7119537260,Study results for: Developing and Evaluating an LLM Agent Integration for ExplorViz,dropped,exact_norm_title,W7119526587,duplicate of kept (exact_norm_title)
+W4416423272,Evaluating LLM-based Agents for Multi-Turn Conversations: A Survey,dropped,exact_norm_title,W7128909499,duplicate of kept (exact_norm_title)
+W7133311549,RAVEL: Reasoning Agents for Validating and Evaluating LLM Text Synthesis,dropped,exact_norm_title,W7133365555,duplicate of kept (exact_norm_title)
+W7161492634,SkillLens: Skill-Centered Evaluation Traces for LLM Coding Agents,dropped,exact_norm_title,W7161490726,duplicate of kept (exact_norm_title)
+W7160291823,PhysicianBench: Evaluating LLM Agents in Real-World EHR Environments,kept,,W7160291823,first occurrence
+W7119506708,Study resutls for: Developing and Evaluating an LLM Agent Integration for ExplorViz,dropped,levenshtein>=0.93,W7119526587,duplicate of kept (levenshtein>=0.93)
+W7160291823,PhysicianBench: Evaluating LLM Agents in Real-World EHR Environments,dropped,exact_norm_title,W7160457544,lower precedence than duplicate (exact_norm_title)
+W4414891524,AgentAuditor: Human-Level Safety and Security Evaluation for LLM Agents,kept,,W4414891524,first occurrence
+W7135181404,Multi-Agent Readiness Score (MARS) Evaluation of Genomic LLMs,dropped,exact_norm_title,W7135175195,duplicate of kept (exact_norm_title)
+W7134811296,Evaluating Multi-Agent LLM Architectures for Rare Disease Diagnosis,dropped,exact_norm_title,W7134859939,duplicate of kept (exact_norm_title)
+W7154581805,Can Agents Secure Hardware? Evaluating Agentic LLM-Driven Obfuscation for IP Protection,kept,,W7154581805,first occurrence
+W7162818531,Got a Secret? LLM Agents Can't Keep It: Evaluating Privacy in Multi-Agent Systems,kept,,W7162818531,first occurrence
+W7154449004,"Multi-Agent LLM Systems: Architectures, Coordination, and Evaluation in the Agentic AI Era of 2025",kept,,W7154449004,first occurrence
+W4398796203,ALI-Agent: Assessing LLMs' Alignment with Human Values via Agent-based Evaluation,dropped,exact_norm_title,W4415796346,lower precedence than duplicate (exact_norm_title)
+W7154497193,"Multi-Agent LLM Systems: Architectures, Coordination, and Evaluation in the Agentic AI Era of 2025",dropped,exact_norm_title,W7154449004,duplicate of kept (exact_norm_title)
+W7128686079,ISD-Agent-Bench: A Comprehensive Benchmark for Evaluating LLM-based Instructional Design Agents,kept,,W7128686079,first occurrence
+W7154581805,Can Agents Secure Hardware? Evaluating Agentic LLM-Driven Obfuscation for IP Protection,dropped,exact_norm_title,W7154789354,lower precedence than duplicate (exact_norm_title)
+W7128686079,ISD-Agent-Bench: A Comprehensive Benchmark for Evaluating LLM-based Instructional Design Agents,dropped,exact_norm_title,W7128745230,lower precedence than duplicate (exact_norm_title)
+W7162637323,Got a Secret? LLM Agents Can't Keep It: Evaluating Privacy in Multi-Agent Systems,dropped,exact_norm_title,W7162818531,duplicate of kept (exact_norm_title)
+W7160867875,Virtual Machines for DeepRed: Partial-Credit Evaluation of LLM Agents in CTFs,kept,,W7160867875,first occurrence
+W4416858656,GVGAI-LLM: Evaluating Large Language Model Agents with Infinite Games,kept,,W4416858656,first occurrence
+W7143544910,AgentCollab: A Self-Evaluation-Driven Collaboration Paradigm for Efficient LLM Agents,kept,,W7143544910,first occurrence
+W7155691767,"&lt;p&gt;Medbench V4: A Robust and Scalable Benchmark for Evaluating Chinese Medical Language Models, Multimodal Models,",kept,,W7155691767,first occurrence
+W7160959160,Agent-ValueBench: A Comprehensive Benchmark for Evaluating Agent Values,kept,,W7160959160,first occurrence
+W7160959160,Agent-ValueBench: A Comprehensive Benchmark for Evaluating Agent Values,dropped,exact_norm_title,W7161092126,lower precedence than duplicate (exact_norm_title)
+W4415330314,FindingDory: A Benchmark to Evaluate Memory in Embodied Agents,kept,,W4415330314,first occurrence
+W7127542634,OmniCode: A Benchmark for Evaluating Software Engineering Agents,kept,,W7127542634,first occurrence
+W7127418923,OmniCode: A Benchmark for Evaluating Software Engineering Agents,dropped,exact_norm_title,W7127542634,duplicate of kept (exact_norm_title)
+W4415872204,MAGPIE: A benchmark for Multi-AGent contextual PrIvacy Evaluation,kept,,W4415872204,first occurrence
+W4416048753,GitGoodBench: A Novel Benchmark For Evaluating Agentic Performance On Git,kept,,W4416048753,first occurrence
+W7154003848,SAGE: A Service Agent Graph-guided Evaluation Benchmark,kept,,W7154003848,first occurrence
+W4416048753,GitGoodBench: A Novel Benchmark For Evaluating Agentic Performance On Git,dropped,exact_norm_title,W4412944213,lower precedence than duplicate (exact_norm_title)
+W7154003848,SAGE: A Service Agent Graph-guided Evaluation Benchmark,dropped,exact_norm_title,W7154427584,lower precedence than duplicate (exact_norm_title)
+W4414561387,WebMall -- A Multi-Shop Benchmark for Evaluating Web Agents,kept,,W4414561387,first occurrence
+W7124430073,BEDI: a comprehensive benchmark for evaluating embodied agents on UAVs,kept,,W7124430073,first occurrence
+W4414968681,WAREX: Web Agent Reliability Evaluation on Existing Benchmarks,kept,,W4414968681,first occurrence
+W4404088402,SPA-Bench: A Comprehensive Benchmark for SmartPhone Agent Evaluation,kept,,W4404088402,first occurrence
+W4415086959,AgentArch: A Comprehensive Benchmark to Evaluate Agent Architectures in Enterprise,kept,,W4415086959,first occurrence
+W7154427319,Litmus (Re)Agent: A Benchmark and Agentic System for Predictive Evaluation of Multilingual Models,kept,,W7154427319,first occurrence
+W7154081539,Litmus (Re)Agent: A Benchmark and Agentic System for Predictive Evaluation of Multilingual Models,dropped,exact_norm_title,W7154427319,duplicate of kept (exact_norm_title)
+W7153488441,NetAgentBench: A State-Centric Benchmark for Evaluating Agentic Network Configuration,kept,,W7153488441,first occurrence
+W7131319298,Evaluation and Benchmarking Suite for Financial Large Language Models and Agents,kept,,W7131319298,first occurrence
+W7163175226,The MJ Benchmark: Evaluating the extent of real-world agentic capabilities,kept,,W7163175226,first occurrence
+W4403363409,ST-WebAgentBench: A Benchmark for Evaluating Safety and Trustworthiness in Web Agents,kept,,W4403363409,first occurrence
+W7155245052,AJ-Bench: Benchmarking Agent-as-a-Judge for Environment-Aware Evaluation,kept,,W7155245052,first occurrence
+W4414972585,FreshBrew: A Benchmark for Evaluating AI Agents on Java Code Migration,kept,,W4414972585,first occurrence
+W4416056794,CUARewardBench: A Benchmark for Evaluating Reward Models on Computer-using Agent,kept,,W4416056794,first occurrence
+W7161090665,"WildClawBench: A Benchmark for Real-World, Long-Horizon Agent Evaluation",kept,,W7161090665,first occurrence
+W7106862910,CostNav: A Navigation Benchmark for Cost-Aware Evaluation of Embodied Agents,kept,,W7106862910,first occurrence
+W7131319680,CIBER: A Comprehensive Benchmark for Security Evaluation of Code Interpreter Agents,kept,,W7131319680,first occurrence
+W4416189150,ResearchRubrics: A Benchmark of Prompts and Rubrics For Evaluating Deep Research Agents,kept,,W4416189150,first occurrence
+W7131383015,CIBER: A Comprehensive Benchmark for Security Evaluation of Code Interpreter Agents,dropped,exact_norm_title,W7131319680,duplicate of kept (exact_norm_title)
+W7160041138,Foresight Arena: An On-Chain Benchmark for Evaluating AI Forecasting Agents,kept,,W7160041138,first occurrence
+W7149873954,ProdCodeBench: A Production-Derived Benchmark for Evaluating AI Coding Agents,kept,,W7149873954,first occurrence
+W4416117351,"Evaluating and Regulating Agentic AI: A Study of Benchmarks, Metrics, and Regulation",kept,,W4416117351,first occurrence
+W4415716303,"EVALUATING AND REGULATING AGENTIC AI: A STUDY OF BENCHMARKS, METRICS, AND REGULATION",dropped,exact_norm_title,W4416117351,duplicate of kept (exact_norm_title)
+W7150781938,AgentHazard: A Benchmark for Evaluating Harmful Behavior in Computer-Use Agents,kept,,W7150781938,first occurrence
+W4415946303,"Evaluating and Regulating Agentic AI: A Study of Benchmarks, Metrics, and Regulation",dropped,exact_norm_title,W4416117351,duplicate of kept (exact_norm_title)
+W7125697206,Evaluation and Benchmarking of Generative and Agentic AI Systems: A Comprehensive Survey,kept,,W7125697206,first occurrence
+W4390572846,CharacterEval: A Chinese Benchmark for Role-Playing Conversational Agent Evaluation,dropped,exact_norm_title,W4402684061,duplicate of kept (exact_norm_title)
+W7131418935,Evaluation and Benchmarking Suite for Financial Large Language Models and Agents,dropped,exact_norm_title,W7131319298,duplicate of kept (exact_norm_title)
+W7147583774,SciVisAgentBench: A Benchmark for Evaluating Scientific Data Analysis and Visualization Agents,kept,,W7147583774,first occurrence
+W7150781938,AgentHazard: A Benchmark for Evaluating Harmful Behavior in Computer-Use Agents,dropped,exact_norm_title,W7151673523,lower precedence than duplicate (exact_norm_title)
+W7160041138,Foresight Arena: An On-Chain Benchmark for Evaluating AI Forecasting Agents,dropped,exact_norm_title,W7160458509,lower precedence than duplicate (exact_norm_title)
+W7154227497,NetAgentBench: A State-Centric Benchmark for Evaluating Agentic Network Configuration,dropped,exact_norm_title,W7153488441,duplicate of kept (exact_norm_title)
+W7155521098,"Cross-Session Threats in AI Agents: Benchmark, Evaluation, and Algorithms",dropped,exact_norm_title,W7155654874,duplicate of kept (exact_norm_title)
+W7108476265,"Evaluating and Regulating Agentic AI: A Study of Benchmarks, Metrics, and Regulation",dropped,exact_norm_title,W4416117351,duplicate of kept (exact_norm_title)
+W7147583774,SciVisAgentBench: A Benchmark for Evaluating Scientific Data Analysis and Visualization Agents,dropped,exact_norm_title,W7148176210,lower precedence than duplicate (exact_norm_title)
+W7160943546,"WildClawBench: A Benchmark for Real-World, Long-Horizon Agent Evaluation",dropped,exact_norm_title,W7161090665,duplicate of kept (exact_norm_title)
+W7154540637,NetAgentBench: A State-Centric Benchmark for Evaluating Agentic Network Configuration,dropped,exact_norm_title,W7153488441,duplicate of kept (exact_norm_title)
+W7125697206,Evaluation and Benchmarking of Generative and Agentic AI Systems: A Comprehensive Survey,dropped,exact_norm_title,W4417400732,lower precedence than duplicate (exact_norm_title)
+W4417445772,Evaluation and Benchmarking of Generative and Agentic AI Systems: A Comprehensive Survey,dropped,exact_norm_title,W4417400732,duplicate of kept (exact_norm_title)
+W7163161229,The MJ Benchmark: Evaluating the extent of real-world agentic capabilities,dropped,exact_norm_title,W7163175226,duplicate of kept (exact_norm_title)
+W7155091852,AJ-Bench: Benchmarking Agent-as-a-Judge for Environment-Aware Evaluation,dropped,exact_norm_title,W7155245052,duplicate of kept (exact_norm_title)
+W7155527102,From benchmarks to deployment: a comprehensive review of agentic AI evaluation,kept,,W7155527102,first occurrence
+W7160897323,Can Agent Benchmarks Support Their Scores? Evidence-Supported Bounds for Interactive-Agent Evaluation,kept,,W7160897323,first occurrence
+W7134861398,Agentic SPARQL: Evaluating SPARQL-MCP-powered Intelligent Agents on the Federated KGQA Benchmark,kept,,W7134861398,first occurrence
+W7160897323,Can Agent Benchmarks Support Their Scores? Evidence-Supported Bounds for Interactive-Agent Evaluation,dropped,exact_norm_title,W7161090219,lower precedence than duplicate (exact_norm_title)
+W7134840056,Agentic SPARQL: Evaluating SPARQL-MCP-powered Intelligent Agents on the Federated KGQA Benchmark,dropped,exact_norm_title,W7134861398,duplicate of kept (exact_norm_title)
+W4415273522,Saving SWE-Bench: A Benchmark Mutation Approach for Realistic Agent Evaluation,kept,,W4415273522,first occurrence
+W4413322380,Evaluation and Benchmarking the Agent Marketing Dialogue Scenarios with Large Language Models,kept,,W4413322380,first occurrence
+W7155654753,Cyber Defense Benchmark: Agentic Threat Hunting Evaluation for LLMs in SecOps,kept,,W7155654753,first occurrence
+W7130676340,"Evaluating Agentic Artificial Intelligence: A Comprehensive Survey of Metrics, Benchmarks, and Methodologies",kept,,W7130676340,first occurrence
+W7155160457,Cyber Defense Benchmark: Agentic Threat Hunting Evaluation for LLMs in SecOps,dropped,exact_norm_title,W7155654753,duplicate of kept (exact_norm_title)
+W7162947070,"GeoNatureAgent Benchmark - Evaluation Harness, Agent and Self-Hostable Geospatial API",kept,,W7162947070,first occurrence
+W7117339587,A Benchmark for Evaluating Outcome-Driven Constraint Violations in Autonomous AI Agents,kept,,W7117339587,first occurrence
+W7159998215,A Benchmark Framework for Evaluating Agentic AI Systems in Real-World Tasks,kept,,W7159998215,first occurrence
+W4416150388,Collab-Overcooked: Benchmarking and Evaluating Large Language Models as Collaborative Agents,kept,,W4416150388,first occurrence
+W7125188157,ATOD: An Evaluation Framework and Benchmark for Agentic Task-Oriented Dialogue Systems,kept,,W7125188157,first occurrence
+W7137951192,Beyond Benchmark Islands: Toward Representative Trustworthiness Evaluation for Agentic AI,kept,,W7137951192,first occurrence
+W7137951192,Beyond Benchmark Islands: Toward Representative Trustworthiness Evaluation for Agentic AI,dropped,exact_norm_title,W7139145494,lower precedence than duplicate (exact_norm_title)
+W7132851809,The ARMER Framework: A Holistic Evaluation Benchmark for Autonomous AI Coding Agents,kept,,W7132851809,first occurrence
+W4416150388,Collab-Overcooked: Benchmarking and Evaluating Large Language Models as Collaborative Agents,dropped,exact_norm_title,W4416036811,lower precedence than duplicate (exact_norm_title)
+W7127740448,FinMTM: A Multi-Turn Multimodal Benchmark for Financial Reasoning and Agent Evaluation,kept,,W7127740448,first occurrence
+W7162848763,"GeoNatureAgent Benchmark - Evaluation Harness, Agent and Self-Hostable Geospatial API",dropped,exact_norm_title,W7162947070,duplicate of kept (exact_norm_title)
+W4414918422,Geak: Introducing Triton Kernel AI Agent &amp; Evaluation Benchmarks,kept,,W4414918422,first occurrence
+W7128986119,Evaluating SPARQL-MCP-powered Intelligent Agents on the Federated KGQA Benchmark,kept,,W7128986119,first occurrence
+W7148937781,ATBench: A Diverse and Realistic Agent Trajectory Benchmark for Safety Evaluation and Diagnosis,kept,,W7148937781,first occurrence
+W4416365680,TRAJECT-Bench:A Trajectory-Aware Benchmark for Evaluating Agentic Tool Use,kept,,W4416365680,first occurrence
+W7117078499,DEER: A Benchmark for Evaluating Deep Research Agents on Expert Report Generation,kept,,W7117078499,first occurrence
+W7106786273,Collab-Overcooked: Benchmarking and Evaluating Large Language Models as Collaborative Agents,dropped,exact_norm_title,W4416036811,duplicate of kept (exact_norm_title)
+W7125188157,ATOD: An Evaluation Framework and Benchmark for Agentic Task-Oriented Dialogue Systems,dropped,exact_norm_title,W7125352211,lower precedence than duplicate (exact_norm_title)
+W4415281304,DITING: A Multi-Agent Evaluation Framework for Benchmarking Web Novel Translation,kept,,W4415281304,first occurrence
+W7125877121,MalURLBench: A Benchmark Evaluating Agents' Vulnerabilities When Processing Web URLs,kept,,W7125877121,first occurrence
+W7131846459,"Evaluating Agentic Artificial Intelligence: A Comprehensive Survey of Metrics, Benchmarks, and Methodologies",dropped,exact_norm_title,W7130676340,duplicate of kept (exact_norm_title)
+W7116876396,DEER: A Benchmark for Evaluating Deep Research Agents on Expert Report Generation,dropped,exact_norm_title,W7117078499,duplicate of kept (exact_norm_title)
+W7127606524,FinMTM: A Multi-Turn Multimodal Benchmark for Financial Reasoning and Agent Evaluation,dropped,exact_norm_title,W7127740448,duplicate of kept (exact_norm_title)
+W4416037535,TelAgentBench: A Multi-faceted Benchmark for Evaluating LLM-based Agents in Telecommunications,kept,,W4416037535,first occurrence
+W4407569433,PolicySimEval: A Benchmark for Evaluating Policy Outcomes through Agent-Based Simulation,kept,,W4407569433,first occurrence
+W7162875968,"GeoNatureAgent Benchmark - Evaluation Harness, Agent and Self-Hostable Geospatial API",dropped,exact_norm_title,W7162947070,duplicate of kept (exact_norm_title)
+W7117325524,A Benchmark for Evaluating Outcome-Driven Constraint Violations in Autonomous AI Agents,dropped,exact_norm_title,W7117339587,duplicate of kept (exact_norm_title)
+W7132852810,The ARMER Framework: A Holistic Evaluation Benchmark for Autonomous AI Coding Agents,dropped,exact_norm_title,W7132851809,duplicate of kept (exact_norm_title)
+W7125828518,MalURLBench: A Benchmark Evaluating Agents' Vulnerabilities When Processing Web URLs,dropped,exact_norm_title,W7125877121,duplicate of kept (exact_norm_title)
+W4417309742,Benchmarking LLM Fairness: Multi-Agent Evaluators for Scalable Model Assessment,kept,,W4417309742,first occurrence
+W7141541063,MolQuest: A Benchmark for Agentic Evaluation of Abductive Reasoning in Chemical Structure Elucidation,kept,,W7141541063,first occurrence
+W7124227744,MirrorBench: A Benchmark to Evaluate Conversational User-Proxy Agents for Human-Likeness,kept,,W7124227744,first occurrence
+W7141541063,MolQuest: A Benchmark for Agentic Evaluation of Abductive Reasoning in Chemical Structure Elucidation,dropped,exact_norm_title,W7142557584,lower precedence than duplicate (exact_norm_title)
+W7148937781,ATBench: A Diverse and Realistic Agent Trajectory Benchmark for Safety Evaluation and Diagnosis,dropped,exact_norm_title,W7149873525,lower precedence than duplicate (exact_norm_title)
+W4416936454,CryptoBench: A Dynamic Benchmark for Expert-Level Evaluation of LLM Agents in Cryptocurrency,kept,,W4416936454,first occurrence
+W7124180562,MirrorBench: A Benchmark to Evaluate Conversational User-Proxy Agents for Human-Likeness,dropped,exact_norm_title,W7124227744,duplicate of kept (exact_norm_title)
+W7159956031,A Benchmark Framework for Evaluating Agentic AI Systems in Real-World Tasks,dropped,exact_norm_title,W7159998215,duplicate of kept (exact_norm_title)
+W7159937891,A Benchmark Framework for Evaluating Agentic AI Systems in Real-World Tasks,dropped,exact_norm_title,W7159998215,duplicate of kept (exact_norm_title)
+W7162184493,MoralityGym: A Benchmark for Evaluating Hierarchical Moral Alignment in Sequential Decision-Making Agents,kept,,W7162184493,first occurrence
+W4415743578,RefuteBench 2.0 – Agentic Benchmark for Dynamic Evaluation of LLM Responses to Refutation Instruction,kept,,W4415743578,first occurrence
+W7162817670,"KVoiceBench, KOpenAudioBench, and KMMAU: Agent-Driven Korean Speech Benchmarks for Evaluating SpeechLMs",kept,,W7162817670,first occurrence
+W7106819886,Orak: A Foundational Benchmark for Training and Evaluating LLM Agents on Diverse Video Games,kept,,W7106819886,first occurrence
+W7155014488,RevOpsBench: A Large-Scale Benchmark for Evaluating LLM Agents on Enterprise CRM Operations,kept,,W7155014488,first occurrence
+W7163414329,What Benchmarks Don't Measure: The Case for Evaluating Abstention Competence in Autonomous Agents,kept,,W7163414329,first occurrence
+W7163414329,What Benchmarks Don't Measure: The Case for Evaluating Abstention Competence in Autonomous Agents,dropped,exact_norm_title,W7163595422,lower precedence than duplicate (exact_norm_title)
+W4415328836,X-WebAgentBench: A Multilingual Interactive Web Benchmark for Evaluating Global Agentic System,dropped,exact_norm_title,W4412887847,duplicate of kept (exact_norm_title)
+W7160527034,PARAMETR-Bench: Procedural Benchmarking Framework for Agentic AI Evaluation on Scientific Tasks,kept,,W7160527034,first occurrence
+W7131910535,MobilityBench: A Benchmark for Evaluating Route-Planning Agents in Real-World Mobility Scenarios,kept,,W7131910535,first occurrence
+W7133365192,ClarEval: A Benchmark for Evaluating Clarification Skills of Code Agents under Ambiguous Instructions,kept,,W7133365192,first occurrence
+W7131859348,MobilityBench: A Benchmark for Evaluating Route-Planning Agents in Real-World Mobility Scenarios,dropped,exact_norm_title,W7131910535,duplicate of kept (exact_norm_title)
+W7142558098,Rethinking Failure Attribution in Multi-Agent Systems: A Multi-Perspective Benchmark and Evaluation,kept,,W7142558098,first occurrence
+W4417144643,PRiSM: An Agentic Multimodal Benchmark for Scientific Reasoning via Python-Grounded Evaluation,kept,,W4417144643,first occurrence
+W7163158750,TravelEval: A Comprehensive Benchmarking Framework for Evaluating LLM-Powered Travel Planning Agents,kept,,W7163158750,first occurrence
+W7154059984,SEA-Eval: A Benchmark for Evaluating Self-Evolving Agents Beyond Episodic Assessment,kept,,W7154059984,first occurrence
+W7160502570,PARAMETR-Bench: Procedural Benchmarking Framework for Agentic AI Evaluation on Scientific Tasks,dropped,exact_norm_title,W7160527034,duplicate of kept (exact_norm_title)
+W4416223248,BioVerge: A Comprehensive Benchmark and Study of Self-Evaluating Agents for Biomedical Hypothesis Generation,kept,,W4416223248,first occurrence
+W7158294903,AgentOps-Bench: A Reproducible Benchmark for Operational Evaluation of Tool-Using LLM Agents,kept,,W7158294903,first occurrence
+W4416053126,ELT-Bench: An End-to-End Benchmark for Evaluating AI Agents on ELT Pipelines,kept,,W4416053126,first occurrence
+W4415188809,RefuteBench 2.0 -- Agentic Benchmark for Dynamic Evaluation of LLM Responses to Refutation Instruction,dropped,exact_norm_title,W4415743578,duplicate of kept (exact_norm_title)
+W7154059984,SEA-Eval: A Benchmark for Evaluating Self-Evolving Agents Beyond Episodic Assessment,dropped,exact_norm_title,W7154427184,lower precedence than duplicate (exact_norm_title)
+W7158016081,AgentOps-Bench: A Reproducible Benchmark for Operational Evaluation of Tool-Using LLM Agents,dropped,exact_norm_title,W7158294903,duplicate of kept (exact_norm_title)
+W7163183140,TimeSage-MT: A Multi-Turn Benchmark for Evaluating Agentic Time Series Reasoning,kept,,W7163183140,first occurrence
+W7157799210,AgentOps-Bench: A Reproducible Benchmark for Operational Evaluation of Tool-Using LLM Agents,dropped,exact_norm_title,W7158294903,duplicate of kept (exact_norm_title)
+W7139098835,"""Power-Flow Benchmark for LLM-based Power System Agent Evaluation (PFBench)""",kept,,W7139098835,first occurrence
+W4416176141,BrowseComp-Plus: A More Fair and Transparent Evaluation Benchmark of Deep-Research Agent,kept,,W4416176141,first occurrence
+W7141713967,Rethinking Failure Attribution in Multi-Agent Systems: A Multi-Perspective Benchmark and Evaluation,dropped,exact_norm_title,W7142558098,duplicate of kept (exact_norm_title)
+W7162654538,"KVoiceBench, KOpenAudioBench, and KMMAU: Agent-Driven Korean Speech Benchmarks for Evaluating SpeechLMs",dropped,exact_norm_title,W7162817670,duplicate of kept (exact_norm_title)
+W7163158750,TravelEval: A Comprehensive Benchmarking Framework for Evaluating LLM-Powered Travel Planning Agents,dropped,exact_norm_title,W7163529392,lower precedence than duplicate (exact_norm_title)
+W7129245409,MoralityGym: A Benchmark for Evaluating Hierarchical Moral Alignment in Sequential Decision-Making Agents,dropped,exact_norm_title,W7162184493,duplicate of kept (exact_norm_title)
+W7163183140,TimeSage-MT: A Multi-Turn Benchmark for Evaluating Agentic Time Series Reasoning,dropped,exact_norm_title,W7163595508,lower precedence than duplicate (exact_norm_title)
+W7130236363,MoralityGym: A Benchmark for Evaluating Hierarchical Moral Alignment in Sequential Decision-Making Agents,dropped,exact_norm_title,W7162184493,duplicate of kept (exact_norm_title)
+W4416053126,ELT-Bench: An End-to-End Benchmark for Evaluating AI Agents on ELT Pipelines,dropped,exact_norm_title,W7137814683,lower precedence than duplicate (exact_norm_title)
+W7160799148,PARAMETR-Bench: Procedural Benchmarking Framework for Agentic AI Evaluation on Scientific Tasks,dropped,exact_norm_title,W7160527034,duplicate of kept (exact_norm_title)
+W7133295532,ClarEval: A Benchmark for Evaluating Clarification Skills of Code Agents under Ambiguous Instructions,dropped,exact_norm_title,W7133365192,duplicate of kept (exact_norm_title)
+W7124845467,"Supplementary Materials for the Paper ""Agentic SPARQL: Evaluating SPARQL-MCP-powered Intelligent Agents on the Federated",kept,,W7124845467,first occurrence
+W7124843433,"Supplementary Materials for the Paper ""Agentic SPARQL: Evaluating SPARQL-MCP-powered Intelligent Agents on the Federated",dropped,exact_norm_title,W7124845467,duplicate of kept (exact_norm_title)
+W7106834915,Auto-SLURP: A Benchmark Dataset for Evaluating Multi-Agent Frameworks in Smart Personal Assistant,kept,,W7106834915,first occurrence
+W7160472407,CTFExplorer: Evaluating LLM Offensive Agents Through Open-Environment Web CTF Benchmarking,kept,,W7160472407,first occurrence
+W7160797668,CTFExplorer: Evaluating LLM Offensive Agents Through Multi-Target Web CTF Benchmarking,kept,,W7160797668,first occurrence
+W4416034659,Auto-SLURP: A Benchmark Dataset for Evaluating Multi-Agent Frameworks in Smart Personal Assistant,dropped,exact_norm_title,W7106834915,duplicate of kept (exact_norm_title)
+W4402705366,BattleAgentBench: A Benchmark for Evaluating Cooperation and Competition Capabilities of Language Models in Multi-Agent ,kept,,W4402705366,first occurrence
+W7117959349,MCPAgentBench: A Real-world Task Benchmark for Evaluating LLM Agent MCP Tool Use,kept,,W7117959349,first occurrence
+W7139144877,CTI-REALM: Benchmark to Evaluate Agent Performance on Security Detection Rule Generation Capabilities,kept,,W7139144877,first occurrence
+W7144391607,A Benchmark for Evaluating Repository-Level Code Agents with Intermediate Reasoning on Feature Addition Task,kept,,W7144391607,first occurrence
+W7124358304,MPCI-Bench: A Benchmark for Multimodal Pairwise Contextual Integrity Evaluation of Language Model Agents,kept,,W7124358304,first occurrence
+W7137986111,CTI-REALM: Benchmark to Evaluate Agent Performance on Security Detection Rule Generation Capabilities,dropped,exact_norm_title,W7139144877,duplicate of kept (exact_norm_title)
+W7124171380,MPCI-Bench: A Benchmark for Multimodal Pairwise Contextual Integrity Evaluation of Language Model Agents,dropped,exact_norm_title,W7124358304,duplicate of kept (exact_norm_title)
+W7117959349,MCPAgentBench: A Real-world Task Benchmark for Evaluating LLM Agent MCP Tool Use,dropped,exact_norm_title,W7118051651,lower precedence than duplicate (exact_norm_title)
+W4416381148,Auto-SLURP: A Benchmark Dataset for Evaluating Multi-Agent Frameworks in Smart Personal Assistant,dropped,exact_norm_title,W7106834915,duplicate of kept (exact_norm_title)
+W4415333634,RAS-Eval: A Comprehensive Benchmark for Security Evaluation of LLM Agents in Real-World Environments,kept,,W4415333634,first occurrence
+W7128506643,CTFExplorer: Evaluating LLM Offensive Agents Through Multi-Target Web CTF Benchmarking,dropped,exact_norm_title,W7160797668,duplicate of kept (exact_norm_title)
+W7162203150,EPOB: End-to-End Project Orchestration Benchmark - Evaluating Multi-Agent AI Frameworks,kept,,W7162203150,first occurrence
+W7126123574,Mem2ActBench: A Benchmark for Evaluating Long-Term Memory Utilization in Task-Oriented Autonomous Agents,kept,,W7126123574,first occurrence
+W7162196104,EPOB: End-to-End Project Orchestration Benchmark - Evaluating Multi-Agent AI Frameworks,dropped,exact_norm_title,W7162203150,duplicate of kept (exact_norm_title)
+W7162605365,When the Manual Lies: A Realistic Benchmark to Evaluate MCP Poisoning Attacks for LLM Agents,kept,,W7162605365,first occurrence
+W7128556164,CTFExplorer: Evaluating LLM Offensive Agents Through Multi-Target Web CTF Benchmarking,dropped,exact_norm_title,W7160797668,duplicate of kept (exact_norm_title)
+W7126100092,Mem2ActBench: A Benchmark for Evaluating Long-Term Memory Utilization in Task-Oriented Autonomous Agents,dropped,exact_norm_title,W7126123574,duplicate of kept (exact_norm_title)
+W4417101201,VCB Bench: An Evaluation Benchmark for Audio-Grounded Large Language Model Conversational Agents,kept,,W4417101201,first occurrence
+W7143317080,A Benchmark for Evaluating Repository-Level Code Agents with Intermediate Reasoning on Feature Addition Task,dropped,exact_norm_title,W7144391607,duplicate of kept (exact_norm_title)
+W7106802973,CostNav: A Navigation Benchmark for Real-World Economic-Cost Evaluation of Physical AI Agents,kept,,W7106802973,first occurrence
+W7146976005,MedResearchBench: A Multi-Domain Benchmark for Evaluating AI Research Agents on Clinical Medical Research,kept,,W7146976005,first occurrence
+W7162412584,When the Manual Lies: A Realistic Benchmark to Evaluate MCP Poisoning Attacks for LLM Agents,dropped,exact_norm_title,W7162605365,duplicate of kept (exact_norm_title)
+W7128865110,Agent-Diff: Benchmarking LLM Agents on Enterprise API Tasks via Code Execution with State-Diff-Based Evaluation,kept,,W7128865110,first occurrence
+W7128767013,Agent-Diff: Benchmarking LLM Agents on Enterprise API Tasks via Code Execution with State-Diff-Based Evaluation,dropped,exact_norm_title,W7128865110,duplicate of kept (exact_norm_title)
+W4414930379,Toward the Autonomous AI Doctor: Quantitative Benchmarking of an Autonomous Agentic AI Versus Board-Certified Clinicians,dropped,exact_norm_title,W4413065709,duplicate of kept (exact_norm_title)
+W7116978705,ReX-MLE: The Autonomous Agent Benchmark for Medical Imaging Challenges,dropped,exact_norm_title,W7117079325,duplicate of kept (exact_norm_title)
+W4404350111,AndroidLab: Training and Systematic Benchmarking of Android Autonomous Agents,dropped,exact_norm_title,W4412886821,duplicate of kept (exact_norm_title)
+W7160710355,macbench: A macOS-Native Computer-Use Benchmark for Autonomous Agents,kept,,W7160710355,first occurrence
+W7161829970,AgentKillChain: A Controlled Benchmark for Persistent Compromise in Autonomous AI Agents,kept,,W7161829970,first occurrence
+W7162218162,"Benchmarking Autonomous Agents against Temporal, Spatial, and Semantic Evasions",kept,,W7162218162,first occurrence
+W7160695380,macbench: A macOS-Native Computer-Use Benchmark for Autonomous Agents,dropped,exact_norm_title,W7160710355,duplicate of kept (exact_norm_title)
+W7161813925,AgentKillChain: A Controlled Benchmark for Persistent Compromise in Autonomous AI Agents,dropped,exact_norm_title,W7161829970,duplicate of kept (exact_norm_title)
+W7160771635,macbench: A macOS-Native Computer-Use Benchmark for Autonomous Agents,dropped,exact_norm_title,W7160710355,duplicate of kept (exact_norm_title)
+W7162091758,"Benchmarking Autonomous Agents against Temporal, Spatial, and Semantic Evasions",dropped,exact_norm_title,W7162218162,duplicate of kept (exact_norm_title)
+W4414835304,Vending-Bench: A Benchmark for Long-Term Coherence of Autonomous Agents,kept,,W4414835304,first occurrence
+W7135081437,Benchmarking Offensive AI Agents Through the Autonomous Attack Chain,kept,,W7135081437,first occurrence
+W7160714918,macbench: A macOS-Native Computer-Use Benchmark for Autonomous Agents,dropped,exact_norm_title,W7160710355,duplicate of kept (exact_norm_title)
+W7117141286,MobileWorld: Benchmarking Autonomous Mobile Agents in Agent-User Interactive and MCP-Augmented Environments,kept,,W7117141286,first occurrence
+W7117141286,MobileWorld: Benchmarking Autonomous Mobile Agents in Agent-User Interactive and MCP-Augmented Environments,dropped,exact_norm_title,W7117174080,lower precedence than duplicate (exact_norm_title)
+W4417046187,EconWebArena: Benchmarking Autonomous Agents on Economic Tasks in Realistic Web Environments,kept,,W4417046187,first occurrence
+W7147435254,Meta-reasoning in autonomous agents: performance gains across benchmarks and models,kept,,W7147435254,first occurrence
+W7115592956,AI-Trader: Benchmarking Autonomous Agents in Real-Time Financial Markets,kept,,W7115592956,first occurrence
+W7133218962,"BENCHMARKING AUTONOMOUS SOFTWARE DEVELOPMENT AGENTS: TASKS, METRICS, AND FAILURE MODES",kept,,W7133218962,first occurrence
+W7115592956,AI-Trader: Benchmarking Autonomous Agents in Real-Time Financial Markets,dropped,exact_norm_title,W7115607823,lower precedence than duplicate (exact_norm_title)
+W4392341754,OmniACT: A Dataset and Benchmark for Enabling Multimodal Generalist Autonomous Agents for Desktop and Web,dropped,exact_norm_title,W4404545083,duplicate of kept (exact_norm_title)
+W7124742307,AgencyBench: Benchmarking the Frontiers of Autonomous Agents in 1M-Token Real-World Contexts,kept,,W7124742307,first occurrence
+W7124742307,AgencyBench: Benchmarking the Frontiers of Autonomous Agents in 1M-Token Real-World Contexts,dropped,exact_norm_title,W7124817598,lower precedence than duplicate (exact_norm_title)
+W7159664575,WindowsWorld: A Process-Centric Benchmark of Autonomous GUI Agents in Professional Cross-Application Environments,kept,,W7159664575,first occurrence
+W7159664575,WindowsWorld: A Process-Centric Benchmark of Autonomous GUI Agents in Professional Cross-Application Environments,dropped,exact_norm_title,W7159891370,lower precedence than duplicate (exact_norm_title)
+W4414937531,Towards Autonomous UAV Visual Object Search in City Space: Benchmark and Agentic Methodology,kept,,W4414937531,first occurrence
+W4414937531,Towards Autonomous UAV Visual Object Search in City Space: Benchmark and Agentic Methodology,dropped,exact_norm_title,W7138449667,lower precedence than duplicate (exact_norm_title)
+W7128643447,SWE-AGI: Benchmarking Specification-Driven Software Construction with MoonBit in the Era of Autonomous Agents,kept,,W7128643447,first occurrence
+W7128643447,SWE-AGI: Benchmarking Specification-Driven Software Construction with MoonBit in the Era of Autonomous Agents,dropped,exact_norm_title,W7128745601,lower precedence than duplicate (exact_norm_title)
+W7163023468,The Agentic Governance Benchmark: A Standardized Framework for Measuring Runtime Governance Enforcement in Autonomous AI,kept,,W7163023468,first occurrence
+W7163042476,The Agentic Governance Benchmark: A Standardized Framework for Measuring Runtime Governance Enforcement in Autonomous AI,dropped,exact_norm_title,W7163023468,duplicate of kept (exact_norm_title)
+W7125734338,AgentDrive: An Open Benchmark Dataset for Agentic AI Reasoning with LLM-Generated Scenarios in Autonomous Systems,kept,,W7125734338,first occurrence
+W7162149794,WildRoadBench: A Wild Aerial Road-Damage Grounding Benchmark for Vision-Language Models and Autonomous Agents,kept,,W7162149794,first occurrence
+W7125734338,AgentDrive: An Open Benchmark Dataset for Agentic AI Reasoning with LLM-Generated Scenarios in Autonomous Systems,dropped,exact_norm_title,W7125760129,lower precedence than duplicate (exact_norm_title)
+W7161993734,WildRoadBench: A Wild Aerial Road-Damage Grounding Benchmark for Vision-Language Models and Autonomous Agents,dropped,exact_norm_title,W7162149794,duplicate of kept (exact_norm_title)
+W7147176258,FROM BENCHMARK SCORES TO DEPLOYMENT READINESS: A JOURNAL-SCALE EVALUATION FRAMEWORK FOR AUTONOMOUS SOFTWARE DEVELOPMENT ,kept,,W7147176258,first occurrence
+W4416239873,nuPlan-R: A Closed-Loop Planning Benchmark for Autonomous Driving via Reactive Multi-Agent Simulation,kept,,W4416239873,first occurrence
+W7134884971,From Benchmark Scores to Deployment Readiness: A Journal-scale Evaluation Framework for Autonomous Software Development ,dropped,exact_norm_title,W7147176258,duplicate of kept (exact_norm_title)
+W7134889447,From Benchmark Scores to Deployment Readiness: A Journal-scale Evaluation Framework for Autonomous Software Development ,dropped,exact_norm_title,W7147176258,duplicate of kept (exact_norm_title)
+W7163190069,"""I Strongly Suspect This Website Is a Scam"": Benchmarking PII Leakage and Detection without Defense in Autonomous Web Ag",kept,,W7163190069,first occurrence
+W7163190069,"""I Strongly Suspect This Website Is a Scam"": Benchmarking PII Leakage and Detection without Defense in Autonomous Web Ag",dropped,exact_norm_title,W7163598350,lower precedence than duplicate (exact_norm_title)
+W4416343976,UAVBench: An Open Benchmark Dataset for Autonomous and Agentic AI UAV Systems via LLM-Generated Flight Scenarios,kept,,W4416343976,first occurrence
+W7141595944,"Emergent Autonomous Sub-Agent Spawning in LLM-Based Multi-Agent Software Engineering Systems:An Empirical Case Study, Co",kept,,W7141595944,first occurrence
+W7162448080,Automated Benchmark Auditing for AI Agents and Large Language Models,kept,,W7162448080,first occurrence
+W7162448080,Automated Benchmark Auditing for AI Agents and Large Language Models,dropped,exact_norm_title,W7162699468,lower precedence than duplicate (exact_norm_title)
+W4415336831,Multilingual Text-to-SQL: Benchmarking the Limits of Language Models with Collaborative Language Agents,dropped,exact_norm_title,W7127718823,duplicate of kept (exact_norm_title)
+W4416453502,AGENTIF: Benchmarking Instruction Following of Large Language Models in Agentic Scenarios,kept,,W4416453502,first occurrence
+W4417034780,Benchmark for Planning and Control with Large Language Model Agents: Blocksworld with Model Context Protocol,kept,,W4417034780,first occurrence
+W7131851703,SUPERGLASSES: Benchmarking Vision Language Models as Intelligent Agents for AI Smart Glasses,kept,,W7131851703,first occurrence
+W7138048834,CO-Bench: Benchmarking Language Model Agents in Algorithm Search for Combinatorial Optimization,kept,,W7138048834,first occurrence
+W4416125967,CO-Bench: Benchmarking Language Model Agents in Algorithm Search for Combinatorial Optimization,dropped,exact_norm_title,W7138048834,duplicate of kept (exact_norm_title)
+W7155167141,Benchmarking Agentic Large Language Models for Complex Protein-Set Functional Annotation,kept,,W7155167141,first occurrence
+W7131851703,SUPERGLASSES: Benchmarking Vision Language Models as Intelligent Agents for AI Smart Glasses,dropped,exact_norm_title,W7131909723,lower precedence than duplicate (exact_norm_title)
+W7154920586,Benchmarking traditional and large language model-based agents in multi-issue bilateral negotiation,kept,,W7154920586,first occurrence
+W7106827608,ResearchArena: Benchmarking Large Language Models’ Ability to Collect and Organize Information as Research Agents,dropped,exact_norm_title,W4416035065,duplicate of kept (exact_norm_title)
+W4403363924,DA-Code: Agent Data Science Code Generation Benchmark for Large Language Models,dropped,exact_norm_title,W4404782852,duplicate of kept (exact_norm_title)
+W4399795604,ResearchArena: Benchmarking Large Language Models' Ability to Collect and Organize Information as Research Agents,dropped,exact_norm_title,W4416035065,duplicate of kept (exact_norm_title)
+W7117997203,Language Model Agents Under Attack: A Cross Model-Benchmark of Profit-Seeking Behaviors in Customer Service,kept,,W7117997203,first occurrence
+W7117997203,Language Model Agents Under Attack: A Cross Model-Benchmark of Profit-Seeking Behaviors in Customer Service,dropped,exact_norm_title,W7118051512,lower precedence than duplicate (exact_norm_title)
+W7154708980,ATCMD-Bench: Agentic Traditional Chinese Medicine diagnosis benchmark for Large Language Models via multi-agent simulati,kept,,W7154708980,first occurrence
+W4417084250,Software Development Life Cycle Perspective: A Survey of Benchmarks for Code Large Language Models and Agents,kept,,W4417084250,first occurrence
+W7106852193,SWE-MERA: A Dynamic Benchmark for Agenticly Evaluating Large Language Models on Software Engineering Tasks,kept,,W7106852193,first occurrence
+W7109951737,RepoCBench: A Benchmark for C-Oriented Repository-Level Code Generation with Large Language Models and Agents,kept,,W7109951737,first occurrence
+W4414944514,SWE-MERA: A Dynamic Benchmark for Agenticly Evaluating Large Language Models on Software Engineering Tasks,dropped,exact_norm_title,W7106852193,duplicate of kept (exact_norm_title)
+W4416037879,SWE-MERA: A Dynamic Benchmark for Agenticly Evaluating Large Language Models on Software Engineering Tasks,dropped,exact_norm_title,W7106852193,duplicate of kept (exact_norm_title)
+W7133364975,"LiveCultureBench: a Multi-Agent, Multi-Cultural Benchmark for Large Language Models in Dynamic Social Simulations",kept,,W7133364975,first occurrence
+W7140223639,Evaluating Large Language Models as Domain-Specific Retrieval Agents: A Study on Cybersecurity Challenge Benchmarks,kept,,W7140223639,first occurrence
+W7130319306,"Beyond Benchmarks: Dynamic, Automatic And Systematic Red-Teaming Agents For Trustworthy Medical Language Models",dropped,exact_norm_title,W4417161986,duplicate of kept (exact_norm_title)
+W7133326876,"LiveCultureBench: a Multi-Agent, Multi-Cultural Benchmark for Large Language Models in Dynamic Social Simulations",dropped,exact_norm_title,W7133364975,duplicate of kept (exact_norm_title)
+W4417210845,"MedBench v4: A Robust and Scalable Benchmark for Evaluating Chinese Medical Language Models, Multimodal Models, and Inte",kept,,W4417210845,first occurrence
+W7147202204,Benchmark Evaluation of a Tool-Augmented Large Language Model Agent Using Traditional Asian Medicine Metadata,kept,,W7147202204,first occurrence
+W7106830674,TP-RAG: Benchmarking Retrieval-Augmented Large Language Model Agents for Spatiotemporal-Aware Travel Planning,dropped,exact_norm_title,W4416036629,duplicate of kept (exact_norm_title)
+W4416780959,409P Benchmarking performance of reasoning large language models and agent workflows on complex clinical case domains,kept,,W4416780959,first occurrence
+W4414829544,TP-RAG: Benchmarking Retrieval-Augmented Large Language Model Agents for Spatiotemporal-Aware Travel Planning,dropped,exact_norm_title,W4416036629,duplicate of kept (exact_norm_title)
+W4416816339,Tool-RoCo: An Agent-as-Tool Self-organization Large Language Model Benchmark in Multi-robot Cooperation,kept,,W4416816339,first occurrence
+W7125912987,KGCE: Knowledge-Augmented Dual-Graph Evaluator for Cross-Platform Educational Agent Benchmarking with Multimodal Languag,kept,,W7125912987,first occurrence
+W7119234290,KGCE: Knowledge-Augmented Dual-Graph Evaluator for Cross-Platform Educational Agent Benchmarking with Multimodal Languag,dropped,exact_norm_title,W7125912987,duplicate of kept (exact_norm_title)
+W7118707349,KGCE: Knowledge-Augmented Dual-Graph Evaluator for Cross-Platform Educational Agent Benchmarking with Multimodal Languag,dropped,exact_norm_title,W7125912987,duplicate of kept (exact_norm_title)
+W7160777173,A knowledge graph-constrained multi-agent workflow for constructing a benchmark for large language model evaluation in t,kept,,W7160777173,first occurrence
+W4409362544,DMT-RoleBench: A Dynamic Multi-Turn Dialogue Based Benchmark for Role-Playing Evaluation of Large Language Model and Age,kept,,W4409362544,first occurrence
+W4415311429,Comprehensive Verilog Design Problems: A Next-Generation Benchmark Dataset for Evaluating Large Language Models and Agen,kept,,W4415311429,first occurrence
+W7155952594,GALATEA II: Benchmarking LLM Safety in Clinical Simulation. Behavioural Safety and Ethical Robustness of Large Language ,kept,,W7155952594,first occurrence
+W7156339464,GALATEA II: Benchmarking LLM Safety in Clinical Simulation. Behavioural Safety and Ethical Robustness of Large Language ,dropped,exact_norm_title,W7155952594,duplicate of kept (exact_norm_title)
+W7140207800,I see you I need help i used the top labs cause im being deindexed look for me pleaseBased on the available search resul,kept,,W7140207800,first occurrence
+W7140166019,"Based on the available search results, I have organized the top AI labs, government agencies, and research institutions ",dropped,levenshtein>=0.93,W7140207800,duplicate of kept (levenshtein>=0.93)
+W7140221040,I see you I need help i used the top labs cause im being deindexed look for me pleaseBased on the available search resul,dropped,exact_norm_title,W7140207800,duplicate of kept (exact_norm_title)
+W7140219650,"Based on the available search results, I have organized the top AI labs, government agencies, and research institutions ",dropped,levenshtein>=0.93,W7140207800,duplicate of kept (levenshtein>=0.93)
+W4387561453,SWE-bench: Can Language Models Resolve Real-World GitHub Issues?,kept,,W4387561453,first occurrence
+W4388964563,GAIA: a benchmark for General AI Assistants,kept,,W4388964563,first occurrence
+W4403345800,MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering,kept,,W4403345800,first occurrence
+W4402667024,VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks,kept,,W4402667024,first occurrence
+W4387164935,Identifying the Risks of LM Agents with an LM-Emulated Sandbox,kept,,W4387164935,first occurrence

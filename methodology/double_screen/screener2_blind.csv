@@ -1,0 +1,186 @@
+Tier,Source,Candidate title,Link,screener2_decision,screener2_notes
+1,ACM,A Sim-to-Real Benchmark and Analysis of Open-Source Vision and Language Agents for PTZ Camera Tasks,https://doi.org/10.1145/3757279.3785641,Include,sim-to-real VLA benchmark for sequential PTZ camera control
+1,ACM,Agentic Performance at the Edge: Insights from Benchmarking,https://doi.org/10.1145/3812836.3814741,Include,benchmarks LLM agentic performance at edge across sequential tasks
+1,ACM,Arena: Benchmarking AI Agent Frameworks Under Fixed-Model Conditions,https://doi.org/10.1145/3786335.3813233,Include,benchmark for AI agent frameworks under fixed-model conditions
+1,ACM,Benchmarking Memory Architectures for Mobile Agents in Short-Term and Long-Term Applications,https://doi.org/10.1145/3812836.3814752,Include,memory architecture benchmark for mobile LLM agents
+1,ACM,Benchmarking the DeepResearch Agent in the Game Domain,https://doi.org/10.1145/3807246.3807324,Include,benchmarks DeepResearch agent in sequential game domain
+1,ACM,Benchmarking the Overhead of Distributed Tracing Agents,https://doi.org/10.1145/3777884.3797004,Exclude,"distributed tracing system monitoring, not LLM sequential agents"
+1,ACM,ColorBench: Benchmarking Mobile Agents with Graph-Structured Framework for Complex Long-Horizon Tasks,https://doi.org/10.1145/3774904.3792215,Include,mobile agent long-horizon benchmark with graph-structured eval
+1,ACM,DraftNEPABench: A Benchmark for Drafting NEPA Document Sections with Coding Agents,https://doi.org/10.1145/3786335.3813132,Include,coding agent NEPA document drafting benchmark
+1,ACM,FormFactory: An Interactive Benchmarking Suite for Multimodal Form-Filling Agents,https://doi.org/10.1145/3746027.3758285,Include,multimodal form-filling agents interactive benchmark
+1,ACM,From Model Diagram to Code: A Benchmark Dataset and Multi-Agent Framework,https://doi.org/10.1145/3746027.3755425,Include,code generation benchmark with multi-agent framework
+1,ACM,Hijacking JARVIS: Benchmarking Mobile GUI Agents against Unprivileged Third Parties,https://doi.org/10.1145/3737902.3768354,Include,mobile GUI agent security benchmark
+1,ACM,"MVISU-Bench: Benchmarking Mobile Agents for Real-World Tasks by Multi-App, Vague, Interactive, Single-App and Unethical Instructions",https://doi.org/10.1145/3746027.3755695,Include,mobile agent multi-app real-world benchmark
+1,ACM,OpenMCP: an open-source self-hosted benchmarking harness for MCP-enabled computer use agents,https://doi.org/10.1145/3805621.3807649,Include,MCP-enabled computer use agents benchmarking harness
+1,ACM,OWLViz: An Open-World Benchmark for Visual Question Answering,https://doi.org/10.65109/epvo9609,Exclude,static visual QA benchmark; no sequential LLM agent evaluation
+1,ACM,Towards a Playground to Democratize Experimentation and Benchmarking of AI Agents for Network Troubleshooting,https://doi.org/10.1145/3748496.3748990,Include,AI agent playground and benchmark for network troubleshooting
+1,ACM,Vibe Code Bench: Evaluating AI Models on End-to-End Web Application Development,https://doi.org/10.1145/3786335.3813180,Include,end-to-end web app development evaluation benchmark
+1,ACM,ViBench: A Benchmark on Vibe Coding,https://doi.org/10.1145/3786335.3813162,Include,vibe coding benchmark for LLM code agents
+1,IEEE,"AgentQE-Bench: A Reproducible Evaluation Framework for Agentic AI Reliability, Safety, and ROI in CI/CD Pipelines",,Include,reproducible evaluation framework for agentic AI in CI/CD pipelines
+1,IEEE,An Agentic Approach to Synthetic Data Generation: Building and Benchmarking a COPA Dataset for Indonesian Language and Dialects,,Exclude,"data creation approach evaluated, not reusable agent evaluation"
+1,IEEE,Benchmarking AI Agents for IT Automation Tasks with ITBench,,Include,IT automation agents benchmark
+1,IEEE,Benchmarking Heuristic and Cooperative Agents in AbstractSwarm Logistics Scenarios,,Exclude,heuristic non-LLM logistics swarm agents
+1,IEEE,Benchmarking Multi-Agent LLM and Single Agent LLM Efficiency for Contextual Text Generation,,Exclude,"text generation efficiency comparison; single-step, not agent eval"
+1,IEEE,"Benchmarking Reference-Free LLM Agent Robustness Under Schema, Policy, and Toolset Drift",,Include,LLM agent robustness benchmark under schema/toolset drift
+1,IEEE,CoSQA+: Enhancing Code Search Evaluation With a Multi-Choice Benchmark and Test-Driven Agents,,Exclude,agents used as tools for code search; not being evaluated
+1,IEEE,DSGBench: A Diverse Strategic Game Benchmark for Evaluating LLM-Based Agents in Complex Decision-Making Environments,,Include,LLM agents in diverse strategic game benchmark
+1,IEEE,Evaluating LLM-based Role-playing Agent Authenticity via Event-driven Response Simulation: A Benchmark on Real-World Events Responses,,Exclude,single-step role-play response authenticity; not sequential state-altering
+1,IEEE,FinMCP-Bench: Benchmarking LLM Agents for Real-World Financial Tool Use Under the Model Context Protocol,,Include,LLM financial tool-use agents benchmark under MCP
+1,IEEE,FOCAL: A Novel Benchmarking Technique for Multi-modal Agents,,Include,novel benchmarking technique for multimodal LLM agents
+1,IEEE,From Binary to Multi-Class: Benchmarking AutoGluon Against Classical Machine Learning for Diabetes Prediction and the Rise of Agentic Clinical AI,,Exclude,ML benchmarking for diabetes prediction; not LLM agent evaluation
+1,IEEE,"ICLAD 2025: Agents, Benchmarks, and the Next Wave of LLM-Aided Design [IEEE News]",https://ieeexplore.ieee.org/document/11359387/,Exclude,"IEEE news piece, not a research paper"
+1,IEEE,Machine Learning vs. Agentic AI: Benchmarking RNA-Seq Disease Prediction with Candidate Biomarker Identification,,Exclude,ML vs agentic AI for RNA-Seq; no reusable agent evaluation procedure
+1,IEEE,MAIA: A Multidimensional Benchmark for Assessing Medical AI Agents,,Include,multidimensional benchmark for assessing medical AI agents
+1,IEEE,MEWA: A Benchmark For Meta-Learning in Collaborative Working Agents,,Include,benchmark for meta-learning in collaborative working agents
+1,IEEE,OmniCharacter++: Towards Comprehensive Benchmark for Realistic Role-Playing Agents,,Exclude,role-playing agent benchmark; likely single-step response quality
+1,IEEE,PillagerBench: Benchmarking LLM-Based Agents in Competitive Minecraft Team Environments,,Include,LLM agents in competitive Minecraft benchmark
+1,IEEE,SocialNormVR: Designing Symmetrical Reality Testbeds for AI Agent Social Norm Evaluation,,Exclude,VR testbed for social norms; unclear if LLM-based sequential agents
+1,IEEE,UINavBench: A Framework for Comprehensive Evaluation of Interactive Digital Agents,https://ieeexplore.ieee.org/document/11444249/,Include,comprehensive evaluation framework for interactive digital agents
+1,Springer,Agentic AI Capability and Security Benchmark,https://doi.org/10.1007/978-3-032-02130-4_6,Include,agentic AI capability and security benchmark
+1,Springer,SecKQL-Agent: A Real-World APT29 Events Benchmark and&#xa0;Framework for&#xa0;Reliable Text-to-KQL in&#xa0;Security Analytics,https://doi.org/10.1007/978-981-92-0378-9_17,Exclude,"Text-to-KQL is single-step NL→query generation, not sequential agent"
+2,ACM,AgenticShop: Benchmarking Agentic Product Curation for Personalized Web Shopping,https://doi.org/10.1145/3774904.3792724,Include,agentic web shopping benchmark
+2,ACM,Benchmarking Agents in Insurance Underwriting Environments,https://doi.org/10.1145/3786335.3813156,Include,insurance underwriting agents benchmark (sequential decisions)
+2,ACM,Benchmarking Robustness and Generalization in Multi-Agent Systems: A Case Study on Neural MMO,https://doi.org/10.5555/3545946.3598978,Exclude,Neural MMO is RL-based; not LLM sequential agent evaluation
+2,ACM,Beyond Task Completion: An Assessment Framework for Evaluating Agentic AI Systems,https://doi.org/10.1145/3786167.3788414,Include,assessment framework for evaluating agentic AI systems
+2,ACM,EvalAgent: Towards Evaluating News Recommender Systems with LLM-based Agents,https://doi.org/10.1145/3746252.3761127,Exclude,"agents used to evaluate recommender systems, not being evaluated"
+2,ACM,Evaluating User Preferences for Gender and Embodiment Scope in Human-Agent Interaction Systems,https://doi.org/10.1145/3786995.3787057,Exclude,HCI user study on XR agent embodiment preferences
+2,ACM,ImpReSS: Designing and Evaluating a Lightweight Implicit Recommender System in Conversational Support Agents,https://doi.org/10.1145/3742413.3789151,Exclude,recommender system design and evaluation; no reusable agent proc
+2,ACM,LLMEvalRec: An Agentic Framework for Simulating Users to Evaluate News Recommendation Systems,https://doi.org/10.65109/efzy6916,Exclude,agents simulate users to evaluate recommenders; not agent benchmark
+2,ACM,Mosaic: A Multi-Level Framework for Observing and Evaluating Performance of Multi-Agent Systems,https://doi.org/10.1145/3772363.3798830,Include,multi-level multi-agent systems performance evaluation framework
+2,ACM,"REALM-Bench: A Benchmark for Evaluating Multi-Agent Systems on Real-world, Dynamic Planning and Scheduling Tasks",https://doi.org/10.1145/3770854.3785692,Include,multi-agent real-world planning and scheduling benchmark
+2,IEEE,"A Heuristic-First Evaluation Framework for Marketing AI Agents: Judging Quality, Actionability, and Trust",,Exclude,conceptual marketing-agent evaluation framework; no formal benchmark
+2,IEEE,A Hybrid Multi-Agent–ML Architecture for Trust-Oriented Seller Evaluation in B2C E-Commerce,https://ieeexplore.ieee.org/document/11502330/,Exclude,seller evaluation ML application; not LLM sequential agent eval
+2,IEEE,"Agentic AI for Automated Grading: System Design, Baseline Study, and Empirical Evaluation",,Exclude,automated grading application; not a reusable agent benchmark
+2,IEEE,"Agentic AI Framework for Low-Resource Essay Evaluation via Scoring, Explanation, and Debate",,Exclude,essay evaluation application; not a reusable benchmark
+2,IEEE,"Agentic AI Security: Threats, Defenses, Evaluation, and Open Challenges",,Exclude,survey/position on agentic AI security threats
+2,IEEE,Agentic AI Systems: Architecture and Evaluation Using a Frictionless Parking Scenario,,Exclude,parking scenario application case study; not a reusable benchmark
+2,IEEE,AI Agent Testing and Analysis Platform: A System for Automated Evaluation of AI Systems,https://ieeexplore.ieee.org/document/11437478/,Include,automated AI agent testing and analysis platform
+2,IEEE,An Automated System for Generating Chargeback Notices Based on Multi-Agent Collaboration and Its Practical Evaluation,https://ieeexplore.ieee.org/document/11352645/,Exclude,chargeback notice generation application; not agent benchmark
+2,IEEE,ASIC-Agent: An Autonomous Multi-Agent System for ASIC Design with Benchmark Evaluation,,,
+2,IEEE,Automated Resume Evaluation Using Large Language Models: A Multi-Agent Framework With Fine-Tuning and Prompt Engineering,https://ieeexplore.ieee.org/document/11534618/,Exclude,resume evaluation LLM application; not agent benchmark
+2,IEEE,Benchmarking Multi-Agent Collaboration Against Single LLM Systems in E-Commerce,,Include,benchmarking multi-agent collaboration vs single LLM in e-commerce
+2,IEEE,Beyond Single-Framework Architectures: A Systematic Evaluation and Hybrid Design for Scalable Multi-Agent Coordination,https://ieeexplore.ieee.org/document/11481053/,Exclude,multi-agent framework architecture comparison; not sequential task benchmark
+2,IEEE,Beyond Text Matching: Multi-Agent System for Comprehensive Research Paper Evaluation,https://ieeexplore.ieee.org/document/11378097/,Exclude,uses multi-agent to evaluate research papers (LLM-as-judge)
+2,IEEE,ChemPaperBench: A Multi-Domain Benchmark for Literature-Grounded Chemical Reasoning of LLM-Based Multi-Agent Systems,,Include,chemistry reasoning benchmark for LLM-based multi-agent systems
+2,IEEE,Construction of a Quality Evaluation Index System for Response Texts in Medical AI Agents,,Exclude,response text quality evaluation index; not sequential agent eval
+2,IEEE,Contextual Trust Evaluation for Robust Coordination in Large Language Model Multi-Agent Systems,https://ieeexplore.ieee.org/document/11409558/,Exclude,"trust evaluation in LLM MAS; application-specific, not benchmark"
+2,IEEE,Design and Evaluation of an LLM-Based Agent for QoT Estimation and Performance Optimization in Optical Networks,https://ieeexplore.ieee.org/document/11157742/,Exclude,optical network LLM agent application; not reusable benchmark
+2,IEEE,Designing Reputation Systems for Manufacturing Data Trading Markets: A Multi-Agent Evaluation With Q-Learning and IRL-Estimated Utilities,https://ieeexplore.ieee.org/document/11402482/,Exclude,RL/Q-learning multi-agent reputation system; non-LLM
+2,IEEE,Development and Evaluation of an Agentic RAG with Embedded LLM-as-a Judge for Heart Failure Management: A Pilot Study,,Exclude,agentic RAG healthcare application; not agent benchmark
+2,IEEE,Dynamic Pickup and Delivery Task Allocation in Multi-Agent Robotic Systems: Vacancy Chain Approaches Evaluation,,Exclude,robotic task allocation multi-agent; non-LLM
+2,IEEE,Evaluation of Fault Isolability in Multi-Agent Systems,,Exclude,classical MAS fault isolability; non-LLM agents
+2,IEEE,FitnessAgent: A Unified Agent Framework for Open-Set and Personalized Fitness Evaluation,https://ieeexplore.ieee.org/document/11128810/,Exclude,fitness evaluation application; not LLM agent benchmark
+2,IEEE,"Future-Proofing Identity Security for Agentic AI Systems: Design, Implementation, and Evaluation of an Identity Fabric",,Exclude,identity security design paper; not agent benchmark
+2,IEEE,Generative AI and Multi-Agent Systems Approach to Psychometric Evaluation for Human Resource Management and Talent Acquisition,https://ieeexplore.ieee.org/document/11015385/,Exclude,HR psychometric evaluation application
+2,IEEE,IEBench: Benchmarking Unlearning Identity-Event Entangled Concepts for MLLM-Based Systems in Agentic Edge Networks,,Exclude,MLLM unlearning benchmark; not sequential agent evaluation
+2,IEEE,InGen: An LLM-Agent Based Approach for Automatically Generating Evaluation Indicator System for Avionics,https://ieeexplore.ieee.org/document/11274390/,Exclude,uses LLM agents to generate evaluation indicators; not evaluating agents
+2,IEEE,Intelligent Agent-Based Dynamic Reliability Evaluation for Optical Networks: A Comprehensive Framework and Case Study,https://ieeexplore.ieee.org/document/10812963/,Exclude,optical network reliability with non-LLM agent models
+2,IEEE,Intelligent Automation of Student Record Standardization: An Evaluation of Multi-AI Agent Efficacy in Educational Administration,,Exclude,educational record standardization application
+2,IEEE,LLM-Based Dynamic Multi-Agent Systems for Evaluation of Financial Trading Mechanism,,Exclude,uses LLM MAS to evaluate financial trading mechanisms
+2,IEEE,MACS: A Cognitive Diversity Multi-Agent Consensus Framework for Bias Mitigation in Automated Evaluation Systems,,Exclude,multi-agent consensus for bias mitigation in eval systems; LLM-as-judge
+2,IEEE,Mission Reliability Evaluation of Dynamic Distributed Cooperative Systems Based on Multi-agent Modeling and Simulation,https://ieeexplore.ieee.org/document/10336149/,Exclude,classical MAS simulation for distributed system reliability
+2,IEEE,Multi-Agent Cooperative Perception: A Structural Evaluation Framework for Autonomous Systems,,Exclude,autonomous vehicle cooperative perception evaluation; non-LLM
+2,IEEE,"Multi-Agent Systems and Agentic AI in Business Process Automation: Taxonomy, Benchmarks, and an Open Research Agenda",,Exclude,survey/taxonomy of multi-agent systems and agentic AI
+2,IEEE,Retrieval Augmented Generation (RAG) for Fintech: Agentic Design and Evaluation,,Exclude,RAG application for fintech; not LLM agent benchmark
+2,IEEE,Stable and Expert-Aligned Evaluation of Wargaming Strategies via Optimized LLM Scoring Agents,https://ieeexplore.ieee.org/document/11336231/,Exclude,uses LLM scoring agents to evaluate wargaming strategies
+2,Springer,1001 Games a&#xa0;Night—Continuous Evaluation of&#xa0;an&#xa0;Intelligent Multi-agent-Based System,https://doi.org/10.1007/978-981-99-3091-3_59,Exclude,"RoboCup 2D CI system; non-LLM multi-agent, not LLM agent eval"
+2,Springer,A Comprehensive Framework for&#xa0;Turn-Taking Evaluation in&#xa0;Multi-agent Systems: Rotational Periodicity for&#xa0;Scalable Coordination Analysis,https://doi.org/10.1007/978-3-032-03711-4_16,Exclude,classical MAS turn-taking eval with RL; not LLM agents
+2,Springer,A multi-agent large language model framework for intelligent vendor evaluation and risk-aware procurement decisions,https://doi.org/10.1038/s41598-026-50952-x,Exclude,vendor evaluation LLM application; not agent benchmark
+2,Springer,Actions Speak Louder Than Words: Evidence-Based Trust Level Evaluation in&#xa0;Multi-agent Systems,https://doi.org/10.1007/978-981-95-3543-9_14,Exclude,non-LLM MAS trust eval for healthcare IoT (smart ambulances)
+2,Springer,Adaptive monitoring and real-world evaluation of agentic AI systems,https://doi.org/10.1007/s43681-026-00990-y,Include,formalizes AMDM evaluation algorithm for LLM-based agentic AI
+2,Springer,Design and Evaluation of an Agentic AI Framework for Personalized Umrah Trip Planning,https://doi.org/10.1007/s13369-025-11021-z,Exclude,Umrah trip planning application; not agent benchmark
+2,Springer,Embedding ethical governance in personal AI systems: design and evaluation of a user-centred oversight agent,https://doi.org/10.1007/s43681-026-01193-1,Exclude,ethical governance design paper; not agent benchmark
+2,Springer,Evaluation of&#xa0;a&#xa0;Customer Development Simulator Using Large Language Model-Based Multi-agent System and&#xa0;Synthetic Respondents,https://doi.org/10.1007/978-981-96-6938-7_22,Exclude,"customer development simulator; application evaluation, not benchmark"
+2,Springer,"LLM-Based Multi-agent Systems: Frameworks, Evaluation, Open Challenges, and Research Frontiers",https://doi.org/10.1007/978-3-032-15632-7_9,Exclude,survey of LLM-based multi-agent frameworks
+2,Springer,MAP: evaluation and multi-agent enhancement of large language models for inpatient pathways,https://doi.org/10.1038/s44401-026-00085-0,Exclude,LLM enhancement for inpatient pathways; healthcare application
+2,Springer,Multi-agent System for Intelligent Heating Control: Implementation and Evaluation Using Home Assistant and Neural Networks,https://doi.org/10.1007/978-3-032-20746-3_10,Exclude,smart home heating control with neural networks; non-LLM
+2,Springer,Multi-agent System for Multi-modal Educational Content Generation and Evaluation: A Case Study,https://doi.org/10.1007/978-981-95-7144-4_34,Exclude,educational content generation case study
+2,Springer,Safety rapid evaluation method and system of pump truck upper structure based on combination weighting and agent model,https://doi.org/10.1186/s44147-025-00713-w,Exclude,"pump truck structural evaluation; engineering, non-AI agent"
+3,ACM,A Framework for Evaluating AI Agents in Open-Ended Conversations via Scripted Simulation,https://doi.org/10.1145/3711896.3737390,Include,framework for evaluating AI agents in open-ended conversations via scripted simulation
+3,ACM,Agent-Driven Automatic Software Improvement,https://doi.org/10.1145/3661167.3661171,Exclude,software improvement application; no reusable benchmark
+3,ACM,An LLM-based Agentic Framework for Accessible NetworkControl,https://doi.org/10.1145/3764944.3764949,Exclude,network control LLM agent application
+3,ACM,Can AI Deliberate? Evaluating Deliberative Quality and Stance Flow in Multi-Agent LLMs,https://doi.org/10.1145/3772363.3798877,Include,evaluates deliberative quality and stance flow in multi-agent LLMs
+3,ACM,Context Matters: Evaluating MCP-Based Context-Aware AI — A Case Study of Email Communications in Nonprofit Organizations,https://doi.org/10.1145/3786167.3788426,Exclude,email MCP case study; not a general reusable benchmark
+3,ACM,Does Safety Molt? Evaluating LLM Safety in Multi-Agent Social Environments,https://doi.org/10.1145/3786335.3813173,Include,evaluates LLM safety in multi-agent social environments
+3,ACM,Evaluating and Improving Graph-based Explanation Methods for Multi-Agent Coordination,https://doi.org/10.5555/3709347.3743941,Exclude,evaluation of explanation methods for coordination; not agent benchmark
+3,ACM,Evaluating Emotions while Watching a Movie using the Learning Type Fuzzy-Template-Matching method,https://doi.org/10.1145/3623809.3623969,Exclude,emotion evaluation with fuzzy matching; non-LLM
+3,ACM,Evaluating Intrinsic Geospatial Topological Reasoning in LLMs,https://doi.org/10.1145/3764915.3770722,Exclude,static LLM geospatial reasoning eval; not sequential agent
+3,ACM,Evaluating Large Language Models through Communication Games: An Agent-Based Framework Using Werewolf in Unity,https://doi.org/10.1145/3723498.3723702,Include,LLM evaluation through multi-turn Werewolf social deduction game
+3,ACM,Evaluating Social Acceptance of eXtended Reality (XR) Agent Technology: A User Study,https://doi.org/10.1145/3750069.3750317,Exclude,HCI user study on XR agent social acceptance
+3,ACM,Evaluating the Robustness of Multimodal Agents Against Active Environmental Injection Attacks,https://doi.org/10.1145/3746027.3755646,Include,robustness evaluation of multimodal agents against active injection attacks
+3,ACM,Evaluating Theory-of-Mind in Large Language Models Through Opponent Modeling,https://doi.org/10.1145/3717511.3747081,,
+3,ACM,Externalizing Vulnerability and Verbalizing Thoughts to More Adequately Evaluate Trust in AI,https://doi.org/10.1145/3623809.3623962,Exclude,trust in AI user study; not LLM agent evaluation procedure
+3,ACM,Fairness Dynamics in Digital Economy Platforms with Biased Ratings,https://doi.org/10.65109/cejt6762,Exclude,fairness dynamics in digital economy platforms; not LLM agent eval
+3,ACM,First Experiments on Automated Execution of Gherkin Test Specifications with Collaborating LLM Agents,https://doi.org/10.1145/3678719.3685692,Exclude,application paper for Gherkin test execution with LLM agents; no benchmark
+3,ACM,From Interaction to Impact: Towards Safer AI Agent Through Understanding and Evaluating Mobile UI Operation Impacts,https://doi.org/10.1145/3708359.3712153,Include,mobile UI operation impact evaluation for safer AI agents
+3,ACM,Generating and Evaluating Data of Daily Activities with an Autonomous Agent in a Virtual Smart Home,https://doi.org/10.1145/3665331,Exclude,generates synthetic daily-activity data; does not evaluate agent procedure
+3,ACM,How Government Agencies Evaluate Cybersecurity Capacity Building Outcomes: A Case of Malawi,https://doi.org/10.1145/3680127.3680177,Exclude,government cybersecurity capacity building policy evaluation
+3,ACM,How Well Do Large Language Models Serve as End-to-End Secure Code Agents for Python?,https://doi.org/10.1145/3756681.3756984,Include,evaluates LLMs as end-to-end secure code agents
+3,ACM,IDAT: A Multi-Modal Dataset and Toolkit for Building and Evaluating Interactive Task-Solving Agents,https://doi.org/10.1145/3726302.3730300,Include,multimodal dataset and toolkit for evaluating interactive task-solving agents
+3,ACM,Leveraging User Simulation to Develop and Evaluate Conversational Information Access Agents,https://doi.org/10.1145/3616855.3635730,Include,user simulation to develop and evaluate conversational information-access agents
+3,ACM,MALLM: Multi-Agent Decision-Making with LLMs for Multi-User Edge-Sensor Environments,https://doi.org/10.1145/3764944.3764947,Exclude,IoT edge-sensor LLM agent application; not benchmark
+3,ACM,Persuade Me if You Can: A Framework for Evaluating Persuasion Effectiveness and Susceptibility Among Large Language Models,https://doi.org/10.1145/3786335.3813181,Include,framework for evaluating persuasion in multi-turn LLM interactions
+3,ACM,QD-MAPPER: A Quality Diversity Framework to Automatically Evaluate Multi-Agent Path Finding Algorithms in Diverse Maps,https://doi.org/10.65109/uzvn6052,Exclude,multi-agent path finding robotics; not LLM agent eval
+3,ACM,Relying on the Metrics of Evaluated Agents,https://doi.org/10.1145/3696410.3714864,Include,meta-analysis of metrics for evaluating agents
+3,ACM,Simulating and Evaluating Generative Modeling and Collaborative Filtering in Complex Social Networks,https://doi.org/10.5555/3709347.3743580,Exclude,social network generative modeling simulation; not LLM agent eval
+3,ACM,What Insights Human Cognition Can Offer to Enhance Computational Models of Multimodal Language Generation?,https://doi.org/10.1145/3746268.3759438,Exclude,cognitive science perspective; not LLM agent evaluation procedure
+3,IEEE,A Comparative Evaluation of Local Inference for Embodied Agents in Minecraft,https://ieeexplore.ieee.org/document/11522540/,Include,comparative evaluation of local inference for embodied LLM agents in Minecraft
+3,IEEE,A Critical Evaluation of Agentic AI in Cybersecurity: The Pros and the Cons,,Exclude,critical position piece on agentic AI in cybersecurity
+3,IEEE,"A Multi-Agent AI Framework for Agile Workflow Automation, Issue Resolution, and Developer Performance Evaluation",,Exclude,multi-agent workflow automation application
+3,IEEE,A Multi-Agent Workflow for 3D Visualization Code Generation and Evaluation Based on Spatial-MLLM,https://ieeexplore.ieee.org/document/11333708/,Exclude,3D visualization code generation application
+3,IEEE,"A Unified Evaluation Framework for Grounded LLM Architectures: Comparative Analysis of RAG, Self-RAG, and Agentic RAG",,Exclude,RAG architectures comparison; not sequential agent benchmark
+3,IEEE,Achieving Fairness in DareFightingICE Agents Evaluation Through a Delay Mechanism,,Exclude,DareFightingICE game AI competition; non-LLM
+3,IEEE,Agent Evaluation via Social Network Analysis in Educational E-CARGO Framework,https://ieeexplore.ieee.org/document/11139203/,Exclude,classical E-CARGO educational MAS framework; not LLM agent eval
+3,IEEE,Agentic AI Meets RAG: A Framework for Domain-Specific Knowledge Evaluation,,Exclude,RAG knowledge evaluation; not sequential LLM agent benchmark
+3,IEEE,AIvaluate: A Multi-Agent Framework for Automated Answer Script Evaluation Using Large Language Models and Semantic Vector Indexing,https://ieeexplore.ieee.org/document/11155081/,Exclude,uses multi-agent LLMs to evaluate answer scripts (LLM-as-judge)
+3,IEEE,ALIVE: An Agentic Longitudinal IDE-IPA Value Evaluation Framework for Innovation-Driven Enterprise Assessment,,Exclude,enterprise value assessment application; not agent benchmark
+3,IEEE,An Agent-based Evaluation Framework for Complex Code Generation,https://ieeexplore.ieee.org/document/11334422/,Include,agent-based framework for evaluating complex code generation
+3,IEEE,An Iterative Multi-Agent Analysis for Automated Evaluation in NLG Tasks,https://ieeexplore.ieee.org/document/11417045/,Exclude,NLG evaluation using iterative multi-agent (LLM-as-judge)
+3,IEEE,Analyzing RL Agent Competency in Air Combat: A Tool for Comprehensive Performance Evaluation,https://ieeexplore.ieee.org/document/10311176/,Exclude,RL agent competency in air combat; non-LLM
+3,IEEE,AutoGen-TraceKit: A Lightweight Framework for Process-Aware Evaluation of LLM Agents,,Include,process-aware evaluation framework for LLM agents (AutoGen-TraceKit)
+3,IEEE,BioLabAgents: A Multi-Agent Framework for Scientific Idea Generation and Evaluation on Biomedical Research Trajectories,https://ieeexplore.ieee.org/document/11356120/,Exclude,uses multi-agent for biomedical idea evaluation; not agent benchmark
+3,IEEE,"Bridging Gaps in Agentic AI: Verification, Coordination, and Evaluation",,Exclude,survey/position on agentic AI gaps
+3,IEEE,Cognitive Agent Evaluation for Synthetic Pilot Training,https://ieeexplore.ieee.org/document/11257300/,Exclude,synthetic pilot training (simulation/RL); non-LLM
+3,IEEE,Comparative Evaluation of Fragmentation and Encoding Strategies in a Web Agent Integrating RAG and Local LLM,https://ieeexplore.ieee.org/document/11340287/,Exclude,RAG strategy comparison within web agent; not sequential agent benchmark
+3,IEEE,Contextualizing AI Agent Evaluation: Proposed Framework for Japanese Businesses,https://ieeexplore.ieee.org/document/11341698/,Include,proposed evaluation framework for AI agents in business context
+3,IEEE,Enhanced Alpha-Beta Pruning and Evaluation Function Optimization for Pac-Man AI Agents,https://ieeexplore.ieee.org/document/11547420/,Exclude,classic game AI Pac-Man alpha-beta; not LLM agents
+3,IEEE,Enhancing Handwritten Answer Sheet Evaluation Through Large Language Models and Multi-Agent Reasoning,https://ieeexplore.ieee.org/document/11379082/,Exclude,uses LLM for handwritten answer evaluation (LLM-as-judge)
+3,IEEE,Evaluation Method of Ship Equipment Applicability Based on Agent Attention Transformer,https://ieeexplore.ieee.org/document/10920484/,Exclude,ship equipment evaluation; non-AI agent
+3,IEEE,Evaluation of Graph- and Sampling-Based Path Planners for Multi-Agent Deployment in Known Urban Environments,https://ieeexplore.ieee.org/document/11494642/,Exclude,robotics path planner evaluation; non-LLM multi-agent
+3,IEEE,Evaluation of LLM Powered Agentic AI for Solving Multi-Arm Bandit Problems,,Include,evaluation of LLM-powered agentic AI on sequential multi-arm bandit
+3,IEEE,Evaluation of Multi-Armed Bandit Decision Making in Multi-Agent Cyber Physical Games,,Exclude,RL/cyber-physical multi-armed bandit; non-LLM
+3,IEEE,FARE: Financial Agentic Reasoning and Evaluation for Earnings Call Transcripts,,Include,financial agentic reasoning and evaluation benchmark for earnings transcripts
+3,IEEE,IAEAgent: LLM-Based Educational Agent for Instructional Alignment Evaluation in University Courses,https://ieeexplore.ieee.org/document/11533481/,Exclude,uses LLM agent for course alignment evaluation; not agent benchmark
+3,IEEE,Implementation of Wireless Network Quality Evaluation Method for Agent Twins Based on Active Passive Dual Periodic Collaborative Measurement,https://ieeexplore.ieee.org/document/11064354/,Exclude,wireless network evaluation with agent twins; non-LLM
+3,IEEE,Integrating Fuzzy Evaluation Agents and LLM-Based Robots for Multilingual Interactive Applications,https://ieeexplore.ieee.org/document/11287789/,Exclude,multilingual application with fuzzy evaluation agents
+3,IEEE,"Intelligent Agents for Requirements Engineering: Use, Feasibility and Evaluation",https://ieeexplore.ieee.org/document/11190353/,Exclude,requirements engineering agent feasibility study; not benchmark
+3,IEEE,Lightweight Dual-Agent Architecture for 2-D Shadow Puppetry: Real-Time Edge Deployment and Evaluation,https://ieeexplore.ieee.org/document/11435987/,Exclude,shadow puppetry application
+3,IEEE,LLM-based Intelligent Evaluation Agent with Knowledge Graph Construction for Human-Machine Interactive Learning*,https://ieeexplore.ieee.org/document/11343717/,Exclude,uses LLM as evaluation agent for learning (LLM-as-judge)
+3,IEEE,MAEDA: An LLM-Powered Multi-Agent Evaluation Framework for EDA Tool Documentation QA,https://ieeexplore.ieee.org/document/11539506/,Exclude,static QA EDA documentation evaluation
+3,IEEE,MELF: Multi-Agent Evaluation for LLMs Fairness Based on Hierarchical Genetic Algorithm,https://ieeexplore.ieee.org/document/11388881/,Exclude,LLM fairness evaluation via multi-agent genetic algorithm optimization
+3,IEEE,Multi-Agent Based Casual Triple Extraction For Factuality Evaluation Using Large Language Models,https://ieeexplore.ieee.org/document/10917708/,Exclude,triple extraction for factuality evaluation (LLM-as-judge tool)
+3,IEEE,Multi-Agent Collaborative Closed-Loop Planning - Evaluation - Assessment Framework: Optimization and Interpretability Evaluation,,Include,multi-agent closed-loop planning-evaluation-assessment framework
+3,IEEE,Multi-Agent Evaluation for Energy Management by Practically Scaling Q-Rank,https://ieeexplore.ieee.org/document/11292972/,Exclude,energy management evaluation; RL/classical methods
+3,IEEE,Multi-Agent-Based Network Traffic Dataset Quality Evaluation Framework,,Exclude,network traffic dataset quality evaluation framework
+3,IEEE,NetIQ: A Tri-Modular Dynamic Evaluation Framework for Intelligent Agent Networks,,Exclude,"intelligent agent networks eval; likely network-layer, not LLM"
+3,IEEE,Persona-Driven Feedback Agents for High-Stakes Documents: A Multi-Perspective Evaluation of Global Talent Visa Submissions,https://ieeexplore.ieee.org/document/11498196/,Exclude,uses persona-driven agents to evaluate documents (LLM-as-judge)
+3,IEEE,Research on Performance Evaluation Technology of Metering Devices Based on the Smart Agent for Business Expansion and Metering,https://ieeexplore.ieee.org/document/11331985/,Exclude,smart metering device performance evaluation; non-AI agent
+3,IEEE,Role Assignment for Agent Evaluation Under Uncertainty: A Distributionally Robust Approach,https://ieeexplore.ieee.org/document/11192230/,,
+3,IEEE,SafeDoc Agent for Facility Safety Report Evaluation,,Exclude,safety report evaluation application
+3,IEEE,Self-Evaluation can Help Agents Meet Social Expectations,https://ieeexplore.ieee.org/document/11217458/,Exclude,self-evaluation application in social context; not reusable benchmark
+3,IEEE,Skill Training for Space Teleoperation: DRL-Based Intelligent Agent for Training Strategy Adjustment With Innovative Evaluation,https://ieeexplore.ieee.org/document/11224535/,Exclude,DRL-based space teleoperation; non-LLM
+3,IEEE,Task-Specific Trust Evaluation for Multi-Hop Collaborator Selection via GNN-Aided Distributed Agentic AI,,Exclude,GNN-aided distributed agentic AI trust; non-LLM focus
+3,IEEE,Teaching Precommitted Agents: Model-Free Policy Evaluation and Control in Quasi-Hyperbolic Discounted MDPs,https://ieeexplore.ieee.org/document/11312113/,Exclude,RL model-free policy evaluation in hyperbolic MDPs
+3,IEEE,Workstation Evaluation of Work from Home Call Center Agents Using ROSA,https://ieeexplore.ieee.org/document/10589117/,Exclude,human call center worker ergonomic evaluation; non-AI agent
+3,Springer,"[<sup>177</sup>Lu]Lu-EDTMP —a bone pain palliating agent: pharmacokinetics, biodistribution, safety profile and clinical evaluation in osseous metastatic patients",https://doi.org/10.1007/s00259-025-07218-x,Exclude,pharmaceutical radioactive agent; non-AI
+3,Springer,A Task Complexity Evaluation Framework for&#xa0;Mobile AI Agent Applications,https://doi.org/10.1007/978-3-031-94171-9_43,Include,task complexity evaluation framework for mobile AI agent applications
+3,Springer,CommonHealth: Multi-agent Evaluation of&#xa0;Blockchain-Based Patient-Centred Health Networks,https://doi.org/10.1007/978-3-031-93930-3_24,Exclude,blockchain-based health network multi-agent evaluation; non-LLM
+3,Springer,"Development and evaluation of a colorimetric LAMP-based biosensor for rapid detection of a nosocomial infection agent, <i>Citrobacter freundii</i>",https://doi.org/10.1038/s41598-023-49329-1,Exclude,biological nosocomial infection agent detection; non-AI
+3,Springer,MATEval: A Multi-agent Discussion Framework for&#xa0;Advancing Open-Ended Text Evaluation,https://doi.org/10.1007/978-981-97-5575-2_31,Exclude,multi-agent discussion for text evaluation (LLM-as-judge)
+3,Springer,"Molecular characterization and evaluation of novel management options for <i>Burkholderia glumae</i> BG1, the causative agent of panicle blight of rice (<i>Oryza sativa</i> L.)",https://doi.org/10.1007/s11033-024-09498-2,Exclude,biological pathogen molecular characterization; non-AI
+3,Springer,Potential Play Evaluation with Learning-Based Agent Modeling,https://doi.org/10.1007/978-981-96-1445-5_4,Exclude,game-theoretic potential play evaluation; classical game theory
+3,Springer,Preparation and Evaluation of Hydrophobically Associating Polyacrylamide Liquid Suspension Agent for Oil Well Cement,https://doi.org/10.1007/978-981-96-4922-8_68,Exclude,polyacrylamide chemical agent for oil well cement; non-AI
+3,Springer,Quality Tuning and Evaluation with Agent Bricks,https://doi.org/10.1007/979-8-8688-2524-8_7,,
+3,Springer,T2F: a domain-agnostic multi-agent framework for unstructured text to factuality evaluation items generation,https://doi.org/10.1007/s44163-025-00294-w,Exclude,uses multi-agent to generate factuality evaluation items (LLM-as-judge)
+3,Springer,Using Generated Rubrics to&#xa0;Provide a&#xa0;Window Into Item Evaluation with&#xa0;Multi-agent LLMs,https://doi.org/10.1007/978-3-031-98420-4_15,Exclude,uses LLM agents with rubrics to evaluate items (LLM-as-judge)
+3,Springer,Value-based large language model agent simulation for mutual evaluation of trust and interpersonal closeness,https://doi.org/10.1038/s41598-025-25531-1,Exclude,LLM agent social simulation for trust measurement; application

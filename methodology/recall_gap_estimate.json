@@ -1,0 +1,197 @@
+{
+  "generated": "2026-06-05T20:17:23Z",
+  "label": "estimate",
+  "probe_set": {
+    "size": 10,
+    "members": [
+      {
+        "benchmark": "AgentBench",
+        "oa_id": "W4385682136"
+      },
+      {
+        "benchmark": "SWE-bench",
+        "oa_id": "W4387561453"
+      },
+      {
+        "benchmark": "GAIA",
+        "oa_id": "W4388964563"
+      },
+      {
+        "benchmark": "AppWorld",
+        "oa_id": "W4402671485"
+      },
+      {
+        "benchmark": "OSWorld",
+        "oa_id": "W4415797693"
+      },
+      {
+        "benchmark": "MLE-bench",
+        "oa_id": "W4403345800"
+      },
+      {
+        "benchmark": "DataSciBench",
+        "oa_id": "W4407780297"
+      },
+      {
+        "benchmark": "AgentBoard",
+        "oa_id": "W4391244521"
+      },
+      {
+        "benchmark": "VisualWebArena",
+        "oa_id": "W4402667024"
+      },
+      {
+        "benchmark": "ToolEmu",
+        "oa_id": "W4387164935"
+      }
+    ],
+    "selection": "source_verified seeds (recall_probe_set=auto), frozen for run"
+  },
+  "step1_probe_recall": {
+    "openalex": {
+      "found": 10,
+      "of": 10,
+      "fraction": 1.0
+    },
+    "crossref": {
+      "found": 4,
+      "of": 10,
+      "fraction": 0.4
+    },
+    "ieee": {
+      "found": 0,
+      "of": 10,
+      "fraction": 0.0,
+      "registration_count": 962,
+      "field_scoping": "honored (Abstract + All Metadata field codes accepted by IEEE query syntax)",
+      "method": "authenticated UI, per-title lookups"
+    },
+    "acm": {
+      "found": 0,
+      "of": 10,
+      "fraction": 0.0,
+      "registration_count": 17231,
+      "field_scoping": "broad_expansion",
+      "field_scoping_caveat": "broad_expansion: ACM degraded field codes to all-field; count is over-broad, not field-restricted.",
+      "method": "authenticated UI, per-title lookups"
+    },
+    "probe_gap_vs_union": 0.0,
+    "sciencedirect": {
+      "found": 0,
+      "of": 10,
+      "fraction": 0.0,
+      "method": "authenticated browser UI, per-title lookups, slow pass after rate-limit cleared"
+    },
+    "scopus": {
+      "found": 9,
+      "of": 10,
+      "fraction": 0.9,
+      "registration_count": 4836,
+      "field_scoping": "honored (TITLE-ABS-KEY field code accepted)",
+      "method": "authenticated UI, TITLE-scoped per-benchmark lookups",
+      "note": "Indexes the canonical paper itself for 9/10 (all but DataSciBench, a 2025 preprint)."
+    }
+  },
+  "step2_overlap_2x2_openalex_vs_crossref": {
+    "found_in_both": 4,
+    "openalex_only": 6,
+    "crossref_only": 0,
+    "neither": 0,
+    "probe_n": 10
+  },
+  "step3_capture_recapture": {
+    "estimator": "Chapman (bias-corrected Lincoln-Petersen)",
+    "n_openalex_include_set": 259,
+    "n_crossref_inscope_search": 219,
+    "overlap_m": 16,
+    "N_hat": 3363.7,
+    "estimated_recall_openalex": 0.077,
+    "recall_gap": 0.923,
+    "assumptions": [
+      "(i) the two sources sample the same population independently",
+      "(ii) capture probability is homogeneous across papers",
+      "(iii) the population is closed over 2023-01-01..2026-06-30"
+    ],
+    "caveats": [
+      "ASSUMPTION (i) FAILS BY CONSTRUCTION, HETEROGENEOUSLY. OpenAlex and Crossref are not two independent random samples: they are two DIFFERENT targeted search strategies (OpenAlex title.search streams vs Crossref bibliographic queries, the latter capped at 2 pages x 3 queries). Different strategies select different sub-regions of the literature, which DEPRESSES the observed overlap m. Low m mechanically INFLATES the Chapman N_hat, so the estimated recall (n_OA / N_hat) is biased DOWNWARD. The reported estimated_recall_openalex is therefore best read as a LOOSE LOWER BOUND, not a measurement.",
+      "DIRECT CONTRADICTION WITH PROBE PROXY -> the probe-set proxy finds OpenAlex captures 100% (10/10) of source-verified canonical benchmarks, whereas the capture-recapture point value implies ~8% recall. This gap is the signature of capture heterogeneity, not evidence that OpenAlex misses 92% of the literature. The probe proxy is the more trustworthy signal for KNOWN/canonical work; the capture-recapture figure bounds only the long TAIL of obscure, low-citation benchmarks that targeted title search under-samples.",
+      "Crossref sampling was depth-capped (>=600 candidates), so n_CR and m are themselves lower bounds; deeper Crossref harvest would raise m and lower N_hat.",
+      "IEEE/ACM Tier-2 probe columns are UNRESOLVED:no_credentials this run; the estimate uses Crossref as the authorised open-index substitute.",
+      "Reported as an ORDER-OF-MAGNITUDE bound, not a point estimate. Headline coverage evidence is the probe proxy (Step 1-2); capture-recapture (Step 3) only brackets the tail."
+    ],
+    "interpretation": "Because the two engines are heterogeneous targeted searches (not independent random samples) and Crossref sampling was depth-capped, the observed overlap m is depressed, which inflates N_hat and pushes the estimated recall DOWNWARD. Treat estimated_recall_openalex as a loose LOWER bound. It is contradicted -- in the reassuring direction -- by the probe proxy, which shows 100% capture of canonical benchmarks. Synthesis: OpenAlex recall on KNOWN/influential agent benchmarks is effectively complete (probe proxy), while recall over the full long tail of low-visibility benchmarks is materially below 100% and not precisely estimable here. Confidence framing in Step 4 follows from this synthesis, NOT from the bare 8% point value.",
+    "external_corroboration": "Scopus probe recall 9/10 with 9/9 overlap with OpenAlex independently supports near-complete canonical recall, contradicting the 7.7% point value."
+  },
+  "step4_confidence_framing": {
+    "robust_to_gap": [
+      "within-corpus composition shares (capability mix)",
+      "year-over-year shape / relative growth",
+      "relative venue composition"
+    ],
+    "sensitive_to_gap": [
+      "absolute number of benchmarks",
+      "absolute per-year counts",
+      "absolute venue-share levels"
+    ],
+    "default_stance": "absolute volumes reported as LOWER bounds; composition/shares reported as directionally reliable"
+  },
+  "step2_overlap_2x2_openalex_vs_sciencedirect": {
+    "found_in_both": 0,
+    "openalex_only": 10,
+    "sciencedirect_only": 0,
+    "neither": 0,
+    "probe_n": 10
+  },
+  "step3_capture_recapture_sciencedirect": {
+    "n_sciencedirect_inscope_count": 785,
+    "overlap_m": "UNRESOLVED:zero_overlap_same_population_violated",
+    "N_hat": "UNRESOLVED:declined",
+    "reason": "Declined: probe overlap m=0 with OpenAlex on the probe set and the same-population assumption is violated (Elsevier journals do not host this literature class). Marked UNRESOLVED:zero_overlap_same_population_violated."
+  },
+  "notes": [
+    "ScienceDirect Tier-2 added 2026-06-08: registered field-scoped count 785 (2023-2026); probe column 0/10 — Elsevier hosts citing works but none of the canonical benchmark papers; probe_gap vs expanded union remains 0.0.",
+    "ScienceDirect Tier-2 added 2026-06-08: registered field-scoped count 785 (2023-2026); probe column 0/10 — Elsevier hosts citing works but none of the canonical benchmark papers; probe_gap vs expanded union remains 0.0.",
+    "IEEE+ACM Tier-2 added 2026-06-08 (authenticated UI): IEEE field-scoped 962, ACM 17231 (broad_expansion). Both probe 0/10 — DBs host derivative/citing works but not the canonical benchmark papers. probe_gap vs expanded union remains 0.0; capture-recapture declined for both (m=0, same-population violated).",
+    "IEEE+ACM Tier-2 added 2026-06-08 (authenticated UI): IEEE field-scoped 962, ACM 17231 (broad_expansion). Both probe 0/10 — DBs host derivative/citing works but not the canonical benchmark papers. probe_gap vs expanded union remains 0.0; capture-recapture declined for both (m=0, same-population violated).",
+    "Scopus Tier-3 added 2026-06-08 (authenticated UI): field-scoped count 4836; probe recall 9/10 — Scopus indexes the canonical benchmark paper itself for every probe except DataSciBench (2025 preprint). All 9 are also in OpenAlex (scopus_only=0), so probe_gap vs union stays 0.0. This is the strongest independent corroboration of OpenAlex canonical coverage and confirms the Crossref capture-recapture point value (~7.7%) was a heterogeneity artifact.",
+    "Scopus Tier-3 added 2026-06-08 (authenticated UI): field-scoped count 4836; probe recall 9/10 — Scopus indexes the canonical benchmark paper itself for every probe except DataSciBench (2025 preprint). All 9 are also in OpenAlex (scopus_only=0), so probe_gap vs union stays 0.0. This is the strongest independent corroboration of OpenAlex canonical coverage and confirms the Crossref capture-recapture point value (~7.7%) was a heterogeneity artifact."
+  ],
+  "step2_overlap_2x2_openalex_vs_ieee": {
+    "found_in_both": 0,
+    "openalex_only": 10,
+    "ieee_only": 0,
+    "neither": 0,
+    "probe_n": 10
+  },
+  "step2_overlap_2x2_openalex_vs_acm": {
+    "found_in_both": 0,
+    "openalex_only": 10,
+    "acm_only": 0,
+    "neither": 0,
+    "probe_n": 10
+  },
+  "step3_capture_recapture_ieee": {
+    "n_ieee_count": 962,
+    "overlap_m": "UNRESOLVED:zero_overlap_same_population_violated",
+    "N_hat": "UNRESOLVED:declined"
+  },
+  "step3_capture_recapture_acm": {
+    "n_acm_count": 17231,
+    "field_scoping": "broad_expansion",
+    "overlap_m": "UNRESOLVED:zero_overlap_same_population_violated",
+    "N_hat": "UNRESOLVED:declined_broad_expansion"
+  },
+  "step2_overlap_2x2_openalex_vs_scopus": {
+    "found_in_both": 9,
+    "openalex_only": 1,
+    "scopus_only": 0,
+    "neither": 0,
+    "probe_n": 10
+  },
+  "step3_capture_recapture_scopus": {
+    "n_scopus_field_count": 4836,
+    "corpus_overlap_m": "UNRESOLVED:export_gated",
+    "N_hat": "UNRESOLVED:export_gated",
+    "reason": "Not computed at corpus level: the 4,836 figure is the unscreened TITLE-ABS-KEY field count, not a same-population screened include set comparable to the 259 OpenAlex includes, and record-level overlap m would require export (gated). Reporting the probe-set 2x2 and registered count only; capture-recapture corpus N_hat from Scopus = UNRESOLVED:export_gated."
+  }
+}

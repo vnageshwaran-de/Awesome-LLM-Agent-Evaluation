@@ -1,0 +1,165 @@
+{
+  "generated": "2026-06-05T20:12:07Z",
+  "seeds": [
+    {
+      "seed": "AgentBench",
+      "hint": "AgentBench Evaluating LLMs as Agents",
+      "arxiv": "2308.03688",
+      "source_verified": true,
+      "matched_oa_id": "W4385682136",
+      "matched_doi": "10.48550/arxiv.2308.03688",
+      "query_url": "https://api.openalex.org/works?search=AgentBench%20Evaluating%20LLMs%20as%20Agents&per_page=3&select=id,doi,title,display_name,publication_year,publication_date,type,authorships,primary_location,locations,cited_by_count,open_access,abstract_inverted_index,referenced_works,cited_by_api_url&mailto=vnageshwaran@gmail.com",
+      "in_probe_set": true
+    },
+    {
+      "seed": "SWE-bench",
+      "hint": "SWE-bench Can Language Models Resolve Real-World GitHub Issues",
+      "arxiv": "2310.06770",
+      "source_verified": true,
+      "matched_oa_id": "W4387561453",
+      "matched_doi": "10.48550/arxiv.2310.06770",
+      "query_url": "https://api.openalex.org/works?search=SWE-bench%20Can%20Language%20Models%20Resolve%20Real-World%20GitHub%20Issues&per_page=3&select=id,doi,title,display_name,publication_year,publication_date,type,authorships,primary_location,locations,cited_by_count,open_access,abstract_inverted_index,referenced_works,cited_by_api_url&mailto=vnageshwaran@gmail.com",
+      "in_probe_set": true
+    },
+    {
+      "seed": "WebArena",
+      "hint": "WebArena A Realistic Web Environment for Building Autonomous Agents",
+      "arxiv": "2307.13854",
+      "source_verified": false,
+      "matched_oa_id": "",
+      "matched_doi": "",
+      "query_url": "https://api.openalex.org/works?search=WebArena%20A%20Realistic%20Web%20Environment%20for%20Building%20Autonomous%20Agents&per_page=3&select=id,doi,title,display_name,publication_year,publication_date,type,authorships,primary_location,locations,cited_by_count,open_access,abstract_inverted_index,referenced_works,cited_by_api_url&mailto=vnageshwaran@gmail.com",
+      "in_probe_set": false
+    },
+    {
+      "seed": "GAIA",
+      "hint": "GAIA a benchmark for General AI Assistants",
+      "arxiv": "2311.12983",
+      "source_verified": true,
+      "matched_oa_id": "W4388964563",
+      "matched_doi": "10.48550/arxiv.2311.12983",
+      "query_url": "https://api.openalex.org/works?search=GAIA%20a%20benchmark%20for%20General%20AI%20Assistants&per_page=3&select=id,doi,title,display_name,publication_year,publication_date,type,authorships,primary_location,locations,cited_by_count,open_access,abstract_inverted_index,referenced_works,cited_by_api_url&mailto=vnageshwaran@gmail.com",
+      "in_probe_set": true
+    },
+    {
+      "seed": "AppWorld",
+      "hint": "AppWorld A Controllable World of Apps and People",
+      "arxiv": "2407.18901",
+      "source_verified": true,
+      "matched_oa_id": "W4402671485",
+      "matched_doi": "10.18653/v1/2024.acl-long.850",
+      "query_url": "https://api.openalex.org/works?search=AppWorld%20A%20Controllable%20World%20of%20Apps%20and%20People&per_page=3&select=id,doi,title,display_name,publication_year,publication_date,type,authorships,primary_location,locations,cited_by_count,open_access,abstract_inverted_index,referenced_works,cited_by_api_url&mailto=vnageshwaran@gmail.com",
+      "in_probe_set": true
+    },
+    {
+      "seed": "OSWorld",
+      "hint": "OSWorld Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+      "arxiv": "2404.07972",
+      "source_verified": true,
+      "matched_oa_id": "W4415797693",
+      "matched_doi": "10.52202/079017-1650",
+      "query_url": "https://api.openalex.org/works?search=OSWorld%20Benchmarking%20Multimodal%20Agents%20for%20Open-Ended%20Tasks%20in%20Real%20Computer%20Environments&per_page=3&select=id,doi,title,display_name,publication_year,publication_date,type,authorships,primary_location,locations,cited_by_count,open_access,abstract_inverted_index,referenced_works,cited_by_api_url&mailto=vnageshwaran@gmail.com",
+      "in_probe_set": true
+    },
+    {
+      "seed": "ToolBench",
+      "hint": "ToolLLM Facilitating Large Language Models to Master 16000+ Real-world APIs",
+      "arxiv": "2307.16789",
+      "source_verified": false,
+      "matched_oa_id": "",
+      "matched_doi": "",
+      "query_url": "https://api.openalex.org/works?search=ToolLLM%20Facilitating%20Large%20Language%20Models%20to%20Master%2016000%2B%20Real-world%20APIs&per_page=3&select=id,doi,title,display_name,publication_year,publication_date,type,authorships,primary_location,locations,cited_by_count,open_access,abstract_inverted_index,referenced_works,cited_by_api_url&mailto=vnageshwaran@gmail.com",
+      "in_probe_set": false
+    },
+    {
+      "seed": "MLE-bench",
+      "hint": "MLE-bench Evaluating Machine Learning Agents on Machine Learning Engineering",
+      "arxiv": "2410.07095",
+      "source_verified": true,
+      "matched_oa_id": "W4403345800",
+      "matched_doi": "10.48550/arxiv.2410.07095",
+      "query_url": "https://api.openalex.org/works?search=MLE-bench%20Evaluating%20Machine%20Learning%20Agents%20on%20Machine%20Learning%20Engineering&per_page=3&select=id,doi,title,display_name,publication_year,publication_date,type,authorships,primary_location,locations,cited_by_count,open_access,abstract_inverted_index,referenced_works,cited_by_api_url&mailto=vnageshwaran@gmail.com",
+      "in_probe_set": true
+    },
+    {
+      "seed": "DataSciBench",
+      "hint": "DataSciBench An LLM Agent Benchmark for Data Science",
+      "arxiv": "2502.13897",
+      "source_verified": true,
+      "matched_oa_id": "W4407780297",
+      "matched_doi": "10.48550/arxiv.2502.13897",
+      "query_url": "https://api.openalex.org/works?search=DataSciBench%20An%20LLM%20Agent%20Benchmark%20for%20Data%20Science&per_page=3&select=id,doi,title,display_name,publication_year,publication_date,type,authorships,primary_location,locations,cited_by_count,open_access,abstract_inverted_index,referenced_works,cited_by_api_url&mailto=vnageshwaran@gmail.com",
+      "in_probe_set": true
+    },
+    {
+      "seed": "AgentRecBench",
+      "hint": "AgentRecBench benchmark agentic recommender",
+      "arxiv": null,
+      "source_verified": false,
+      "matched_oa_id": "",
+      "matched_doi": "",
+      "query_url": "https://api.openalex.org/works?search=AgentRecBench%20benchmark%20agentic%20recommender&per_page=3&select=id,doi,title,display_name,publication_year,publication_date,type,authorships,primary_location,locations,cited_by_count,open_access,abstract_inverted_index,referenced_works,cited_by_api_url&mailto=vnageshwaran@gmail.com",
+      "in_probe_set": false
+    },
+    {
+      "seed": "InnovatorBench",
+      "hint": "InnovatorBench benchmark LLM agents research innovation",
+      "arxiv": null,
+      "source_verified": false,
+      "matched_oa_id": "",
+      "matched_doi": "",
+      "query_url": "https://api.openalex.org/works?search=InnovatorBench%20benchmark%20LLM%20agents%20research%20innovation&per_page=3&select=id,doi,title,display_name,publication_year,publication_date,type,authorships,primary_location,locations,cited_by_count,open_access,abstract_inverted_index,referenced_works,cited_by_api_url&mailto=vnageshwaran@gmail.com",
+      "in_probe_set": false
+    },
+    {
+      "seed": "ClawBench",
+      "hint": "ClawBench benchmark agent",
+      "arxiv": null,
+      "source_verified": false,
+      "matched_oa_id": "",
+      "matched_doi": "",
+      "query_url": "https://api.openalex.org/works?search=ClawBench%20benchmark%20agent&per_page=3&select=id,doi,title,display_name,publication_year,publication_date,type,authorships,primary_location,locations,cited_by_count,open_access,abstract_inverted_index,referenced_works,cited_by_api_url&mailto=vnageshwaran@gmail.com",
+      "in_probe_set": false
+    },
+    {
+      "seed": "tau-bench",
+      "hint": "tau-bench A Benchmark for Tool-Agent-User Interaction in Real-World Domains",
+      "arxiv": "2406.12045",
+      "source_verified": false,
+      "matched_oa_id": "",
+      "matched_doi": "",
+      "query_url": "https://api.openalex.org/works?search=tau-bench%20A%20Benchmark%20for%20Tool-Agent-User%20Interaction%20in%20Real-World%20Domains&per_page=3&select=id,doi,title,display_name,publication_year,publication_date,type,authorships,primary_location,locations,cited_by_count,open_access,abstract_inverted_index,referenced_works,cited_by_api_url&mailto=vnageshwaran@gmail.com",
+      "in_probe_set": false
+    },
+    {
+      "seed": "AgentBoard",
+      "hint": "AgentBoard An Analytical Evaluation Board of Multi-turn LLM Agents",
+      "arxiv": "2401.13178",
+      "source_verified": true,
+      "matched_oa_id": "W4391244521",
+      "matched_doi": "10.48550/arxiv.2401.13178",
+      "query_url": "https://api.openalex.org/works?search=AgentBoard%20An%20Analytical%20Evaluation%20Board%20of%20Multi-turn%20LLM%20Agents&per_page=3&select=id,doi,title,display_name,publication_year,publication_date,type,authorships,primary_location,locations,cited_by_count,open_access,abstract_inverted_index,referenced_works,cited_by_api_url&mailto=vnageshwaran@gmail.com",
+      "in_probe_set": true
+    },
+    {
+      "seed": "VisualWebArena",
+      "hint": "VisualWebArena Evaluating Multimodal Agents on Realistic Visual Web Tasks",
+      "arxiv": "2401.13649",
+      "source_verified": true,
+      "matched_oa_id": "W4402667024",
+      "matched_doi": "10.18653/v1/2024.acl-long.50",
+      "query_url": "https://api.openalex.org/works?search=VisualWebArena%20Evaluating%20Multimodal%20Agents%20on%20Realistic%20Visual%20Web%20Tasks&per_page=3&select=id,doi,title,display_name,publication_year,publication_date,type,authorships,primary_location,locations,cited_by_count,open_access,abstract_inverted_index,referenced_works,cited_by_api_url&mailto=vnageshwaran@gmail.com",
+      "in_probe_set": true
+    },
+    {
+      "seed": "ToolEmu",
+      "hint": "Identifying the Risks of LM Agents with an LM-Emulated Sandbox",
+      "arxiv": "2309.15817",
+      "source_verified": true,
+      "matched_oa_id": "W4387164935",
+      "matched_doi": "10.48550/arxiv.2309.15817",
+      "query_url": "https://api.openalex.org/works?search=Identifying%20the%20Risks%20of%20LM%20Agents%20with%20an%20LM-Emulated%20Sandbox&per_page=3&select=id,doi,title,display_name,publication_year,publication_date,type,authorships,primary_location,locations,cited_by_count,open_access,abstract_inverted_index,referenced_works,cited_by_api_url&mailto=vnageshwaran@gmail.com",
+      "in_probe_set": true
+    }
+  ]
+}

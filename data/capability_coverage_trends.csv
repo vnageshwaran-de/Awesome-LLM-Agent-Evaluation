@@ -1,0 +1,5 @@
+year,n,framing,Planning_share,Reasoning_share,ToolUse_share,Coding_share,Memory_share,Collaboration_share,ScientificDiscovery_share,Recommendation_share,LongHorizonExecution_share,WebInteraction_share
+2023,41,SHARE_directionally_reliable,0.049,0.317,0.317,0.512,0.098,0.122,0.0,0.049,0.073,0.122
+2024,109,SHARE_directionally_reliable,0.165,0.202,0.431,0.505,0.101,0.055,0.073,0.018,0.073,0.165
+2025,88,SHARE_directionally_reliable,0.148,0.205,0.295,0.386,0.068,0.216,0.045,0.011,0.057,0.205
+2026,21,SHARE_directionally_reliable,0.238,0.143,0.476,0.524,0.19,0.286,0.048,0.0,0.095,0.19

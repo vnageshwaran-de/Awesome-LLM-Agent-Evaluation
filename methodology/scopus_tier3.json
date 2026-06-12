@@ -1,0 +1,35 @@
+{
+  "database": "Scopus (Elsevier)",
+  "tier": 3,
+  "access": "authenticated browser UI (institutional: University of the Cumberlands)",
+  "captured": "2026-06-08",
+  "method": "Advanced-search form submit was blocked by the SPA handler; used the reproducible results.uri GET endpoint instead (session-scoped). Probe lookups run one-at-a-time with delays; no bulk export, no CAPTCHA bypass.",
+  "registration_query": {
+    "query": "TITLE-ABS-KEY((\"large language model\" OR LLM) AND (agent OR autonomous) AND (benchmark OR evaluation)) AND PUBYEAR > 2022 AND PUBYEAR < 2027",
+    "url": "https://www.scopus.com/results/results.uri?src=s&sot=b&sdt=b&s=TITLE-ABS-KEY((%22large%20language%20model%22%20OR%20LLM)%20AND%20(agent%20OR%20autonomous)%20AND%20(benchmark%20OR%20evaluation))%20AND%20PUBYEAR%20%3E%202022%20AND%20PUBYEAR%20%3C%202027",
+    "result_count": 4836,
+    "field_scoping": "honored (TITLE-ABS-KEY field code accepted)",
+    "status": "count_only_verified"
+  },
+  "probe_method": "TITLE-scoped lookups (TITLE(\"<name>\")); found=1 iff the canonical benchmark paper's own title is the indexed record. This is stricter and more accurate than the ALL-field probes used as a first pass (ALL() matched reference lists and returned hundreds of citing works).",
+  "probe_lookups": [
+    {"benchmark": "AgentBench",     "query": "TITLE(\"AgentBench\")",                          "found": 1, "matched_title": "AGENTBENCH: EVALUATING LLMS AS AGENTS"},
+    {"benchmark": "SWE-bench",      "query": "TITLE(\"SWE-bench\" AND \"GitHub Issues\")",       "found": 1, "matched_title": "SWE-BENCH: CAN LANGUAGE MODELS RESOLVE REAL-WORLD GITHUB ISSUES?"},
+    {"benchmark": "GAIA",           "query": "TITLE(\"GAIA\") AND TITLE-ABS-KEY(\"General AI Assistants\")", "found": 1, "matched_title": "GAIA: A BENCHMARK FOR GENERAL AI ASSISTANTS"},
+    {"benchmark": "AppWorld",       "query": "TITLE(\"AppWorld\")",                             "found": 1, "matched_title": "AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents"},
+    {"benchmark": "OSWorld",        "query": "TITLE(\"OSWorld\")",                              "found": 1, "matched_title": "OSWORLD: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments"},
+    {"benchmark": "MLE-bench",      "query": "TITLE(\"MLE-bench\")",                            "found": 1, "matched_title": "MLE-BENCH: EVALUATING MACHINE LEARNING AGENTS ON MACHINE LEARNING ENGINEERING"},
+    {"benchmark": "DataSciBench",   "query": "TITLE(\"DataSciBench\")",                         "found": 0, "matched_title": null, "note": "0 results; Feb-2025 arXiv preprint not yet indexed in Scopus"},
+    {"benchmark": "AgentBoard",     "query": "TITLE(\"AgentBoard\")",                           "found": 1, "matched_title": "AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents"},
+    {"benchmark": "VisualWebArena", "query": "TITLE(\"VisualWebArena\")",                       "found": 1, "matched_title": "VisualWebArena: Evaluating Multimodal Agents on Realistic Visually Grounded Web Tasks"},
+    {"benchmark": "ToolEmu",        "query": "TITLE(\"ToolEmu\") OR TITLE(\"LM-Emulated Sandbox\")", "found": 1, "matched_title": "IDENTIFYING THE RISKS OF LM AGENTS WITH AN LM-EMULATED SANDBOX"}
+  ],
+  "interpretation": {
+    "probe_recall_scopus": "9/10",
+    "probe_2x2_openalex_vs_scopus": {"found_in_both": 9, "openalex_only": 1, "scopus_only": 0, "neither": 0, "probe_n": 10},
+    "key_finding": "Unlike IEEE/ACM/ScienceDirect (each 0/10, hosting only citing works), Scopus indexes the canonical benchmark PAPER ITSELF for 9 of 10 probes (all but DataSciBench, a 2025 preprint). Scopus covers the ICLR/NeurIPS/ACL/AAAI proceedings where these benchmarks are archivally published. Every one of those 9 is also present in OpenAlex (Scopus_only = 0), so the probe gap against the full source union remains 0.0.",
+    "implication_for_recall": "Scopus is the first genuinely independent index that corroborates OpenAlex on canonical coverage. Its 9/10 recall and 9/9 overlap with OpenAlex directly support the probe-proxy conclusion (canonical recall ~complete) and confirm that the unstable Crossref capture-recapture point value (implied 7.7%) is a heterogeneity artifact, not a real recall measurement.",
+    "corpus_capture_recapture": "Not computed at corpus level: the 4,836 figure is the unscreened TITLE-ABS-KEY field count, not a same-population screened include set comparable to the 259 OpenAlex includes, and record-level overlap m would require export (gated). Reporting the probe-set 2x2 and registered count only; capture-recapture corpus N_hat from Scopus = UNRESOLVED:export_gated.",
+    "label": "estimate-supporting evidence; probe columns verified via live authenticated UI"
+  }
+}

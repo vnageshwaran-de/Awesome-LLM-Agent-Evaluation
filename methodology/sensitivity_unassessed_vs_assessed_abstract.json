@@ -1,0 +1,102 @@
+{
+ "included_n": 259,
+ "setaside_with_abstract_n": 212,
+ "attributes": [
+  {
+   "attribute": "CAP:ToolUse",
+   "assessed_share": 0.371,
+   "setaside_share": 0.514,
+   "delta": 0.143
+  },
+  {
+   "attribute": "ENV:RealWorld",
+   "assessed_share": 0.309,
+   "setaside_share": 0.434,
+   "delta": 0.125
+  },
+  {
+   "attribute": "CAP:LongHorizonExecution",
+   "assessed_share": 0.069,
+   "setaside_share": 0.184,
+   "delta": 0.114
+  },
+  {
+   "attribute": "CAP:Coding",
+   "assessed_share": 0.467,
+   "setaside_share": 0.552,
+   "delta": 0.085
+  },
+  {
+   "attribute": "CAP:Reasoning",
+   "assessed_share": 0.216,
+   "setaside_share": 0.297,
+   "delta": 0.081
+  },
+  {
+   "attribute": "ENV:Interactive",
+   "assessed_share": 0.521,
+   "setaside_share": 0.58,
+   "delta": 0.059
+  },
+  {
+   "attribute": "CAP:Collaboration",
+   "assessed_share": 0.263,
+   "setaside_share": 0.212,
+   "delta": -0.05
+  },
+  {
+   "attribute": "CAP:Memory",
+   "assessed_share": 0.097,
+   "setaside_share": 0.142,
+   "delta": 0.045
+  },
+  {
+   "attribute": "CAP:ScientificDiscovery",
+   "assessed_share": 0.05,
+   "setaside_share": 0.09,
+   "delta": 0.039
+  },
+  {
+   "attribute": "CAP:WebInteraction",
+   "assessed_share": 0.174,
+   "setaside_share": 0.137,
+   "delta": -0.037
+  },
+  {
+   "attribute": "ENV:Embodied",
+   "assessed_share": 0.108,
+   "setaside_share": 0.075,
+   "delta": -0.033
+  },
+  {
+   "attribute": "ENV:Static",
+   "assessed_share": 0.27,
+   "setaside_share": 0.302,
+   "delta": 0.032
+  },
+  {
+   "attribute": "ENV:Simulated",
+   "assessed_share": 0.208,
+   "setaside_share": 0.241,
+   "delta": 0.032
+  },
+  {
+   "attribute": "CAP:Planning",
+   "assessed_share": 0.251,
+   "setaside_share": 0.245,
+   "delta": -0.006
+  },
+  {
+   "attribute": "CAP:Recommendation",
+   "assessed_share": 0.019,
+   "setaside_share": 0.014,
+   "delta": -0.005
+  },
+  {
+   "attribute": "ENV:Dynamic",
+   "assessed_share": 0.181,
+   "setaside_share": 0.179,
+   "delta": -0.002
+  }
+ ]
+}

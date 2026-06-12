@@ -1,0 +1,100 @@
+Quantifying Bias in Agentic Large Language Models: A Benchmarking Approach
+ASIC-Agent: An Autonomous Multi-Agent System for ASIC Design with Benchmark Evaluation
+Multi-Agent Systems and Agentic AI in Business Process Automation: Taxonomy, Benchmarks, and an Open Research Agenda
+Benchmarking Multi-Agent LLM and Single Agent LLM Efficiency for Contextual Text Generation
+Development and Evaluation of an Agentic RAG with Embedded LLM-as-a Judge for Heart Failure Management: A Pilot Study
+A Unified Evaluation Framework for Grounded LLM Architectures: Comparative Analysis of RAG, Self-RAG, and Agentic RAG
+A Critical Evaluation of Agentic AI in Cybersecurity: The Pros and the Cons
+RefuteBench 2.0 – Agentic Benchmark for Dynamic Evaluation of LLM Responses to Refutation Instruction
+Agentic AI in Healthcare and Medicine: A Seven-Dimensional Taxonomy for Empirical Evaluation of LLM-Based Agents
+A benchmark for multi-agent control of energy systems: The European economic area hybrid electricity network benchmark
+Proposal for a Flexible Benchmark for Agent Based Models
+Rethinking Change Detection: Benchmarking Multi-Agent Remote Sensing Image Change Understanding
+MAIA: A Multidimensional Benchmark for Assessing Medical AI Agents
+FinMCP-Bench: Benchmarking LLM Agents for Real-World Financial Tool Use Under the Model Context Protocol
+FOCAL: A Novel Benchmarking Technique for Multi-modal Agents
+Evaluating LLM-based Role-playing Agent Authenticity via Event-driven Response Simulation: A Benchmark on Real-World Events Responses
+Benchmarking AI Agents for IT Automation Tasks with ITBench
+CoSQA+: Enhancing Code Search Evaluation With a Multi-Choice Benchmark and Test-Driven Agents
+Evaluation and Benchmarking the Agent Marketing Dialogue Scenarios with Large Language Models
+AI Agents: Design and Evaluation of Gamified Conversational Agents
+Symbolic Agent-Based Simulation of Human vs AI Agents for Task Navigation and Evaluation of Performance
+Machine Learning vs. Agentic AI: Benchmarking RNA-Seq Disease Prediction with Candidate Biomarker Identification
+A Multi-Scale Attention Aggregation Framework for Agentic Tropical Rainforest Change Analysis and a New Benchmark Dataset
+An Agentic Approach to Synthetic Data Generation: Building and Benchmarking a COPA Dataset for Indonesian Language and Dialects
+IEBench: Benchmarking Unlearning Identity-Event Entangled Concepts for MLLM-Based Systems in Agentic Edge Networks
+From Binary to Multi-Class: Benchmarking AutoGluon Against Classical Machine Learning for Diabetes Prediction and the Rise of Agentic Clinical AI
+Super-Resolution Ultrasound Imaging of Tumor Angiogenesis and Evaluation of Treatment Response to a Vascular Disrupting Agent
+Achieving Fairness in DareFightingICE Agents Evaluation Through a Delay Mechanism
+Dynamic Pickup and Delivery Task Allocation in Multi-Agent Robotic Systems: Vacancy Chain Approaches Evaluation
+IDE: A Multi-Agent-Driven Iterative Framework for Dynamic Evaluation of LLMs
+SocialNormVR: Designing Symmetrical Reality Testbeds for AI Agent Social Norm Evaluation
+Comparative Evaluation of Neural Network and Agent-Based Models for Organic Chemistry Reaction Predictions
+Vulnerability Evaluation of Multi-Agent Reinforcement Learning-Based Distributed Secondary Voltage Control in Microgrids
+Multi-Agent-Based Network Traffic Dataset Quality Evaluation Framework
+The Optimization Design Method of Geogrid Slope Support System Based on Carbon Benefit Evaluation and AI Agent Model
+NetIQ: A Tri-Modular Dynamic Evaluation Framework for Intelligent Agent Networks
+AutoGen-TraceKit: A Lightweight Framework for Process-Aware Evaluation of LLM Agents
+Agent Kinematic Domain Randomization for Simulation-Based Performance Evaluation of Wearable Robots
+A Heuristic-First Evaluation Framework for Marketing AI Agents: Judging Quality, Actionability, and Trust
+Evaluation of Multi-Armed Bandit Decision Making in Multi-Agent Cyber Physical Games
+Design and Evaluation of an Emotionally Intelligent Conversational Agent With Long-Term Context Awareness
+LLM-Based Dynamic Multi-Agent Systems for Evaluation of Financial Trading Mechanism
+LLM Agents for Interactive Workflow Provenance: Reference Architecture and Evaluation Methodology
+A Multi-Agent AI Framework for Agile Workflow Automation, Issue Resolution, and Developer Performance Evaluation
+Multi-Agent Cooperative Perception: A Structural Evaluation Framework for Autonomous Systems
+Evaluation of a State-Aware Conversational AI Agent for Immersive Anatomy Education
+Construction of a Quality Evaluation Index System for Response Texts in Medical AI Agents
+Reliability Evaluation Method for Data Flow Control in Substation Interval Renovation Based on Multi-agent Algorithm
+Imaging of microcirculation enhanced with optical clearing agents and evaluation of their effect on blood microrheology
+Experimental Evaluation of Human Skin Optical Clearing in vivo Efficiency Using Biocompatible Agents and Optical Coherence Tomography
+Evaluation of Fault Isolability in Multi-Agent Systems
+Modeling and Simulation Evaluation of Equipment Support System Vulnerability Based on Multi-agent
+Reliability Analysis and Evaluation Method of Harvesting Robots Based on Multi-Agent System
+AI-Enhanced Agent-Based Simulation for Urban Mobility Policy Evaluation: Driving Restriction Zones in the Paris Region
+MACS: A Cognitive Diversity Multi-Agent Consensus Framework for Bias Mitigation in Automated Evaluation Systems
+Intelligent Automation of Student Record Standardization: An Evaluation of Multi-AI Agent Efficacy in Educational Administration
+Synthesis and performance evaluation of a novel organic-inorganic wellbore enhancing agent for wellbore stability in water-based drilling fluids
+SafeDoc Agent for Facility Safety Report Evaluation
+Evaluation of Optical Clearing Agents and Mechanical Compression on Light Penetration in Skin Using Optical Coherence Tomography
+Research on Scenario-Specific Evaluation of Converter Equipment Operation and Maintenance and Intelligent Agent Decision-Making Technology for Operational Maintenance
+Research on Task Planning and Efficiency Evaluation of Multi-Agent Collaborative Search Based on Ant Colony Optimization
+Multi-Agent Collaborative Closed-Loop Planning - Evaluation - Assessment Framework: Optimization and Interpretability Evaluation
+Agentic AI Systems: Architecture and Evaluation Using a Frictionless Parking Scenario
+Agentic AI Security: Threats, Defenses, Evaluation, and Open Challenges
+Task-Specific Trust Evaluation for Multi-Hop Collaborator Selection via GNN-Aided Distributed Agentic AI
+Evaluation of LLM Powered Agentic AI for Solving Multi-Arm Bandit Problems
+Future-Proofing Identity Security for Agentic AI Systems: Design, Implementation, and Evaluation of an Identity Fabric
+Agentic AI for Automated Grading: System Design, Baseline Study, and Empirical Evaluation
+Bridging Gaps in Agentic AI: Verification, Coordination, and Evaluation
+Agentic AI Framework for Low-Resource Essay Evaluation via Scoring, Explanation, and Debate
+AgentQE-Bench: A Reproducible Evaluation Framework for Agentic AI Reliability, Safety, and ROI in CI/CD Pipelines
+FARE: Financial Agentic Reasoning and Evaluation for Earnings Call Transcripts
+Retrieval Augmented Generation (RAG) for Fintech: Agentic Design and Evaluation
+Agentic AI Meets RAG: A Framework for Domain-Specific Knowledge Evaluation
+ALIVE: An Agentic Longitudinal IDE-IPA Value Evaluation Framework for Innovation-Driven Enterprise Assessment
+The Rational Agent Benchmark for Data Visualization
+ComfyBench: Benchmarking LLM-based Agents in ComfyUI for Autonomously Designing Collaborative AI Systems
+Coding Agents: A Comprehensive Survey of Automated Bug Fixing Systems and Benchmarks
+CFA-Bench: Cybersecurity Forensic Llm Agent Benchmark and Testing
+Sketchtopia: A Dataset and Foundational Agents for Benchmarking Asynchronous Multimodal Communication with Iconic Feedback
+OpenCDA-MARL: A Unified Benchmarking Framework for Cooperative Autonomous Intersection Management With Multi-Agent Reinforcement Learning
+Benchmarking Reference-Free LLM Agent Robustness Under Schema, Policy, and Toolset Drift
+Toward Reliable Annotation in Low-Resource NLP: A Mixture of Agents Framework and Multi-LLM Benchmarking
+Benchmarking Heuristic and Cooperative Agents in AbstractSwarm Logistics Scenarios
+ChemPaperBench: A Multi-Domain Benchmark for Literature-Grounded Chemical Reasoning of LLM-Based Multi-Agent Systems
+Benchmarking Sequential Against Parallel Reinforcement Learning for Multi-Agent Swarms in Dynamic Environments
+AeroVerse: UAV-Agent Benchmark Suite for Simulating, Pre-training, Finetuning, and Evaluating Aerospace Embodied Foundation Models
+AutoONBench: a benchmark for large language model agents in autonomous optical networks
+KGCE: Knowledge-Augmented Dual-Graph Evaluator for Cross-Platform Educational Agent Benchmarking with Multimodal Language Models
+MEWA: A Benchmark For Meta-Learning in Collaborative Working Agents
+Benchmarking Offensive AI Agents Through the Autonomous Attack Chain
+PillagerBench: Benchmarking LLM-Based Agents in Competitive Minecraft Team Environments
+OmniCharacter++: Towards Comprehensive Benchmark for Realistic Role-Playing Agents
+Benchmarking Multi-Agent Collaboration Against Single LLM Systems in E-Commerce
+Benchmarking Holonic Delegation vs Flat Multi-Agent Coordination for Disruption-Resilient Supply Chain Workflows: A Mesa-Based ABM Study
+RevOpsBench: A Large-Scale Benchmark for Evaluating LLM Agents on Enterprise CRM Operations
+DSGBench: A Diverse Strategic Game Benchmark for Evaluating LLM-Based Agents in Complex Decision-Making Environments
+Multi-Agent Reinforcement Learning With Policy Clipping and Average Evaluation for UAV-Assisted Communication Markov Game
+Optimizing Control of Wastewater Treatment Plant With Reinforcement Learning: Technical Evaluation of Twin-Delayed Deep Deterministic Policy Gradient Agent
+PandORA: Automated Design and Comprehensive Evaluation of Deep Reinforcement Learning Agents for Open RAN

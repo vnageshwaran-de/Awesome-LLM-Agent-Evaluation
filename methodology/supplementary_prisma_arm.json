@@ -1,0 +1,41 @@
+{
+ "supplementary_multisource_search": {
+  "date": "2026-06-08/09",
+  "protocol": "identical title-scoped query as OpenAlex Tier-1, per-platform Title field, 2023-2026",
+  "databases": {
+   "SpringerLink": {
+    "identified": 172,
+    "query": "title=(agent OR agentic) AND (benchmark OR evaluation)"
+   },
+   "IEEE Xplore": {
+    "identified": 182,
+    "query": "(\"Document Title\":agent OR agentic) AND (\"Document Title\":benchmark OR evaluation)"
+   },
+   "ACM DL": {
+    "identified": 226,
+    "query": "[Title:(agent OR agentic)] AND [Title:(benchmark OR evaluation)]",
+    "note": "re-scoped from 17,231 broad-expansion"
+   }
+  },
+  "identified_total": 580,
+  "duplicates_with_primary_removed": 56,
+  "dup_by_source": {
+   "Springer": 5,
+   "IEEE": 23,
+   "ACM": 28
+  },
+  "screened_unique": 524,
+  "excluded_offtopic_title_level": 339,
+  "candidates_dual_screened": 185,
+  "candidate_decisions": {
+   "include": 35,
+   "exclude": 150,
+   "uncertain_held_out": 0
+  },
+  "new_studies_included": 35,
+  "reconciliation": "580-56=524 screened; 524=339+185; 185=141+6+38",
+  "primary_included": 259,
+  "living_review_corpus_total": 294,
+  "note": "6 Uncertain conservatively excluded pending full-text; 8 title-based Includes flagged for full-text confirmation. Co-author decisions logged in coauthor_screening_returned.csv."
+ }
+}

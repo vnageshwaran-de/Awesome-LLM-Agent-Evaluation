@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this repository or the survey, please cite the paper below."
+title: "Large Language Model Agent Evaluation and Benchmarking: A Systematic Survey, Meta-Taxonomy, and Critical Research Roadmap"
+type: software
+authors:
+  - family-names: "Nageshwaran"
+    given-names: "Vinoth"
+    affiliation: "School of Computer & Information Sciences, University of the Cumberlands, Williamsburg, KY, USA"
+    email: "vnageshwaran41452@ucumberlands.edu"
+  - family-names: "Ezekiel"
+    given-names: "Soundararajan"
+    affiliation: "Department of Mathematical and Computer Sciences, Indiana University of Pennsylvania, Indiana, PA, USA"
+repository-code: "https://github.com/vnageshwaran-de/Awesome-LLM-Agent-Evaluation"
+license: CC-BY-4.0
+preferred-citation:
+  type: article
+  title: "Large Language Model Agent Evaluation and Benchmarking: A Systematic Survey, Meta-Taxonomy, and Critical Research Roadmap"
+  journal: "Artificial Intelligence Review"
+  year: 2026
+  notes: "Under review. Volume, issue, pages, and DOI to be added on acceptance (no-fabrication policy)."
+  authors:
+    - family-names: "Nageshwaran"
+      given-names: "Vinoth"
+    - family-names: "Ezekiel"
+      given-names: "Soundararajan"

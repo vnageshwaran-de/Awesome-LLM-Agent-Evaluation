@@ -1,0 +1,166 @@
+oa_id,title,direction,parent,decision,rationale
+W3027879771,Affordance-Compiled Intelligence: Observable-Only Cognitive Impedance Matching for No-Meta LLM-Integrated Systems,backward,W4408167800,included,"agent+eval, no EC"
+W4391136507,A Survey on Evaluation of Large Language Models,backward,W4408167800,included,"agent+eval, no EC"
+W4382246105,Recent Advances in Natural Language Processing via Large Pre-trained Language Models: A Survey,backward,W4408167800,excluded,no agent/eval or EC match
+W4385452929,From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy,backward,W4408167800,excluded,no agent/eval or EC match
+W4390490761,Explainability for Large Language Models: A Survey,backward,W4408167800,excluded,no agent/eval or EC match
+W4391582407,Revolutionizing Cyber Threat Detection With Large Language Models: A Privacy-Preserving BERT-Based Lightweight Model for IoT/IIoT Devices,backward,W4408167800,excluded,no agent/eval or EC match
+W4381186802,Monte Carlo and variance reduction methods for structural reliability analysis: A comprehensive review,backward,W4408167800,excluded,no agent/eval or EC match
+W4321497442,Survey on Intrusion Detection Systems Based on Machine Learning Techniques for the Protection of Critical Infrastructure,backward,W4408167800,excluded,no agent/eval or EC match
+W4386869719,"Edge Learning for 6G-Enabled Internet of Things: A Comprehensive Survey of Vulnerabilities, Datasets, and Defenses",backward,W4408167800,excluded,no agent/eval or EC match
+W4387527822,Artificial Intelligence for Safety-Critical Systems in Industrial and Transportation Domains: A Survey,backward,W4408167800,included,"agent+eval, no EC"
+W4384834994,Generative AI for Cyber Threat-Hunting in 6G-enabled IoT Networks,backward,W4408167800,excluded,no agent/eval or EC match
+W4385380676,TwinPort: 5G drone-assisted data collection with digital twin for smart seaports,backward,W4408167800,excluded,no agent/eval or EC match
+W4384026520,LLMSecEval: A Dataset of Natural Language Prompts for Security Evaluations,backward,W4408167800,excluded,no agent/eval or EC match
+W4319993397,Multi-Agent Distributed Deep Learning Algorithm to Detect Cyber-Attacks in Distance Relays,backward,W4408167800,included,"agent+eval, no EC"
+W4387870108,TwinPot: Digital Twin-assisted Honeypot for Cyber-Secure Smart Seaports,backward,W4408167800,excluded,no agent/eval or EC match
+W4393028284,Digital Twin-Empowered Smart Attack Detection System for 6G Edge of Things Networks,backward,W4408167800,excluded,no agent/eval or EC match
+W4389459384,Predictive Reliability Analysis of Power Distribution Systems Considering the Effects of Seasonal Factors on Outage Data Using Weibull Analy,backward,W4408167800,excluded,no agent/eval or EC match
+W4319338784,Using Domain-Augmented Federated Learning to Model Thermostatically Controlled Loads,backward,W4408167800,excluded,no agent/eval or EC match
+W4386246776,"Reliability Function of the Connected-(2,2)-out-of-(m,n): F Linear and Circular System Using Markov Chain",backward,W4408167800,excluded,no agent/eval or EC match
+W4393065402,A survey on large language model based autonomous agents,backward,W4408167800,included,"agent+eval, no EC"
+W4391849646,Ethical and regulatory challenges of AI technologies in healthcare: A narrative review,backward,W4413801638,excluded,no agent/eval or EC match
+W4403203873,"A survey on LLM-based multi-agent systems: workflow, infrastructure, and challenges",backward,W4408167800,included,"agent+eval, no EC"
+W4401023556,DiffECG: Diffusion Model-Powered Label-Efficient and Personalized Arrhythmia Diagnosis,backward,W4408167800,excluded,no agent/eval or EC match
+W4401211704,Splitwise: Efficient Generative LLM Inference Using Phase Splitting,backward,W4408167800,excluded,no agent/eval or EC match
+W4405079446,LLM-based agentic systems in medicine and healthcare,backward,W4413801638,excluded,no agent/eval or EC match
+W4385290206,Artificial Intelligence in U.S. Health Care Delivery,backward,W4413801638,excluded,no agent/eval or EC match
+W4402350363,"LLM-Based Edge Intelligence: A Comprehensive Survey on Architectures, Applications, Security and Trustworthiness",backward,W4408167800,excluded,no agent/eval or EC match
+W4391259883,Efficient healthcare with large language models: optimizing clinical workflow and enhancing patient care,backward,W4413801638,excluded,no agent/eval or EC match
+W4393763811,"Survey on Large Language Model-Enhanced Reinforcement Learning: Concept, Taxonomy, and Methods",backward,W4413801638,included,"agent+eval, no EC"
+W4401847454,Balancing act: the complex role of artificial intelligence in addressing burnout and healthcare workforce dynamics,backward,W4413801638,excluded,no agent/eval or EC match
+W4401004521,A survey of large language models for cyber threat detection,backward,W4408167800,excluded,no agent/eval or EC match
+W4407203427,The rise of agentic AI teammates in medicine,backward,W4413801638,excluded,no agent/eval or EC match
+W4406371336,Large Language Models lack essential metacognition for reliable medical reasoning,backward,W4413801638,excluded,no agent/eval or EC match
+W4394842314,How artificial intelligence could transform emergency care,backward,W4413801638,excluded,no agent/eval or EC match
+W4403196715,Early-Exit Deep Neural Network - A Comprehensive Survey,backward,W4408167800,excluded,no agent/eval or EC match
+W4397042146,Implications of Large Language Models for Quality and Efficiency of Neurologic Care,backward,W4413801638,excluded,no agent/eval or EC match
+W4385751981,"Large Language Models and Artificial Intelligence: A Primer for Plastic Surgeons on the Demonstrated and Potential Applications, Promises, a",backward,W4413801638,excluded,no agent/eval or EC match
+W4402811916,CyberMetric: A Benchmark Dataset based on Retrieval-Augmented Generation for Evaluating LLMs in Cybersecurity Knowledge,backward,W4408167800,excluded,no agent/eval or EC match
+W4402389238,AI-Enhanced Digital Twin Framework for Cyber-Resilient 6G Internet of Vehicles Networks,backward,W4408167800,excluded,no agent/eval or EC match
+W4402684113,DebugBench: Evaluating Debugging Capability of Large Language Models,backward,W4408167800,excluded,no agent/eval or EC match
+W4404781813,EHRAgent: Code Empowers Large Language Models for Few-shot Complex Tabular Reasoning on Electronic Health Records,backward,W4413801638,excluded,no agent/eval or EC match
+W4396820575,How secure is AI-generated code: a large-scale comparison of large language models,backward,W4408167800,excluded,no agent/eval or EC match
+W4405241549,Protecting society from AI misuse: when are restrictions on capabilities warranted?,backward,W4408167800,excluded,no agent/eval or EC match
+W4404781082,MMedAgent: Learning to Use Medical Tools with Multi-modal Agent,backward,W4413801638,excluded,no agent/eval or EC match
+W4403411676,SecureQwen: Leveraging LLMs for vulnerability detection in python codebases,backward,W4408167800,excluded,no agent/eval or EC match
+W4402263596,Digi-Infrastructure: Digital Twin-Enabled Traffic Shaping with Low-Latency for 6G Smart Cities,backward,W4408167800,excluded,no agent/eval or EC match
+W4403182151,FedShip: Federated Over-the-Air Learning for Communication-Efficient and Privacy-Aware Smart Shipping in 6G Communications,backward,W4408167800,excluded,no agent/eval or EC match
+W4404317680,"A Survey of LLM-based Agents: Theories, Technologies, Applications and Suggestions",backward,W4408167800,included,"agent+eval, no EC"
+W4404371719,"Smart Mission Critical Service Management: Architecture, Deployment Options, and Experimental Results",backward,W4408167800,excluded,no agent/eval or EC match
+W4402159402,Cyber-Twin: Digital Twin-Boosted Autonomous Attack Detection for Vehicular Ad-Hoc Networks,backward,W4408167800,included,"agent+eval, no EC"
+W4404725314,AttackER: Towards Enhancing Cyber-Attack Attribution with a Named Entity Recognition Dataset,backward,W4408167800,excluded,no agent/eval or EC match
+W4406458640,Dynamic Intelligence Assessment: Benchmarking LLMs on the Road to AGI with a Focus on Model Confidence,backward,W4408167800,excluded,no agent/eval or EC match
+W4408973064,"The Elastic Electronic Health Record: A Five-Tiered Framework for Applying Artificial Intelligence to Electronic Health Record Maintenance, ",backward,W4413801638,included,"agent+eval, no EC"
+W4397029882,A Systematic Review and Analysis of Ethical Challenges of Generative Ai: An Interdisciplinary Perspective,backward,W4408167800,excluded,no agent/eval or EC match
+W4387835442,Generative Agents: Interactive Simulacra of Human Behavior,backward,W4412877164,included,"agent+eval, no EC"
+W4402442868,AutoCodeRover: Autonomous Program Improvement,backward,W4412877164,included,"agent+eval, no EC"
+W4396832466,"“It's a Fair Game”, or Is It? Examining How Users Navigate Disclosure Risks and Benefits When Using LLM-Based Conversational Agents",backward,W4412877164,excluded,no agent/eval or EC match
+W4385216343,Integrity-based Explanations for Fostering Appropriate Trust in AI Agents,backward,W4412877164,excluded,no agent/eval or EC match
+W4386576859,LongEval: Guidelines for Human Evaluation of Faithfulness in Long-form Summarization,backward,W4412877164,excluded,no agent/eval or EC match
+W4402670877,SocialBench: Sociality Evaluation of Role-Playing Conversational Agents,backward,W4412877164,included,"agent+eval, no EC"
+W4390094929,Predicting Interaction Quality Aspects Using Level-Based Scores for Conversational Agents,backward,W4412877164,included,"agent+eval, no EC"
+W4402669749,"LangSuit·E: Planning, Controlling and Interacting with Large Language Models in Embodied Text Environments",backward,W4412877164,included,"agent+eval, no EC"
+W4404783844,MATSA: Multi-Agent Table Structure Attribution,backward,W4412877164,included,"agent+eval, no EC"
+W4402683931,XMC-Agent : Dynamic Navigation over Scalable Hierarchical Index for Incremental Extreme Multi-label Classification,backward,W4412877164,excluded,no agent/eval or EC match
+W4380353763,Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena,backward,W4412877164,excluded,no agent/eval or EC match
+W4378474282,Gorilla: Large Language Model Connected with Massive APIs,backward,W4412877164,excluded,no agent/eval or EC match
+W4385474529,Counterfactually Auditable Lifecycle Certification for Autonomous Agents,backward,W4412877164,included,"agent+eval, no EC"
+W4391620956,Understanding the planning of LLM agents: A survey,backward,W4412877164,included,"agent+eval, no EC"
+W4409316940,"Advances and Challenges in Foundation Agents: From Brain-Inspired Intelligence to Evolutionary, Collaborative, and Safe Systems",backward,W4412877164,included,"agent+eval, no EC"
+W4404396586,Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks,backward,W4412877164,excluded,no agent/eval or EC match
+W4366327559,API-Bank: A Comprehensive Benchmark for Tool-Augmented LLMs,backward,W4412877164,included,"agent+eval, no EC"
+W4395065101,A Survey on the Memory Mechanism of Large Language Model based Agents,backward,W4412877164,included,"agent+eval, no EC"
+W4391244521,AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents,backward,W4412877164,included,"agent+eval, no EC"
+W4393248299,MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution,backward,W4412877164,included,"agent+eval, no EC"
+W4389261566,TaskBench: Benchmarking Large Language Models for Task Automation,backward,W4412877164,included,"agent+eval, no EC"
+W4399912700,AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents,backward,W4412877164,included,"agent+eval, no EC"
+W4403324055,ScienceAgentBench: Toward Rigorous Assessment of Language Agents for Data-Driven Scientific Discovery,backward,W4412877164,included,"agent+eval, no EC"
+W4405033019,Large Language Model-Brained GUI Agents: A Survey,backward,W4412877164,included,"agent+eval, no EC"
+W4405252842,The BrowserGym Ecosystem for Web Agent Research,backward,W4412877164,included,"agent+eval, no EC"
+W4390137153,T-Eval: Evaluating the Tool Utilization Capability of Large Language Models Step by Step,backward,W4412877164,included,"agent+eval, no EC"
+W4394710846,AgentQuest: A Modular Benchmark Framework to Measure Progress and Improve LLM Agents,backward,W4412877164,included,"agent+eval, no EC"
+W4404342216,AAAR-1.0: Assessing AI's Potential to Assist Research,backward,W4412877164,excluded,no agent/eval or EC match
+W4391244971,VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks,backward,W4412877164,included,"agent+eval, no EC"
+W4394868323,MMInA: Benchmarking Multihop Multimodal Internet Agents,backward,W4412877164,included,"agent+eval, no EC"
+W4399990898,FlowBench: Revisiting and Benchmarking Workflow-Guided Planning for LLM-based Agents,backward,W4412877164,included,"agent+eval, no EC"
+W4402467036,AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents,backward,W4412877164,included,"agent+eval, no EC"
+W4402853589,AssistantBench: Can Web Agents Solve Realistic and Time-Consuming Tasks?,backward,W4412877164,included,"agent+eval, no EC"
+W4406733842,IntellAgent: A Multi-Agent Framework for Evaluating Conversational AI Systems,backward,W4412877164,included,"agent+eval, no EC"
+W4362515116,A Survey of Large Language Models,backward,W4408165425,excluded,no agent/eval or EC match
+W4389520103,Measuring and Narrowing the Compositionality Gap in Language Models,backward,W4408165425,excluded,no agent/eval or EC match
+W4404782930,Fine-Tuning or Retrieval? Comparing Knowledge Injection in LLMs,backward,W4408165425,excluded,no agent/eval or EC match
+W4402671800,Large Language Models are not Fair Evaluators,backward,W4408165425,excluded,no agent/eval or EC match
+W4398757454,Evaluating Correctness and Faithfulness of Instruction-Following Models for Question Answering,backward,W4408165425,excluded,no agent/eval or EC match
+W4387123889,Knowledge-Enhanced Neurosymbolic Artificial Intelligence for Cybersecurity and Privacy,backward,W4408165425,excluded,no agent/eval or EC match
+W4405429486,FCLLM-DT: Enpowering Federated Continual Learning With Large Language Models for Digital-Twin-Based Industrial IoT,backward,W4408165425,excluded,no agent/eval or EC match
+W4399372403,Design of an Autonomous Cyber Defence Agent using Hybrid AI models,backward,W4408165425,included,"agent+eval, no EC"
+W4386952208,A Review of Techniques and Policies on Cybersecurity Using Artificial Intelligence and Reinforcement Learning Algorithms,backward,W4408165425,excluded,no agent/eval or EC match
+W4405103533,Training Autonomous Cyber Defense Agents: Challenges &amp; Opportunities in Military Networks,backward,W4408165425,included,"agent+eval, no EC"
+W4405104214,Towards Robust and Secure Autonomous Cyber Defense Agents in Coalition Networks,backward,W4408165425,included,"agent+eval, no EC"
+W4402307712,Optimization of mitigation deployment using deep reinforcement learning over an enhanced ATT &amp;CK,backward,W4408165425,excluded,no agent/eval or EC match
+W4386883603,Toward Autonomous Cyber Defense for Protected Core Networking,backward,W4408165425,included,"agent+eval, no EC"
+W4386721614,A Survey of Hallucination in Large Foundation Models,backward,W4408165425,excluded,no agent/eval or EC match
+W4399597451,The Prompt Report: A Systematic Survey of Prompt Engineering Techniques,backward,W4408165425,excluded,no agent/eval or EC match
+W4387156782,Design and Evaluation of a Retrieval-Augmented Generation Architecture for OWASP Security Data,backward,W4408165425,excluded,no agent/eval or EC match
+W4323651349,"Foundation Models for Decision Making: Problems, Methods, and Opportunities",backward,W4408165425,included,"agent+eval, no EC"
+W4385749957,Benchmarking LLM powered Chatbots: Methods and Metrics,backward,W4408165425,included,"agent+eval, no EC"
+W4366850593,Automated Mapping of CVE Vulnerability Records to MITRE CWE Weaknesses,backward,W4408165425,excluded,no agent/eval or EC match
+W4386794596,On Autonomous Agents in a Cyber Defence Environment,backward,W4408165425,included,"agent+eval, no EC"
+W4402387469,A RAG-Based Question-Answering Solution for Cyber-Attack Investigation and Attribution,backward,W4408165425,excluded,no agent/eval or EC match
+W4402853547,"Evaluation of Reinforcement Learning for Autonomous Penetration Testing using A3C, Q-learning and DQN",backward,W4408165425,included,"agent+eval, no EC"
+W4403753261,Optimal Defender Strategies for CAGE-2 using Causal Modeling and Tree Search,backward,W4408165425,included,"agent+eval, no EC"
+W4292779060,"Aion Framework: Dimensional Emergence of AI Consciousness, Observer-Induced Collapse, and Cosmological Portal Dynamics",backward,W4400187846,included,"agent+eval, no EC"
+W4385071300,"Generative AI and ChatGPT: Applications, challenges, and AI-human collaboration",backward,W4400187846,excluded,no agent/eval or EC match
+W4378574344,ChatGPT and Open-AI Models: A Preliminary Review,backward,W4400187846,excluded,no agent/eval or EC match
+W4394994587,Recommender Systems in the Era of Large Language Models (LLMs),backward,W4400187846,excluded,no agent/eval or EC match
+W4389519239,Is ChatGPT a Good NLG Evaluator? A Preliminary Study,backward,W4396832912,excluded,no agent/eval or EC match
+W4387394725,SceneCraft: Automating Interactive Narrative Scene Generation in Digital Games with Large Language Models,backward,W4396832912,included,"agent+eval, no EC"
+W4389161785,Assisting Static Analysis with Large Language Models: A ChatGPT Experiment,backward,W4400187846,excluded,no agent/eval or EC match
+W4387431938,Designing Educational Escape Rooms with Generative AI: A Framework and ChatGPT Prompt Engineering Guide,backward,W4396832912,excluded,no agent/eval or EC match
+W4388019311,The Chronicles of ChatGPT: Generating and Evaluating Visual Novel Narratives on Climate Change Through ChatGPT,backward,W4396832912,excluded,no agent/eval or EC match
+W4389002521,How ChatGPT can inspire and improve serious board game design,backward,W4396832912,excluded,no agent/eval or EC match
+W4322501257,An automatic model management system and its implementation for AIOps on microservice platforms,backward,W4400187846,excluded,no agent/eval or EC match
+W4388109601,Playing Story Creation Games with Large Language Models: Experiments with GPT-3.5,backward,W4396832912,excluded,no agent/eval or EC match
+W4386133028,ChatGPT GameJam: Unleashing the power of Large Language Models for Game Jams,backward,W4396832912,excluded,no agent/eval or EC match
+W4388016894,Prompt Engineering for Narrative Choice Generation,backward,W4396832912,excluded,no agent/eval or EC match
+W4384077769,Conversational Agents for Simulation Applications and Video Games,backward,W4396832912,excluded,no agent/eval or EC match
+W4387432010,Integrating Reinforcement AI into the Design of Educational Games,backward,W4396832912,excluded,no agent/eval or EC match
+W4384918448,Llama 2: Open Foundation and Fine-Tuned Chat Models,backward,W4400187846,excluded,no agent/eval or EC match
+W4384389802,A Comprehensive Overview of Large Language Models,backward,W4400187846,excluded,no agent/eval or EC match
+W4383684495,Playing Games With GPT: What Can We Learn About a Large Language Model From Canonical Strategic Games?,backward,W4396832912,excluded,no agent/eval or EC match
+W4384268372,NetGPT: A Native-AI Network Architecture Beyond Provisioning Personalized Generative Services,backward,W4400187846,excluded,no agent/eval or EC match
+W4386302825,AutoDroid: LLM-powered Task Automation in Android,backward,W4400187846,included,"agent+eval, no EC"
+W4388685755,GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation,backward,W4400187846,included,"agent+eval, no EC"
+W4386272856,Mobile Foundation Model as Firmware,backward,W4400187846,excluded,no agent/eval or EC match
+W4387559488,ILuvUI: Instruction-tuned LangUage-Vision modeling of UIs from Machine Conversations,backward,W4400187846,included,"agent+eval, no EC"
+W4385245566,MizAR 60 for Mizar 50,backward,W4404481306,excluded,no agent/eval or EC match
+W4389727268,Mathematical discoveries from program search with large language models,backward,W4404481306,excluded,no agent/eval or EC match
+W4399750638,A survey of safety and trustworthiness of large language models through the lens of verification and validation,backward,W4413025843,excluded,no agent/eval or EC match
+W4388725733,"Large Language Models: A Comprehensive Survey of its Applications, Challenges, Limitations, and Future Prospects",backward,W4404481306,excluded,no agent/eval or EC match
+W4402671506,"LLM-Rubric: A Multidimensional, Calibrated Approach to Automated Evaluation of Natural Language Texts",backward,W4413025843,excluded,no agent/eval or EC match
+W4405183979,Evaluating Binary Classifiers for Cardiovascular Disease Prediction: Enhancing Early Diagnostic Capabilities,backward,W4413025843,excluded,no agent/eval or EC match
+W4386018822,Multi-agent based energy community cost optimization considering high electric vehicles penetration,backward,W4404481306,excluded,no agent/eval or EC match
+W4401024643,Coalition Obstruction Temporal Logic: A New Obstruction Logic to Reason About Demon Coalitions,backward,W4413025843,included,"agent+eval, no EC"
+W4403764183,Predicting Deep Venous Thrombosis Using Artificial Intelligence: A Clinical Data Approach,backward,W4413025843,excluded,no agent/eval or EC match
+W4402670435,You Only Look at Screens: Multimodal Chain-of-Action Agents,backward,W4400187846,included,"agent+eval, no EC"
+W4401042980,When Hindsight is Not 20/20: Testing Limits on Reflective Thinking in Large Language Models,backward,W4413025843,excluded,no agent/eval or EC match
+W4410968179,On the potential of large language models to solve semantics-aware process mining tasks,backward,W4413025843,excluded,no agent/eval or EC match
+W4412781285,Rubric Is All You Need: Improving LLM-Based Code Evaluation With Question-Specific Rubrics,backward,W4413025843,included,"agent+eval, no EC"
+W4409893632,Non-Intrusive Monitoring and Detection of Mobility Loss in Older Adults Using Binary Sensors,backward,W4413025843,excluded,no agent/eval or EC match
+W4411120158,OLMES: A Standard for Language Model Evaluations,backward,W4413025843,excluded,no agent/eval or EC match
+W4386211377,A Multi-Agent System Empowered by Federated Learning and Genetic Programming,backward,W4404481306,included,"agent+eval, no EC"
+W4383900599,A Novel Framework for Multiagent Knowledge-Based Federated Learning Systems,backward,W4404481306,included,"agent+eval, no EC"
+W4367595583,"A Brief Overview of ChatGPT: The History, Status Quo and Potential Future Development",backward,W4403943319,excluded,no agent/eval or EC match
+W4409283616,Towards accurate differential diagnosis with large language models,backward,W4413065709,excluded,no agent/eval or EC match
+W4366563389,GeneGPT: augmenting large language models with domain tools for improved access to biomedical information,backward,W4403943319,excluded,no agent/eval or EC match
+W4388626886,TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs,backward,W4403943319,excluded,no agent/eval or EC match
+W4389518608,API-Bank: A Comprehensive Benchmark for Tool-Augmented LLMs,backward,W4403943319,included,"agent+eval, no EC"
+W4389523767,Theory of Mind for Multi-Agent Collaboration via Large Language Models,backward,W4410087623,included,"agent+eval, no EC"
+W4389518997,In-Context Learning Creates Task Vectors,backward,W4403943319,excluded,no agent/eval or EC match
+W4409162524,Comparison of Initial Artificial Intelligence (AI) and Final Physician Recommendations in AI-Assisted Virtual Urgent Care Visits,backward,W4413065709,excluded,no agent/eval or EC match
+W4389520009,CREATOR: Tool Creation for Disentangling Abstract and Concrete Reasoning of Large Language Models,backward,W4403943319,included,"agent+eval, no EC"
+W4387885925,EVM: Incorporating Model Checking into Exploratory Visual Analysis,backward,W4387885897,excluded,no agent/eval or EC match
+W4389302446,DanZero: Mastering GuanDan Game with Reinforcement Learning,backward,W4410087623,included,"agent+eval, no EC"
+W4411379405,Improving Clinical Note Generation from Complex Doctor-Patient Conversation,backward,W4413065709,excluded,no agent/eval or EC match
+W4400275527,DanZero+: Dominating the <i>GuanDan</i> Game Through Reinforcement Learning,backward,W4410087623,excluded,no agent/eval or EC match
