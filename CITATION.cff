@@ -19,7 +19,14 @@ authors:
     affiliation: "Elizabeth City State University, Elizabeth City, NC, USA"
     email: "lnarasimhan@ecsu.edu"
 repository-code: "https://github.com/vnageshwaran-de/Awesome-LLM-Agent-Evaluation"
+doi: "10.5281/zenodo.20692460"
+version: "v1.0"
+date-released: "2026-06-14"
 license: CC-BY-4.0
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.20692460"
+    description: "Archived v1.0 release on Zenodo"
 preferred-citation:
   type: article
   title: "Large Language Model Agent Evaluation and Benchmarking: A Systematic Survey, Meta-Taxonomy, and Critical Research Roadmap"

@@ -3,9 +3,12 @@
 > The living, community-curated companion to the survey
 > **_Large Language Model Agent Evaluation and Benchmarking: A Systematic Survey, Meta-Taxonomy, and Critical Research Roadmap_** (under review, Springer Nature *Artificial Intelligence Review*).
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20692460.svg)](https://doi.org/10.5281/zenodo.20692460)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Maintenance](https://img.shields.io/badge/Maintained-yes-green.svg)](https://github.com/)
+
+> **Archived release:** v1.0 is permanently archived on Zenodo — DOI [10.5281/zenodo.20692460](https://doi.org/10.5281/zenodo.20692460).
 
 This repository is the open-source, continuously-updated extension of our systematic survey. The paper fixes a snapshot of the field; this repository tracks it as it moves. Every benchmark catalogued here is classified under the same three-pillar **meta-taxonomy** developed in the paper, and the canonical dataset — [`/data/benchmarks.csv`](data/benchmarks.csv) — is the single source of truth that backs both the paper's landscape matrix and this README.
 
@@ -152,7 +155,7 @@ Awesome-LLM-Agent-Evaluation/
 
 ## Citation
 
-If this repository or the survey informs your work, please cite the paper. The paper is currently under review; volume, pages, and DOI will be added on acceptance.
+If this repository or the survey informs your work, please cite the paper. The paper is currently under review; volume, pages, and DOI will be added on acceptance. To cite the repository itself, use the archived release DOI [10.5281/zenodo.20692460](https://doi.org/10.5281/zenodo.20692460).
 
 ```bibtex
 @article{nageshwaran2026llmagenteval,
