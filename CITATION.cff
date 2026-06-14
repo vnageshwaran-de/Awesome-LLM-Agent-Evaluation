@@ -10,6 +10,14 @@ authors:
   - family-names: "Ezekiel"
     given-names: "Soundararajan"
     affiliation: "Department of Mathematical and Computer Sciences, Indiana University of Pennsylvania, Indiana, PA, USA"
+  - family-names: "Tran"
+    given-names: "Tin T."
+    affiliation: "Faculty of Information Technology, Ton Duc Thang University, Ho Chi Minh City, Vietnam"
+    email: "trantrungtin@tdtu.edu.vn"
+  - family-names: "Narasimhan"
+    given-names: "V. Lakshmi"
+    affiliation: "Elizabeth City State University, Elizabeth City, NC, USA"
+    email: "lnarasimhan@ecsu.edu"
 repository-code: "https://github.com/vnageshwaran-de/Awesome-LLM-Agent-Evaluation"
 license: CC-BY-4.0
 preferred-citation:
@@ -23,3 +31,7 @@ preferred-citation:
       given-names: "Vinoth"
     - family-names: "Ezekiel"
       given-names: "Soundararajan"
+    - family-names: "Tran"
+      given-names: "Tin T."
+    - family-names: "Narasimhan"
+      given-names: "V. Lakshmi"

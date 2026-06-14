@@ -158,7 +158,7 @@ If this repository or the survey informs your work, please cite the paper. The p
 @article{nageshwaran2026llmagenteval,
   title   = {Large Language Model Agent Evaluation and Benchmarking:
              A Systematic Survey, Meta-Taxonomy, and Critical Research Roadmap},
-  author  = {Nageshwaran, Vinoth and Ezekiel, Soundararajan},
+  author  = {Nageshwaran, Vinoth and Ezekiel, Soundararajan and Tran, Tin T. and Narasimhan, V. Lakshmi},
   journal = {Artificial Intelligence Review},
   year    = {2026},
   note    = {Under review. Companion repository:
