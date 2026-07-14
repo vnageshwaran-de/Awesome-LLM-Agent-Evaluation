@@ -1,0 +1,11 @@
+lexicon,flagged,audit_n,genuine,precision,wilson_lo,wilson_hi,adjusted_count,adjusted_share_pct
+Coding,121,30,6,0.2,0.095,0.373,24.2,9.3
+ToolUse,96,30,11,0.367,0.219,0.545,35.2,13.6
+Reasoning,56,30,8,0.267,0.142,0.444,14.9,5.8
+WebInteraction,45,30,10,0.333,0.192,0.512,15.0,5.8
+Memory,25,25,4,0.16,0.064,0.347,4.0,1.5
+LongHorizonExecution,18,18,5,0.278,0.125,0.509,5.0,1.9
+Recommendation,5,5,0,0.0,0,0.434,0.0,0.0
+OpenSource,91,30,21,0.7,0.521,0.833,63.7,24.6
+DatasetReleased,57,30,14,0.467,0.302,0.639,26.6,10.3
+DockerSupport,4,4,3,0.75,0.301,0.954,3.0,1.2

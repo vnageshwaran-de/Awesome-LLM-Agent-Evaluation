@@ -979,13 +979,13 @@ def stage_recall_gap(force=False):
 # STAGE 6 — TAXONOMY + TRENDS + PRISMA
 # --------------------------------------------------------------------------- #
 CAP_KEYWORDS = {
-    "Planning": ["plan", "planning", "long-horizon", "long horizon", "subgoal"],
+    "Planning": ["planning", "long-horizon", "long horizon", "subgoal"],  # audit-tightened: bare "plan" dropped (precision 37%)
     "Reasoning": ["reason", "reasoning", "inference"],
     "ToolUse": ["tool", "api", "function call", "tool-use", "tool use"],
     "Coding": ["code", "coding", "software", "github", "swe", "program", "repository"],
     "Memory": ["memory", "long-term", "recall", "context retention"],
-    "Collaboration": ["collaborat", "multi-agent", "multi agent", "cooperat", "team"],
-    "ScientificDiscovery": ["scientif", "research", "discovery", "experiment", "data science", "ml engineering"],
+    "Collaboration": ["collaborat", "cooperat", "coordinat"],  # audit-tightened: "team"/"multi-agent" dropped (precision 27%)
+    "ScientificDiscovery": ["scientif", "discovery", "data science", "ml engineering"],  # audit-tightened: "research"/"experiment" dropped
     "Recommendation": ["recommend", "recommender", "recsys"],
     "LongHorizonExecution": ["long-horizon", "long horizon", "multi-step", "multi step", "sequential task"],
     "WebInteraction": ["web", "browser", "website", "navigation", "html", "webpage"],

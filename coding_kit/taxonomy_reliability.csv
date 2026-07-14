@@ -1,0 +1,27 @@
+attribute,n,percent_agreement,kappa,interpretation
+Planning,36,0.833,0.491,moderate
+Reasoning,36,0.722,0.122,slight
+ToolUse,36,0.861,0.706,substantial
+Coding,36,0.861,0.471,moderate
+Memory,36,1.0,UNDEFINED:no_variance,
+Collaboration,36,0.972,0.786,substantial
+ScientificDiscovery,36,1.0,1.0,almost perfect
+Recommendation,36,1.0,UNDEFINED:no_variance,
+LongHorizonExecution,36,0.917,0.771,substantial
+WebInteraction,36,1.0,1.0,almost perfect
+Static,36,0.861,0.579,moderate
+Interactive,36,0.889,0.68,substantial
+Dynamic,36,0.917,0.625,substantial
+Simulated,36,0.861,0.704,substantial
+RealWorld,36,0.972,0.906,almost perfect
+Embodied,36,1.0,1.0,almost perfect
+Offline,36,0.889,0.68,substantial
+Online,36,0.861,0.619,substantial
+HumanInTheLoop,36,1.0,UNDEFINED:no_variance,
+MultiAgent,36,1.0,1.0,almost perfect
+FullyAutonomous,36,1.0,1.0,almost perfect
+OpenSource,36,1.0,1.0,almost perfect
+DatasetReleased,36,0.972,0.654,substantial
+EnvironmentReleased,36,1.0,1.0,almost perfect
+DockerSupport,36,1.0,1.0,almost perfect
+EvalScriptsAvailable,36,0.972,0.0,slight
